@@ -1,4 +1,6114 @@
 {
-  "windows": [],
-  "filings": {}
+  "windows": [
+    {
+      "run_at": "2026-10-25T21:35:51+08:00",
+      "start": "2026-10-18",
+      "end": "2026-10-25",
+      "hits": 404,
+      "results_filings": 365,
+      "new": 365,
+      "offline": false
+    }
+  ],
+  "filings": {
+    "0001704715-26-000038": {
+      "accession": "0001704715-26-000038",
+      "file_date": "2026-10-23",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "tickers": [
+        "AMR"
+      ],
+      "cik": "1704715",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000038/0001704715-26-000038-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000004962-26-000405": {
+      "accession": "0000004962-26-000405",
+      "file_date": "2026-10-23",
+      "company": "AMERICAN EXPRESS CO",
+      "tickers": [
+        "AXP"
+      ],
+      "cik": "4962",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/0000004962-26-000405-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429404": {
+      "accession": "0001193125-26-429404",
+      "file_date": "2026-10-23",
+      "company": "AUTOLIV INC",
+      "tickers": [
+        "ALV"
+      ],
+      "cik": "1034670",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526429404/0001193125-26-429404-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-430532": {
+      "accession": "0001193125-26-430532",
+      "file_date": "2026-10-23",
+      "company": "Avidia Bancorp, Inc.",
+      "tickers": [
+        "AVBC"
+      ],
+      "cik": "2058758",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526430532/0001193125-26-430532-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000009326-26-000032": {
+      "accession": "0000009326-26-000032",
+      "file_date": "2026-10-23",
+      "company": "BALCHEM CORP",
+      "tickers": [
+        "BCPC"
+      ],
+      "cik": "9326",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/9326/000000932626000032/0000009326-26-000032-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066971": {
+      "accession": "0001628280-26-066971",
+      "file_date": "2026-10-23",
+      "company": "Booz Allen Hamilton Holding Corp",
+      "tickers": [
+        "BAH"
+      ],
+      "cik": "1443646",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1443646/000162828026066971/0001628280-26-066971-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429564": {
+      "accession": "0001193125-26-429564",
+      "file_date": "2026-10-23",
+      "company": "BV Financial, Inc.",
+      "tickers": [
+        "BVFL"
+      ],
+      "cik": "1302387",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1302387/000119312526429564/0001193125-26-429564-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001683168-26-008042": {
+      "accession": "0001683168-26-008042",
+      "file_date": "2026-10-23",
+      "company": "CONSUMER PORTFOLIO SERVICES, INC.",
+      "tickers": [
+        "CPSS"
+      ],
+      "cik": "889609",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/889609/000168316826008042/0001683168-26-008042-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001174947-26-000931": {
+      "accession": "0001174947-26-000931",
+      "file_date": "2026-10-23",
+      "company": "ENB Financial Corp",
+      "tickers": [
+        "ENBP"
+      ],
+      "cik": "1437479",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000931/0001174947-26-000931-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001331463-26-000203": {
+      "accession": "0001331463-26-000203",
+      "file_date": "2026-10-23",
+      "company": "Federal Home Loan Bank of Boston",
+      "tickers": [],
+      "cik": "1331463",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000203/0001331463-26-000203-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001331451-26-000196": {
+      "accession": "0001331451-26-000196",
+      "file_date": "2026-10-23",
+      "company": "Federal Home Loan Bank of Chicago",
+      "tickers": [],
+      "cik": "1331451",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000196/0001331451-26-000196-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066996": {
+      "accession": "0001628280-26-066996",
+      "file_date": "2026-10-23",
+      "company": "Federal Home Loan Bank of Des Moines",
+      "tickers": [],
+      "cik": "1325814",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1325814/000162828026066996/0001628280-26-066996-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001316944-26-000171": {
+      "accession": "0001316944-26-000171",
+      "file_date": "2026-10-23",
+      "company": "Federal Home Loan Bank of San Francisco",
+      "tickers": [],
+      "cik": "1316944",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000171/0001316944-26-000171-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118501": {
+      "accession": "0001104659-26-118501",
+      "file_date": "2026-10-23",
+      "company": "FIRST CAPITAL INC",
+      "tickers": [
+        "FCAP"
+      ],
+      "cik": "1070296",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1070296/000110465926118501/0001104659-26-118501-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000798941-26-000041": {
+      "accession": "0000798941-26-000041",
+      "file_date": "2026-10-23",
+      "company": "FIRST CITIZENS BANCSHARES INC /DE/",
+      "tickers": [
+        "FCNCA",
+        "FCNCB",
+        "FCNCN",
+        "FCNCO",
+        "FCNCP"
+      ],
+      "cik": "798941",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000041/0000798941-26-000041-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-430447": {
+      "accession": "0001193125-26-430447",
+      "file_date": "2026-10-23",
+      "company": "First Eagle Private Credit Fund",
+      "tickers": [],
+      "cik": "1890107",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "3.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1890107/000119312526430447/0001193125-26-430447-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118299": {
+      "accession": "0001104659-26-118299",
+      "file_date": "2026-10-23",
+      "company": "FIRST HAWAIIAN, INC.",
+      "tickers": [
+        "FHB"
+      ],
+      "cik": "36377",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/36377/000110465926118299/0001104659-26-118299-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033337": {
+      "accession": "0001437749-26-033337",
+      "file_date": "2026-10-23",
+      "company": "FIRST NATIONAL CORP /VA/",
+      "tickers": [
+        "FXNC"
+      ],
+      "cik": "719402",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/719402/000143774926033337/0001437749-26-033337-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000910073-26-000080": {
+      "accession": "0000910073-26-000080",
+      "file_date": "2026-10-23",
+      "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
+      "tickers": [
+        "FLG",
+        "FLG-PA",
+        "FLG-PU"
+      ],
+      "cik": "910073",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/910073/000091007326000080/0000910073-26-000080-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000355811-26-000060": {
+      "accession": "0000355811-26-000060",
+      "file_date": "2026-10-23",
+      "company": "GENTEX CORP",
+      "tickers": [
+        "GNTX"
+      ],
+      "cik": "355811",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/355811/000035581126000060/0000355811-26-000060-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429546": {
+      "accession": "0001193125-26-429546",
+      "file_date": "2026-10-23",
+      "company": "GORMAN RUPP CO",
+      "tickers": [
+        "GRC"
+      ],
+      "cik": "42682",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526429546/0001193125-26-429546-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000931148-26-000085": {
+      "accession": "0000931148-26-000085",
+      "file_date": "2026-10-23",
+      "company": "GRAFTECH INTERNATIONAL LTD",
+      "tickers": [
+        "EAF"
+      ],
+      "cik": "931148",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/931148/000093114826000085/0000931148-26-000085-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033328": {
+      "accession": "0001437749-26-033328",
+      "file_date": "2026-10-23",
+      "company": "JAKKS PACIFIC INC",
+      "tickers": [
+        "JAKK"
+      ],
+      "cik": "1009829",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1009829/000143774926033328/0001437749-26-033328-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001065696-26-000047": {
+      "accession": "0001065696-26-000047",
+      "file_date": "2026-10-23",
+      "company": "LKQ CORP",
+      "tickers": [
+        "LKQ"
+      ],
+      "cik": "1065696",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000047/0001065696-26-000047-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429420": {
+      "accession": "0001193125-26-429420",
+      "file_date": "2026-10-23",
+      "company": "MARKETAXESS HOLDINGS INC",
+      "tickers": [
+        "MKTX"
+      ],
+      "cik": "1278021",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526429420/0001193125-26-429420-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118460": {
+      "accession": "0001104659-26-118460",
+      "file_date": "2026-10-23",
+      "company": "MetroCity Bankshares, Inc.",
+      "tickers": [
+        "MCBS"
+      ],
+      "cik": "1747068",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1747068/000110465926118460/0001104659-26-118460-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118368": {
+      "accession": "0001104659-26-118368",
+      "file_date": "2026-10-23",
+      "company": "NorthEast Community Bancorp, Inc./MD/",
+      "tickers": [
+        "NECB"
+      ],
+      "cik": "1847398",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/0001104659-26-118368-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033387": {
+      "accession": "0001437749-26-033387",
+      "file_date": "2026-10-23",
+      "company": "Oak Valley Bancorp",
+      "tickers": [
+        "OVLY"
+      ],
+      "cik": "1431567",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1431567/000143774926033387/0001437749-26-033387-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118258": {
+      "accession": "0001104659-26-118258",
+      "file_date": "2026-10-23",
+      "company": "Primis Financial Corp.",
+      "tickers": [
+        "FRST"
+      ],
+      "cik": "1325670",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1325670/000110465926118258/0001104659-26-118258-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118297": {
+      "accession": "0001104659-26-118297",
+      "file_date": "2026-10-23",
+      "company": "REPUBLIC BANCORP INC /KY/",
+      "tickers": [
+        "RBCAA"
+      ],
+      "cik": "921557",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926118297/0001104659-26-118297-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001556593-26-000033": {
+      "accession": "0001556593-26-000033",
+      "file_date": "2026-10-23",
+      "company": "Rithm Capital Corp.",
+      "tickers": [
+        "RITM",
+        "RITM-PA",
+        "RITM-PB",
+        "RITM-PC",
+        "RITM-PD",
+        "RITM-PE",
+        "RITM-PF"
+      ],
+      "cik": "1556593",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1556593/000155659326000033/0001556593-26-000033-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001213900-26-111997": {
+      "accession": "0001213900-26-111997",
+      "file_date": "2026-10-23",
+      "company": "SB FINANCIAL GROUP, INC.",
+      "tickers": [
+        "SBFG"
+      ],
+      "cik": "767405",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/767405/000121390026111997/0001213900-26-111997-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429435": {
+      "accession": "0001193125-26-429435",
+      "file_date": "2026-10-23",
+      "company": "SLB LIMITED/NV",
+      "tickers": [
+        "SLB"
+      ],
+      "cik": "87347",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526429435/0001193125-26-429435-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033341": {
+      "accession": "0001437749-26-033341",
+      "file_date": "2026-10-23",
+      "company": "STEELE BANCORP INC",
+      "tickers": [
+        "STLE"
+      ],
+      "cik": "779227",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/779227/000143774926033341/0001437749-26-033341-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001005817-26-000139": {
+      "accession": "0001005817-26-000139",
+      "file_date": "2026-10-23",
+      "company": "TOMPKINS FINANCIAL CORP",
+      "tickers": [
+        "TMP"
+      ],
+      "cik": "1005817",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/0001005817-26-000139-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001783398-26-000128": {
+      "accession": "0001783398-26-000128",
+      "file_date": "2026-10-23",
+      "company": "UWM Holdings Corp",
+      "tickers": [
+        "UWMC"
+      ],
+      "cik": "1783398",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1783398/000178339826000128/0001783398-26-000128-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033331": {
+      "accession": "0001437749-26-033331",
+      "file_date": "2026-10-23",
+      "company": "WORLD ACCEPTANCE CORP",
+      "tickers": [
+        "WRLD"
+      ],
+      "cik": "108385",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/108385/000143774926033331/0001437749-26-033331-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000034782-26-000054": {
+      "accession": "0000034782-26-000054",
+      "file_date": "2026-10-22",
+      "company": "1ST SOURCE CORP",
+      "tickers": [
+        "SRCE"
+      ],
+      "cik": "34782",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/34782/000003478226000054/0000034782-26-000054-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001493152-26-048034": {
+      "accession": "0001493152-26-048034",
+      "file_date": "2026-10-22",
+      "company": "22nd Century Group, Inc.",
+      "tickers": [
+        "XXII"
+      ],
+      "cik": "1347858",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1347858/000149315226048034/0001493152-26-048034-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066787": {
+      "accession": "0001628280-26-066787",
+      "file_date": "2026-10-22",
+      "company": "ACNB CORP",
+      "tickers": [
+        "ACNB"
+      ],
+      "cik": "715579",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/715579/000162828026066787/0001628280-26-066787-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001579241-26-000032": {
+      "accession": "0001579241-26-000032",
+      "file_date": "2026-10-22",
+      "company": "Allegion plc",
+      "tickers": [
+        "ALLE"
+      ],
+      "cik": "1579241",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000032/0001579241-26-000032-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118157": {
+      "accession": "0001104659-26-118157",
+      "file_date": "2026-10-22",
+      "company": "Alpine Income Property Trust, Inc.",
+      "tickers": [
+        "PINE",
+        "PINE-PA"
+      ],
+      "cik": "1786117",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926118157/0001104659-26-118157-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001823608-26-000212": {
+      "accession": "0001823608-26-000212",
+      "file_date": "2026-10-22",
+      "company": "Amalgamated Financial Corp.",
+      "tickers": [
+        "AMAL"
+      ],
+      "cik": "1823608",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1823608/000182360826000212/0001823608-26-000212-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001734342-26-000084": {
+      "accession": "0001734342-26-000084",
+      "file_date": "2026-10-22",
+      "company": "Amerant Bancorp Inc.",
+      "tickers": [
+        "AMTB"
+      ],
+      "cik": "1734342",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1734342/000173434226000084/0001734342-26-000084-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000006201-26-000064": {
+      "accession": "0000006201-26-000064",
+      "file_date": "2026-10-22",
+      "company": "American Airlines Group Inc.",
+      "tickers": [
+        "AAL"
+      ],
+      "cik": "6201",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000064/0000006201-26-000064-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000351569-26-000156": {
+      "accession": "0000351569-26-000156",
+      "file_date": "2026-10-22",
+      "company": "Ameris Bancorp",
+      "tickers": [
+        "ABCB"
+      ],
+      "cik": "351569",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000156/0000351569-26-000156-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001433195-26-000062": {
+      "accession": "0001433195-26-000062",
+      "file_date": "2026-10-22",
+      "company": "APPFOLIO INC",
+      "tickers": [
+        "APPF"
+      ],
+      "cik": "1433195",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1433195/000143319526000062/0001433195-26-000062-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000007789-26-000257": {
+      "accession": "0000007789-26-000257",
+      "file_date": "2026-10-22",
+      "company": "ASSOCIATED BANC-CORP",
+      "tickers": [
+        "ASB",
+        "ASBA",
+        "ASB-PE",
+        "ASB-PF"
+      ],
+      "cik": "7789",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/7789/000000778926000257/0000007789-26-000257-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428396": {
+      "accession": "0001193125-26-428396",
+      "file_date": "2026-10-22",
+      "company": "BADGER METER INC",
+      "tickers": [
+        "BMI"
+      ],
+      "cik": "9092",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/0001193125-26-428396-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427999": {
+      "accession": "0001193125-26-427999",
+      "file_date": "2026-10-22",
+      "company": "BANCFIRST CORP /OK/",
+      "tickers": [
+        "BANF",
+        "BANFP"
+      ],
+      "cik": "760498",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/760498/000119312526427999/0001193125-26-427999-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118161": {
+      "accession": "0001104659-26-118161",
+      "file_date": "2026-10-22",
+      "company": "BAR HARBOR BANKSHARES",
+      "tickers": [
+        "BHB"
+      ],
+      "cik": "743367",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/743367/000110465926118161/0001104659-26-118161-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001730984-26-000081": {
+      "accession": "0001730984-26-000081",
+      "file_date": "2026-10-22",
+      "company": "BayCom Corp",
+      "tickers": [
+        "BCML"
+      ],
+      "cik": "1730984",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1730984/000173098426000081/0001730984-26-000081-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428297": {
+      "accession": "0001193125-26-428297",
+      "file_date": "2026-10-22",
+      "company": "Blackstone Inc.",
+      "tickers": [
+        "BX"
+      ],
+      "cik": "1393818",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526428297/0001193125-26-428297-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001662972-26-000156": {
+      "accession": "0001662972-26-000156",
+      "file_date": "2026-10-22",
+      "company": "Blackstone Real Estate Income Trust, Inc.",
+      "tickers": [
+        "BSTT"
+      ],
+      "cik": "1662972",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1662972/000166297226000156/0001662972-26-000156-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066890": {
+      "accession": "0001628280-26-066890",
+      "file_date": "2026-10-22",
+      "company": "Bloom Energy Corp",
+      "tickers": [
+        "BE"
+      ],
+      "cik": "1664703",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/0001628280-26-066890-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428973": {
+      "accession": "0001193125-26-428973",
+      "file_date": "2026-10-22",
+      "company": "BOSTON BEER CO INC",
+      "tickers": [
+        "SAM"
+      ],
+      "cik": "949870",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526428973/0001193125-26-428973-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033268": {
+      "accession": "0001437749-26-033268",
+      "file_date": "2026-10-22",
+      "company": "BOYD GAMING CORP",
+      "tickers": [
+        "BYD"
+      ],
+      "cik": "906553",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906553/000143774926033268/0001437749-26-033268-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000790816-26-000041": {
+      "accession": "0000790816-26-000041",
+      "file_date": "2026-10-22",
+      "company": "BRANDYWINE REALTY TRUST",
+      "tickers": [
+        "BDN"
+      ],
+      "cik": "790816",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000041/0000790816-26-000041-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001101215-26-000087": {
+      "accession": "0001101215-26-000087",
+      "file_date": "2026-10-22",
+      "company": "BREAD FINANCIAL HOLDINGS, INC.",
+      "tickers": [
+        "BFH",
+        "BFH-PA",
+        "BFH-PB"
+      ],
+      "cik": "1101215",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1101215/000110121526000087/0001101215-26-000087-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001964333-26-000102": {
+      "accession": "0001964333-26-000102",
+      "file_date": "2026-10-22",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "tickers": [
+        "BHRB"
+      ],
+      "cik": "1964333",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1964333/000196433326000102/0001964333-26-000102-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428935": {
+      "accession": "0001193125-26-428935",
+      "file_date": "2026-10-22",
+      "company": "BYLINE BANCORP, INC.",
+      "tickers": [
+        "BY"
+      ],
+      "cik": "1702750",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1702750/000119312526428935/0001193125-26-428935-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000017843-26-000047": {
+      "accession": "0000017843-26-000047",
+      "file_date": "2026-10-22",
+      "company": "CARPENTER TECHNOLOGY CORP",
+      "tickers": [
+        "CRS"
+      ],
+      "cik": "17843",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000047/0000017843-26-000047-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000017843-26-000049": {
+      "accession": "0000017843-26-000049",
+      "file_date": "2026-10-22",
+      "company": "CARPENTER TECHNOLOGY CORP",
+      "tickers": [
+        "CRS"
+      ],
+      "cik": "17843",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000049/0000017843-26-000049-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000708781-26-000036": {
+      "accession": "0000708781-26-000036",
+      "file_date": "2026-10-22",
+      "company": "CASS INFORMATION SYSTEMS INC",
+      "tickers": [
+        "CASS"
+      ],
+      "cik": "708781",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/708781/000070878126000036/0000708781-26-000036-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428672": {
+      "accession": "0001193125-26-428672",
+      "file_date": "2026-10-22",
+      "company": "CBIZ, Inc.",
+      "tickers": [
+        "CBZ"
+      ],
+      "cik": "944148",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526428672/0001193125-26-428672-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001138118-26-000028": {
+      "accession": "0001138118-26-000028",
+      "file_date": "2026-10-22",
+      "company": "CBRE GROUP, INC.",
+      "tickers": [
+        "CBRE"
+      ],
+      "cik": "1138118",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000028/0001138118-26-000028-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006779": {
+      "accession": "0001171843-26-006779",
+      "file_date": "2026-10-22",
+      "company": "CHEMUNG FINANCIAL CORP",
+      "tickers": [
+        "CHMG"
+      ],
+      "cik": "763563",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/763563/000117184326006779/0001171843-26-006779-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118158": {
+      "accession": "0001104659-26-118158",
+      "file_date": "2026-10-22",
+      "company": "CITIZENS & NORTHERN CORP",
+      "tickers": [
+        "CZNC"
+      ],
+      "cik": "810958",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926118158/0001104659-26-118158-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428313": {
+      "accession": "0001193125-26-428313",
+      "file_date": "2026-10-22",
+      "company": "CIVISTA BANCSHARES, INC.",
+      "tickers": [
+        "CIVB"
+      ],
+      "cik": "944745",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/944745/000119312526428313/0001193125-26-428313-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000887343-26-000184": {
+      "accession": "0000887343-26-000184",
+      "file_date": "2026-10-22",
+      "company": "COLUMBIA BANKING SYSTEM, INC.",
+      "tickers": [
+        "COLB"
+      ],
+      "cik": "887343",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000184/0000887343-26-000184-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066783": {
+      "accession": "0001628280-26-066783",
+      "file_date": "2026-10-22",
+      "company": "COMCAST CORP",
+      "tickers": [
+        "CCZ",
+        "CMCSA"
+      ],
+      "cik": "1166691",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/0001628280-26-066783-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118156": {
+      "accession": "0001104659-26-118156",
+      "file_date": "2026-10-22",
+      "company": "COMFORT SYSTEMS USA INC",
+      "tickers": [
+        "FIX"
+      ],
+      "cik": "1035983",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926118156/0001104659-26-118156-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066885": {
+      "accession": "0001628280-26-066885",
+      "file_date": "2026-10-22",
+      "company": "Community West Bancshares",
+      "tickers": [
+        "CWBC"
+      ],
+      "cik": "1127371",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1127371/000162828026066885/0001628280-26-066885-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033170": {
+      "accession": "0001437749-26-033170",
+      "file_date": "2026-10-22",
+      "company": "ConnectOne Bancorp, Inc.",
+      "tickers": [
+        "CNOB",
+        "CNOBP"
+      ],
+      "cik": "712771",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/712771/000143774926033170/0001437749-26-033170-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117884": {
+      "accession": "0001104659-26-117884",
+      "file_date": "2026-10-22",
+      "company": "Coronado Global Resources Inc.",
+      "tickers": [
+        "CODQL"
+      ],
+      "cik": "1770561",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1770561/000110465926117884/0001104659-26-117884-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001477932-26-006396": {
+      "accession": "0001477932-26-006396",
+      "file_date": "2026-10-22",
+      "company": "Cosmos Health Inc.",
+      "tickers": [
+        "COSM"
+      ],
+      "cik": "1474167",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006396/0001477932-26-006396-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428291": {
+      "accession": "0001193125-26-428291",
+      "file_date": "2026-10-22",
+      "company": "Curbline Properties Corp.",
+      "tickers": [
+        "CURB"
+      ],
+      "cik": "2027317",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2027317/000119312526428291/0001193125-26-428291-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001488813-26-000100": {
+      "accession": "0001488813-26-000100",
+      "file_date": "2026-10-22",
+      "company": "Customers Bancorp, Inc.",
+      "tickers": [
+        "CUBB",
+        "CUBI"
+      ],
+      "cik": "1488813",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000100/0001488813-26-000100-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428238": {
+      "accession": "0001193125-26-428238",
+      "file_date": "2026-10-22",
+      "company": "CVB FINANCIAL CORP",
+      "tickers": [
+        "CVBF"
+      ],
+      "cik": "354647",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354647/000119312526428238/0001193125-26-428238-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000916540-26-000025": {
+      "accession": "0000916540-26-000025",
+      "file_date": "2026-10-22",
+      "company": "DARLING INGREDIENTS INC.",
+      "tickers": [
+        "DAR"
+      ],
+      "cik": "916540",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/916540/000091654026000025/0000916540-26-000025-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000910521-26-000028": {
+      "accession": "0000910521-26-000028",
+      "file_date": "2026-10-22",
+      "company": "DECKERS OUTDOOR CORP",
+      "tickers": [
+        "DECK"
+      ],
+      "cik": "910521",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000028/0000910521-26-000028-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-429105": {
+      "accession": "0001193125-26-429105",
+      "file_date": "2026-10-22",
+      "company": "Disc Medicine, Inc.",
+      "tickers": [
+        "IRON"
+      ],
+      "cik": "1816736",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526429105/0001193125-26-429105-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033272": {
+      "accession": "0001437749-26-033272",
+      "file_date": "2026-10-22",
+      "company": "DORCHESTER MINERALS, L.P.",
+      "tickers": [
+        "DMLP"
+      ],
+      "cik": "1172358",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1172358/000143774926033272/0001437749-26-033272-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000029905-26-000032": {
+      "accession": "0000029905-26-000032",
+      "file_date": "2026-10-22",
+      "company": "DOVER Corp",
+      "tickers": [
+        "DOV"
+      ],
+      "cik": "29905",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/29905/000002990526000032/0000029905-26-000032-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001751788-26-000155": {
+      "accession": "0001751788-26-000155",
+      "file_date": "2026-10-22",
+      "company": "DOW INC.",
+      "tickers": [
+        "DOW"
+      ],
+      "cik": "1751788",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1751788/000175178826000155/0001751788-26-000155-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000880641-26-000026": {
+      "accession": "0000880641-26-000026",
+      "file_date": "2026-10-22",
+      "company": "EAGLE FINANCIAL SERVICES INC",
+      "tickers": [
+        "EFSI"
+      ],
+      "cik": "880641",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/880641/000088064126000026/0000880641-26-000026-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066914": {
+      "accession": "0001628280-26-066914",
+      "file_date": "2026-10-22",
+      "company": "Eastern Bankshares, Inc.",
+      "tickers": [
+        "EBC"
+      ],
+      "cik": "1810546",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1810546/000162828026066914/0001628280-26-066914-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001065088-26-000205": {
+      "accession": "0001065088-26-000205",
+      "file_date": "2026-10-22",
+      "company": "EBAY INC",
+      "tickers": [
+        "EBAY"
+      ],
+      "cik": "1065088",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "2.05"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000205/0001065088-26-000205-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033178": {
+      "accession": "0001437749-26-033178",
+      "file_date": "2026-10-22",
+      "company": "ECB Bancorp, Inc. /MD/",
+      "tickers": [
+        "ECBK"
+      ],
+      "cik": "1914605",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1914605/000143774926033178/0001437749-26-033178-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428941": {
+      "accession": "0001193125-26-428941",
+      "file_date": "2026-10-22",
+      "company": "Enova International, Inc.",
+      "tickers": [
+        "ENVA"
+      ],
+      "cik": "1529864",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526428941/0001193125-26-428941-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001331465-26-000189": {
+      "accession": "0001331465-26-000189",
+      "file_date": "2026-10-22",
+      "company": "Federal Home Loan Bank of Atlanta",
+      "tickers": [],
+      "cik": "1331465",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000189/0001331465-26-000189-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001654954-26-009113": {
+      "accession": "0001654954-26-009113",
+      "file_date": "2026-10-22",
+      "company": "Federal Home Loan Bank of New York",
+      "tickers": [],
+      "cik": "1329842",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009113/0001654954-26-009113-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001330399-26-000140": {
+      "accession": "0001330399-26-000140",
+      "file_date": "2026-10-22",
+      "company": "Federal Home Loan Bank of Pittsburgh",
+      "tickers": [],
+      "cik": "1330399",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000140/0001330399-26-000140-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001057706-26-000028": {
+      "accession": "0001057706-26-000028",
+      "file_date": "2026-10-22",
+      "company": "FIRST BANCORP /PR/",
+      "tickers": [
+        "FBP"
+      ],
+      "cik": "1057706",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1057706/000105770626000028/0001057706-26-000028-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000860413-26-000097": {
+      "accession": "0000860413-26-000097",
+      "file_date": "2026-10-22",
+      "company": "FIRST INTERSTATE BANCSYSTEM INC",
+      "tickers": [
+        "FIBK"
+      ],
+      "cik": "860413",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000097/0000860413-26-000097-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066895": {
+      "accession": "0001628280-26-066895",
+      "file_date": "2026-10-22",
+      "company": "First Western Financial Inc",
+      "tickers": [
+        "MYFW"
+      ],
+      "cik": "1327607",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1327607/000162828026066895/0001628280-26-066895-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000840489-26-000097": {
+      "accession": "0000840489-26-000097",
+      "file_date": "2026-10-22",
+      "company": "FirstCash Holdings, Inc.",
+      "tickers": [
+        "FCFS"
+      ],
+      "cik": "840489",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/0000840489-26-000097-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001574197-26-000032": {
+      "accession": "0001574197-26-000032",
+      "file_date": "2026-10-22",
+      "company": "Five Point Holdings, LLC",
+      "tickers": [
+        "FPH"
+      ],
+      "cik": "1574197",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1574197/000157419726000032/0001574197-26-000032-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428945": {
+      "accession": "0001193125-26-428945",
+      "file_date": "2026-10-22",
+      "company": "Forgent Power Solutions, Inc.",
+      "tickers": [
+        "FPS"
+      ],
+      "cik": "2080126",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2080126/000119312526428945/0001193125-26-428945-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001675644-26-000089": {
+      "accession": "0001675644-26-000089",
+      "file_date": "2026-10-22",
+      "company": "FVCBankcorp, Inc.",
+      "tickers": [
+        "FVCB"
+      ],
+      "cik": "1675644",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1675644/000167564426000089/0001675644-26-000089-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428275": {
+      "accession": "0001193125-26-428275",
+      "file_date": "2026-10-22",
+      "company": "Gentherm Inc",
+      "tickers": [
+        "THRM"
+      ],
+      "cik": "903129",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/0001193125-26-428275-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000868671-26-000074": {
+      "accession": "0000868671-26-000074",
+      "file_date": "2026-10-22",
+      "company": "GLACIER BANCORP, INC.",
+      "tickers": [
+        "GBCI"
+      ],
+      "cik": "868671",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000074/0000868671-26-000074-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006766": {
+      "accession": "0001171843-26-006766",
+      "file_date": "2026-10-22",
+      "company": "GREAT SOUTHERN BANCORP, INC.",
+      "tickers": [
+        "GSBC"
+      ],
+      "cik": "854560",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/854560/000117184326006766/0001171843-26-006766-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001140361-26-040453": {
+      "accession": "0001140361-26-040453",
+      "file_date": "2026-10-22",
+      "company": "GREENE COUNTY BANCORP INC",
+      "tickers": [
+        "GCBC"
+      ],
+      "cik": "1070524",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1070524/000114036126040453/0001140361-26-040453-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428987": {
+      "accession": "0001193125-26-428987",
+      "file_date": "2026-10-22",
+      "company": "Greystone Housing Impact Investors LP",
+      "tickers": [
+        "GHI"
+      ],
+      "cik": "1059142",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1059142/000119312526428987/0001193125-26-428987-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066841": {
+      "accession": "0001628280-26-066841",
+      "file_date": "2026-10-22",
+      "company": "HERITAGE FINANCIAL CORP /WA/",
+      "tickers": [
+        "HFWA"
+      ],
+      "cik": "1046025",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1046025/000162828026066841/0001628280-26-066841-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118167": {
+      "accession": "0001104659-26-118167",
+      "file_date": "2026-10-22",
+      "company": "Hilltop Holdings Inc.",
+      "tickers": [
+        "HTH"
+      ],
+      "cik": "1265131",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1265131/000110465926118167/0001104659-26-118167-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000773840-26-000141": {
+      "accession": "0000773840-26-000141",
+      "file_date": "2026-10-22",
+      "company": "HONEYWELL INTERNATIONAL INC",
+      "tickers": [
+        "HON"
+      ],
+      "cik": "773840",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000141/0000773840-26-000141-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000049196-26-000084": {
+      "accession": "0000049196-26-000084",
+      "file_date": "2026-10-22",
+      "company": "HUNTINGTON BANCSHARES INC /MD/",
+      "tickers": [
+        "HBAN",
+        "HBANL",
+        "HBANM",
+        "HBANP",
+        "HBANZ"
+      ],
+      "cik": "49196",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/0000049196-26-000084-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033167": {
+      "accession": "0001437749-26-033167",
+      "file_date": "2026-10-22",
+      "company": "INSTEEL INDUSTRIES INC",
+      "tickers": [
+        "IIIN"
+      ],
+      "cik": "764401",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/764401/000143774926033167/0001437749-26-033167-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033291": {
+      "accession": "0001437749-26-033291",
+      "file_date": "2026-10-22",
+      "company": "Investar Holding Corp",
+      "tickers": [
+        "ISTR"
+      ],
+      "cik": "1602658",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1602658/000143774926033291/0001437749-26-033291-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066911": {
+      "accession": "0001628280-26-066911",
+      "file_date": "2026-10-22",
+      "company": "ITG, Inc./DE/",
+      "tickers": [
+        "ITG"
+      ],
+      "cik": "2110117",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2110117/000162828026066911/0001628280-26-066911-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118018": {
+      "accession": "0001104659-26-118018",
+      "file_date": "2026-10-22",
+      "company": "JUNIATA VALLEY FINANCIAL CORP",
+      "tickers": [
+        "JUVF"
+      ],
+      "cik": "714712",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/714712/000110465926118018/0001104659-26-118018-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066920": {
+      "accession": "0001628280-26-066920",
+      "file_date": "2026-10-22",
+      "company": "KILROY REALTY CORP",
+      "tickers": [
+        "KRC"
+      ],
+      "cik": "1025996",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1025996/000162828026066920/0001628280-26-066920-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001669162-26-000049": {
+      "accession": "0001669162-26-000049",
+      "file_date": "2026-10-22",
+      "company": "Kinsale Capital Group, Inc.",
+      "tickers": [
+        "KNSL"
+      ],
+      "cik": "1669162",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1669162/000166916226000049/0001669162-26-000049-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001587523-26-000033": {
+      "accession": "0001587523-26-000033",
+      "file_date": "2026-10-22",
+      "company": "Knowles Corp",
+      "tickers": [
+        "KN"
+      ],
+      "cik": "1587523",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1587523/000158752326000033/0001587523-26-000033-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066781": {
+      "accession": "0001628280-26-066781",
+      "file_date": "2026-10-22",
+      "company": "Lazard, Inc.",
+      "tickers": [
+        "LAZ"
+      ],
+      "cik": "1311370",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1311370/000162828026066781/0001628280-26-066781-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428293": {
+      "accession": "0001193125-26-428293",
+      "file_date": "2026-10-22",
+      "company": "LINDSAY CORP",
+      "tickers": [
+        "LNN"
+      ],
+      "cik": "836157",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/0001193125-26-428293-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066780": {
+      "accession": "0001628280-26-066780",
+      "file_date": "2026-10-22",
+      "company": "LOCKHEED MARTIN CORP",
+      "tickers": [
+        "LMT"
+      ],
+      "cik": "936468",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066780/0001628280-26-066780-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033270": {
+      "accession": "0001437749-26-033270",
+      "file_date": "2026-10-22",
+      "company": "MARTEN TRANSPORT LTD",
+      "tickers": [
+        "MRTN"
+      ],
+      "cik": "799167",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/799167/000143774926033270/0001437749-26-033270-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001288469-26-000060": {
+      "accession": "0001288469-26-000060",
+      "file_date": "2026-10-22",
+      "company": "MAXLINEAR, INC",
+      "tickers": [
+        "MXL"
+      ],
+      "cik": "1288469",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "2.03",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1288469/000128846926000060/0001288469-26-000060-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001206774-26-000575": {
+      "accession": "0001206774-26-000575",
+      "file_date": "2026-10-22",
+      "company": "MAYS J W INC",
+      "tickers": [
+        "MAYS"
+      ],
+      "cik": "54187",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/54187/000120677426000575/0001206774-26-000575-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001466026-26-000097": {
+      "accession": "0001466026-26-000097",
+      "file_date": "2026-10-22",
+      "company": "Midland States Bancorp, Inc.",
+      "tickers": [
+        "MSBI",
+        "MSBIP"
+      ],
+      "cik": "1466026",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/0001466026-26-000097-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001003078-26-000108": {
+      "accession": "0001003078-26-000108",
+      "file_date": "2026-10-22",
+      "company": "MSC INDUSTRIAL DIRECT CO INC",
+      "tickers": [
+        "MSM"
+      ],
+      "cik": "1003078",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000108/0001003078-26-000108-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001120193-26-000017": {
+      "accession": "0001120193-26-000017",
+      "file_date": "2026-10-22",
+      "company": "NASDAQ, INC.",
+      "tickers": [
+        "NDAQ"
+      ],
+      "cik": "1120193",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428986": {
+      "accession": "0001193125-26-428986",
+      "file_date": "2026-10-22",
+      "company": "NATIONAL BANKSHARES INC",
+      "tickers": [
+        "NKSH"
+      ],
+      "cik": "796534",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/796534/000119312526428986/0001193125-26-428986-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001164727-26-000041": {
+      "accession": "0001164727-26-000041",
+      "file_date": "2026-10-22",
+      "company": "NEWMONT Corp /DE/",
+      "tickers": [
+        "NEM",
+        "NEMCL"
+      ],
+      "cik": "1164727",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000041/0001164727-26-000041-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428384": {
+      "accession": "0001193125-26-428384",
+      "file_date": "2026-10-22",
+      "company": "NORFOLK SOUTHERN CORP",
+      "tickers": [
+        "NSC"
+      ],
+      "cik": "702165",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/702165/000119312526428384/0001193125-26-428384-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000906163-26-000099": {
+      "accession": "0000906163-26-000099",
+      "file_date": "2026-10-22",
+      "company": "NVR INC",
+      "tickers": [
+        "NVR"
+      ],
+      "cik": "906163",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000099/0000906163-26-000099-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000074260-26-000100": {
+      "accession": "0000074260-26-000100",
+      "file_date": "2026-10-22",
+      "company": "OLD REPUBLIC INTERNATIONAL CORP",
+      "tickers": [
+        "ORI"
+      ],
+      "cik": "74260",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000100/0000074260-26-000100-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000029989-26-000024": {
+      "accession": "0000029989-26-000024",
+      "file_date": "2026-10-22",
+      "company": "OMNICOM GROUP INC.",
+      "tickers": [
+        "OMC"
+      ],
+      "cik": "29989",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/29989/000002998926000024/0000029989-26-000024-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001722010-26-000023": {
+      "accession": "0001722010-26-000023",
+      "file_date": "2026-10-22",
+      "company": "OP Bancorp",
+      "tickers": [
+        "OPBK"
+      ],
+      "cik": "1722010",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/0001722010-26-000023-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033285": {
+      "accession": "0001437749-26-033285",
+      "file_date": "2026-10-22",
+      "company": "Orchid Island Capital, Inc.",
+      "tickers": [
+        "ORC"
+      ],
+      "cik": "1518621",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1518621/000143774926033285/0001437749-26-033285-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428056": {
+      "accession": "0001193125-26-428056",
+      "file_date": "2026-10-22",
+      "company": "PACKAGING CORP OF AMERICA",
+      "tickers": [
+        "PKG"
+      ],
+      "cik": "75677",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/75677/000119312526428056/0001193125-26-428056-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001004980-26-000056": {
+      "accession": "0001004980-26-000056",
+      "file_date": "2026-10-22",
+      "company": "PG&E Corp",
+      "tickers": [
+        "PCG",
+        "PCG-PA",
+        "PCG-PB",
+        "PCG-PC",
+        "PCG-PD",
+        "PCG-PE",
+        "PCG-PG",
+        "PCG-PH",
+        "PCG-PI",
+        "PCG-PX"
+      ],
+      "cik": "1004980",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498026000056/0001004980-26-000056-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428428": {
+      "accession": "0001193125-26-428428",
+      "file_date": "2026-10-22",
+      "company": "POOL CORP",
+      "tickers": [
+        "POOL"
+      ],
+      "cik": "945841",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/945841/000119312526428428/0001193125-26-428428-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000080424-26-000250": {
+      "accession": "0000080424-26-000250",
+      "file_date": "2026-10-22",
+      "company": "PROCTER & GAMBLE Co",
+      "tickers": [
+        "PG"
+      ],
+      "cik": "80424",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000250/0000080424-26-000250-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000822416-26-000041": {
+      "accession": "0000822416-26-000041",
+      "file_date": "2026-10-22",
+      "company": "PULTEGROUP INC/MI/",
+      "tickers": [
+        "PHM"
+      ],
+      "cik": "822416",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/822416/000082241626000041/0000822416-26-000041-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001022079-26-000097": {
+      "accession": "0001022079-26-000097",
+      "file_date": "2026-10-22",
+      "company": "QUEST DIAGNOSTICS INC",
+      "tickers": [
+        "DGX"
+      ],
+      "cik": "1022079",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000097/0001022079-26-000097-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001571283-26-000058": {
+      "accession": "0001571283-26-000058",
+      "file_date": "2026-10-22",
+      "company": "Rexford Industrial Realty, Inc.",
+      "tickers": [
+        "REXR",
+        "REXR-PB",
+        "REXR-PC"
+      ],
+      "cik": "1571283",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1571283/000157128326000058/0001571283-26-000058-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001384905-26-000058": {
+      "accession": "0001384905-26-000058",
+      "file_date": "2026-10-22",
+      "company": "RingCentral, Inc.",
+      "tickers": [
+        "RNG"
+      ],
+      "cik": "1384905",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1384905/000138490526000058/0001384905-26-000058-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000315213-26-000049": {
+      "accession": "0000315213-26-000049",
+      "file_date": "2026-10-22",
+      "company": "ROBERT HALF INC.",
+      "tickers": [
+        "RHI"
+      ],
+      "cik": "315213",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/315213/000031521326000049/0000315213-26-000049-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000882835-26-000042": {
+      "accession": "0000882835-26-000042",
+      "file_date": "2026-10-22",
+      "company": "ROPER TECHNOLOGIES INC",
+      "tickers": [
+        "ROP"
+      ],
+      "cik": "882835",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000042/0000882835-26-000042-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000085961-26-000023": {
+      "accession": "0000085961-26-000023",
+      "file_date": "2026-10-22",
+      "company": "RYDER SYSTEM INC",
+      "tickers": [
+        "R"
+      ],
+      "cik": "85961",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/85961/000008596126000023/0000085961-26-000023-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000719220-26-000114": {
+      "accession": "0000719220-26-000114",
+      "file_date": "2026-10-22",
+      "company": "S&T BANCORP INC",
+      "tickers": [
+        "STBA"
+      ],
+      "cik": "719220",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/719220/000071922026000114/0000719220-26-000114-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000230557-26-000024": {
+      "accession": "0000230557-26-000024",
+      "file_date": "2026-10-22",
+      "company": "SELECTIVE INSURANCE GROUP INC",
+      "tickers": [
+        "SIGI",
+        "SIGIP"
+      ],
+      "cik": "230557",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/0000230557-26-000024-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001035092-26-000058": {
+      "accession": "0001035092-26-000058",
+      "file_date": "2026-10-22",
+      "company": "SHORE BANCSHARES INC",
+      "tickers": [
+        "SHBI"
+      ],
+      "cik": "1035092",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035092/000103509226000058/0001035092-26-000058-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066842": {
+      "accession": "0001628280-26-066842",
+      "file_date": "2026-10-22",
+      "company": "SL GREEN REALTY CORP",
+      "tickers": [
+        "SLG",
+        "SLG-PI"
+      ],
+      "cik": "1040971",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1040971/000162828026066842/0001628280-26-066842-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001032033-26-000051": {
+      "accession": "0001032033-26-000051",
+      "file_date": "2026-10-22",
+      "company": "SLM Corp",
+      "tickers": [
+        "SLM",
+        "SLMBP"
+      ],
+      "cik": "1032033",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1032033/000103203326000051/0001032033-26-000051-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000091440-26-000169": {
+      "accession": "0000091440-26-000169",
+      "file_date": "2026-10-22",
+      "company": "Snap-on Inc",
+      "tickers": [
+        "SNA"
+      ],
+      "cik": "91440",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000169/0000091440-26-000169-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001140361-26-040519": {
+      "accession": "0001140361-26-040519",
+      "file_date": "2026-10-22",
+      "company": "SOUTH PLAINS FINANCIAL, INC.",
+      "tickers": [
+        "SPFI"
+      ],
+      "cik": "1163668",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126040519/0001140361-26-040519-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428977": {
+      "accession": "0001193125-26-428977",
+      "file_date": "2026-10-22",
+      "company": "SS&C Technologies Holdings Inc",
+      "tickers": [
+        "SSNC"
+      ],
+      "cik": "1402436",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1402436/000119312526428977/0001193125-26-428977-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-118027": {
+      "accession": "0001104659-26-118027",
+      "file_date": "2026-10-22",
+      "company": "TOOTSIE ROLL INDUSTRIES INC",
+      "tickers": [
+        "TR",
+        "TROLB"
+      ],
+      "cik": "98677",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/98677/000110465926118027/0001104659-26-118027-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000916365-26-000069": {
+      "accession": "0000916365-26-000069",
+      "file_date": "2026-10-22",
+      "company": "TRACTOR SUPPLY CO /DE/",
+      "tickers": [
+        "TSCO"
+      ],
+      "cik": "916365",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/916365/000091636526000069/0000916365-26-000069-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000356171-26-000115": {
+      "accession": "0000356171-26-000115",
+      "file_date": "2026-10-22",
+      "company": "TRICO BANCSHARES /",
+      "tickers": [
+        "TCBK"
+      ],
+      "cik": "356171",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/356171/000035617126000115/0000356171-26-000115-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428263": {
+      "accession": "0001193125-26-428263",
+      "file_date": "2026-10-22",
+      "company": "TTM TECHNOLOGIES INC",
+      "tickers": [
+        "TTMI"
+      ],
+      "cik": "1116942",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526428263/0001193125-26-428263-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000100885-26-000319": {
+      "accession": "0000100885-26-000319",
+      "file_date": "2026-10-22",
+      "company": "UNION PACIFIC CORP",
+      "tickers": [
+        "UNP"
+      ],
+      "cik": "100885",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000319/0000100885-26-000319-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-428347": {
+      "accession": "0001193125-26-428347",
+      "file_date": "2026-10-22",
+      "company": "UNITED BANKSHARES INC/WV",
+      "tickers": [
+        "UBSI"
+      ],
+      "cik": "729986",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/729986/000119312526428347/0001193125-26-428347-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000891166-26-000092": {
+      "accession": "0000891166-26-000092",
+      "file_date": "2026-10-22",
+      "company": "UNIVERSAL INSURANCE HOLDINGS, INC.",
+      "tickers": [
+        "UVE"
+      ],
+      "cik": "891166",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/891166/000089116626000092/0000891166-26-000092-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001562762-26-000122": {
+      "accession": "0001562762-26-000122",
+      "file_date": "2026-10-22",
+      "company": "USCB FINANCIAL HOLDINGS, INC.",
+      "tickers": [
+        "USCB"
+      ],
+      "cik": "1901637",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000156276226000122/0001562762-26-000122-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001096906-26-001602": {
+      "accession": "0001096906-26-001602",
+      "file_date": "2026-10-22",
+      "company": "UTAH MEDICAL PRODUCTS INC",
+      "tickers": [
+        "UTMD"
+      ],
+      "cik": "706698",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/706698/000109690626001602/0001096906-26-001602-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066795": {
+      "accession": "0001628280-26-066795",
+      "file_date": "2026-10-22",
+      "company": "VALERO ENERGY CORP/TX",
+      "tickers": [
+        "VLO"
+      ],
+      "cik": "1035002",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026066795/0001628280-26-066795-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000714310-26-000045": {
+      "accession": "0000714310-26-000045",
+      "file_date": "2026-10-22",
+      "company": "VALLEY NATIONAL BANCORP",
+      "tickers": [
+        "VLY",
+        "VLYPN",
+        "VLYPO",
+        "VLYPP"
+      ],
+      "cik": "714310",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/714310/000071431026000045/0000714310-26-000045-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001014473-26-000038": {
+      "accession": "0001014473-26-000038",
+      "file_date": "2026-10-22",
+      "company": "VERISIGN INC/CA",
+      "tickers": [
+        "VRSN"
+      ],
+      "cik": "1014473",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447326000038/0001014473-26-000038-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001111335-26-000054": {
+      "accession": "0001111335-26-000054",
+      "file_date": "2026-10-22",
+      "company": "VISTEON CORP",
+      "tickers": [
+        "VC"
+      ],
+      "cik": "1111335",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000054/0001111335-26-000054-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001482981-26-000183": {
+      "accession": "0001482981-26-000183",
+      "file_date": "2026-10-22",
+      "company": "Vita Coco Company, Inc.",
+      "tickers": [
+        "COCO"
+      ],
+      "cik": "1482981",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000183/0001482981-26-000183-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066882": {
+      "accession": "0001628280-26-066882",
+      "file_date": "2026-10-22",
+      "company": "WESTERN DIGITAL CORP",
+      "tickers": [
+        "WDC"
+      ],
+      "cik": "106040",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001213900-26-111632": {
+      "accession": "0001213900-26-111632",
+      "file_date": "2026-10-22",
+      "company": "XTI Aerospace, Inc.",
+      "tickers": [
+        "XTIA"
+      ],
+      "cik": "1529113",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026111632/0001213900-26-111632-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066601": {
+      "accession": "0001628280-26-066601",
+      "file_date": "2026-10-21",
+      "company": "ABBOTT LABORATORIES",
+      "tickers": [
+        "ABT"
+      ],
+      "cik": "1800",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/0001628280-26-066601-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427930": {
+      "accession": "0001193125-26-427930",
+      "file_date": "2026-10-21",
+      "company": "Alpha Teknova, Inc.",
+      "tickers": [
+        "TKNO"
+      ],
+      "cik": "1850902",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1850902/000119312526427930/0001193125-26-427930-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427829": {
+      "accession": "0001193125-26-427829",
+      "file_date": "2026-10-21",
+      "company": "Arcus Biosciences, Inc.",
+      "tickers": [
+        "RCUS"
+      ],
+      "cik": "1724521",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1724521/000119312526427829/0001193125-26-427829-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001428205-26-000124": {
+      "accession": "0001428205-26-000124",
+      "file_date": "2026-10-21",
+      "company": "Armour Residential REIT, Inc.",
+      "tickers": [
+        "ARR",
+        "ARR-PC"
+      ],
+      "cik": "1428205",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820526000124/0001428205-26-000124-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001062993-26-005447": {
+      "accession": "0001062993-26-005447",
+      "file_date": "2026-10-21",
+      "company": "Artificial Intelligence Technology Solutions Inc.",
+      "tickers": [
+        "AITX"
+      ],
+      "cik": "1498148",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326005447/0001062993-26-005447-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000732717-26-000370": {
+      "accession": "0000732717-26-000370",
+      "file_date": "2026-10-21",
+      "company": "AT&T INC.",
+      "tickers": [
+        "T",
+        "TBB",
+        "T-PA",
+        "T-PC"
+      ],
+      "cik": "732717",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000370/0000732717-26-000370-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0002040491-26-000052": {
+      "accession": "0002040491-26-000052",
+      "file_date": "2026-10-21",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "tickers": [
+        "ASIC"
+      ],
+      "cik": "2040491",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2040491/000204049126000052/0002040491-26-000052-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001504008-26-000088": {
+      "accession": "0001504008-26-000088",
+      "file_date": "2026-10-21",
+      "company": "BankUnited, Inc.",
+      "tickers": [
+        "BKU"
+      ],
+      "cik": "1504008",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000088/0001504008-26-000088-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000946673-26-000196": {
+      "accession": "0000946673-26-000196",
+      "file_date": "2026-10-21",
+      "company": "BANNER CORP",
+      "tickers": [
+        "BANR"
+      ],
+      "cik": "946673",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/946673/000094667326000196/0000946673-26-000196-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006743": {
+      "accession": "0001171843-26-006743",
+      "file_date": "2026-10-21",
+      "company": "Beacon Financial Corp",
+      "tickers": [
+        "BBT"
+      ],
+      "cik": "1108134",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1108134/000117184326006743/0001171843-26-006743-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066740": {
+      "accession": "0001628280-26-066740",
+      "file_date": "2026-10-21",
+      "company": "CACI INTERNATIONAL INC /DE/",
+      "tickers": [
+        "CACI"
+      ],
+      "cik": "16058",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/16058/000162828026066740/0001628280-26-066740-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033125": {
+      "accession": "0001437749-26-033125",
+      "file_date": "2026-10-21",
+      "company": "CATHAY GENERAL BANCORP",
+      "tickers": [
+        "CATY"
+      ],
+      "cik": "861842",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926033125/0001437749-26-033125-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117576": {
+      "accession": "0001104659-26-117576",
+      "file_date": "2026-10-21",
+      "company": "Cencora, Inc.",
+      "tickers": [
+        "COR"
+      ],
+      "cik": "1140859",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926117576/0001104659-26-117576-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001156375-26-000065": {
+      "accession": "0001156375-26-000065",
+      "file_date": "2026-10-21",
+      "company": "CME GROUP INC.",
+      "tickers": [
+        "CME"
+      ],
+      "cik": "1156375",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000065/0001156375-26-000065-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000736772-26-000091": {
+      "accession": "0000736772-26-000091",
+      "file_date": "2026-10-21",
+      "company": "CNB FINANCIAL CORP/PA",
+      "tickers": [
+        "CCNE",
+        "CCNEP"
+      ],
+      "cik": "736772",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/736772/000073677226000091/0000736772-26-000091-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000350852-26-000075": {
+      "accession": "0000350852-26-000075",
+      "file_date": "2026-10-21",
+      "company": "COMMUNITY TRUST BANCORP INC /KY/",
+      "tickers": [
+        "CTBI"
+      ],
+      "cik": "350852",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000075/0000350852-26-000075-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033076": {
+      "accession": "0001437749-26-033076",
+      "file_date": "2026-10-21",
+      "company": "CONSUMERS BANCORP INC /OH/",
+      "tickers": [
+        "CBKM"
+      ],
+      "cik": "1006830",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1006830/000143774926033076/0001437749-26-033076-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001051470-26-000085": {
+      "accession": "0001051470-26-000085",
+      "file_date": "2026-10-21",
+      "company": "CROWN CASTLE INC.",
+      "tickers": [
+        "CCI"
+      ],
+      "cik": "1051470",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000085/0001051470-26-000085-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000277948-26-000039": {
+      "accession": "0000277948-26-000039",
+      "file_date": "2026-10-21",
+      "company": "CSX CORP",
+      "tickers": [
+        "CSX"
+      ],
+      "cik": "277948",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000039/0000277948-26-000039-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000313616-26-000201": {
+      "accession": "0000313616-26-000201",
+      "file_date": "2026-10-21",
+      "company": "DANAHER CORP /DE/",
+      "tickers": [
+        "DHR"
+      ],
+      "cik": "313616",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000201/0000313616-26-000201-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001050441-26-000110": {
+      "accession": "0001050441-26-000110",
+      "file_date": "2026-10-21",
+      "company": "EAGLE BANCORP INC",
+      "tickers": [
+        "EGBN"
+      ],
+      "cik": "1050441",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000110/0001050441-26-000110-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000049600-26-000047": {
+      "accession": "0000049600-26-000047",
+      "file_date": "2026-10-21",
+      "company": "EASTGROUP PROPERTIES INC",
+      "tickers": [
+        "EGP"
+      ],
+      "cik": "49600",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/49600/000004960026000047/0000049600-26-000047-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001590714-26-000069": {
+      "accession": "0001590714-26-000069",
+      "file_date": "2026-10-21",
+      "company": "Element Solutions Inc",
+      "tickers": [
+        "ESI"
+      ],
+      "cik": "1590714",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1590714/000159071426000069/0001590714-26-000069-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001156039-26-000068": {
+      "accession": "0001156039-26-000068",
+      "file_date": "2026-10-21",
+      "company": "Elevance Health, Inc.",
+      "tickers": [
+        "ELV"
+      ],
+      "cik": "1156039",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000068/0001156039-26-000068-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001025835-26-000185": {
+      "accession": "0001025835-26-000185",
+      "file_date": "2026-10-21",
+      "company": "ENTERPRISE FINANCIAL SERVICES CORP",
+      "tickers": [
+        "EFSC",
+        "EFSCP"
+      ],
+      "cik": "1025835",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1025835/000102583526000185/0001025835-26-000185-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066614": {
+      "accession": "0001628280-26-066614",
+      "file_date": "2026-10-21",
+      "company": "EQUITY LIFESTYLE PROPERTIES INC",
+      "tickers": [
+        "ELS"
+      ],
+      "cik": "895417",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/895417/000162828026066614/0001628280-26-066614-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001728951-26-000069": {
+      "accession": "0001728951-26-000069",
+      "file_date": "2026-10-21",
+      "company": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+      "tickers": [
+        "EPRT"
+      ],
+      "cik": "1728951",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1728951/000172895126000069/0001728951-26-000069-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033095": {
+      "accession": "0001437749-26-033095",
+      "file_date": "2026-10-21",
+      "company": "FIDELITY D & D BANCORP INC",
+      "tickers": [
+        "FDBC"
+      ],
+      "cik": "1098151",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1098151/000143774926033095/0001437749-26-033095-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427848": {
+      "accession": "0001193125-26-427848",
+      "file_date": "2026-10-21",
+      "company": "First American Financial Corp",
+      "tickers": [
+        "FAF"
+      ],
+      "cik": "1472787",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/0001193125-26-427848-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000811589-26-000162": {
+      "accession": "0000811589-26-000162",
+      "file_date": "2026-10-21",
+      "company": "FIRST BANCORP /NC/",
+      "tickers": [
+        "FBNC"
+      ],
+      "cik": "811589",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/811589/000081158926000162/0000811589-26-000162-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000765207-26-000112": {
+      "accession": "0000765207-26-000112",
+      "file_date": "2026-10-21",
+      "company": "First Bancorp, Inc /ME/",
+      "tickers": [
+        "FNLC"
+      ],
+      "cik": "765207",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/765207/000076520726000112/0000765207-26-000112-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001552781-26-000524": {
+      "accession": "0001552781-26-000524",
+      "file_date": "2026-10-21",
+      "company": "FIRST COMMUNITY CORP /SC/",
+      "tickers": [
+        "FCCO"
+      ],
+      "cik": "932781",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/932781/000155278126000524/0001552781-26-000524-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000921825-26-000073": {
+      "accession": "0000921825-26-000073",
+      "file_date": "2026-10-21",
+      "company": "FIRST INDUSTRIAL REALTY TRUST INC",
+      "tickers": [
+        "FR"
+      ],
+      "cik": "921825",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/921825/000092182526000073/0000921825-26-000073-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000712534-26-000073": {
+      "accession": "0000712534-26-000073",
+      "file_date": "2026-10-21",
+      "company": "FIRST MERCHANTS CORP",
+      "tickers": [
+        "FRME",
+        "FRMEP"
+      ],
+      "cik": "712534",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/712534/000071253426000073/0000712534-26-000073-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033128": {
+      "accession": "0001437749-26-033128",
+      "file_date": "2026-10-21",
+      "company": "FS Bancorp, Inc.",
+      "tickers": [
+        "FSBW"
+      ],
+      "cik": "1530249",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926033128/0001437749-26-033128-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000700564-26-000036": {
+      "accession": "0000700564-26-000036",
+      "file_date": "2026-10-21",
+      "company": "FULTON FINANCIAL CORP",
+      "tickers": [
+        "FULT",
+        "FULTP"
+      ],
+      "cik": "700564",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/700564/000070056426000036/0000700564-26-000036-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427933": {
+      "accession": "0001193125-26-427933",
+      "file_date": "2026-10-21",
+      "company": "GETTY REALTY CORP /MD/",
+      "tickers": [
+        "GTY"
+      ],
+      "cik": "1052752",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312526427933/0001193125-26-427933-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000320335-26-000224": {
+      "accession": "0000320335-26-000224",
+      "file_date": "2026-10-21",
+      "company": "GLOBE LIFE INC.",
+      "tickers": [
+        "GL",
+        "GL-PD"
+      ],
+      "cik": "320335",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000224/0000320335-26-000224-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000731012-26-000055": {
+      "accession": "0000731012-26-000055",
+      "file_date": "2026-10-21",
+      "company": "HEALTHCARE SERVICES GROUP INC",
+      "tickers": [
+        "HCSG"
+      ],
+      "cik": "731012",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000055/0000731012-26-000055-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000799233-26-000045": {
+      "accession": "0000799233-26-000045",
+      "file_date": "2026-10-21",
+      "company": "HEARTLAND EXPRESS INC",
+      "tickers": [
+        "HTLD"
+      ],
+      "cik": "799233",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/799233/000079923326000045/0000799233-26-000045-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427875": {
+      "accession": "0001193125-26-427875",
+      "file_date": "2026-10-21",
+      "company": "HEXCEL CORP /DE/",
+      "tickers": [
+        "HXL"
+      ],
+      "cik": "717605",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/717605/000119312526427875/0001193125-26-427875-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001538263-26-000115": {
+      "accession": "0001538263-26-000115",
+      "file_date": "2026-10-21",
+      "company": "HomeTrust Bancshares, Inc.",
+      "tickers": [
+        "HTB"
+      ],
+      "cik": "1538263",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/0001538263-26-000115-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000706129-26-000082": {
+      "accession": "0000706129-26-000082",
+      "file_date": "2026-10-21",
+      "company": "HORIZON BANCORP INC /IN/",
+      "tickers": [
+        "HBNC"
+      ],
+      "cik": "706129",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000082/0000706129-26-000082-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000917520-26-000073": {
+      "accession": "0000917520-26-000073",
+      "file_date": "2026-10-21",
+      "company": "INTEGRA LIFESCIENCES HOLDINGS CORP",
+      "tickers": [
+        "IART"
+      ],
+      "cik": "917520",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/917520/000091752026000073/0000917520-26-000073-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000051143-26-000093": {
+      "accession": "0000051143-26-000093",
+      "file_date": "2026-10-21",
+      "company": "INTERNATIONAL BUSINESS MACHINES CORP",
+      "tickers": [
+        "IBM"
+      ],
+      "cik": "51143",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/0000051143-26-000093-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001213900-26-111181": {
+      "accession": "0001213900-26-111181",
+      "file_date": "2026-10-21",
+      "company": "INVE Technologies, Inc.",
+      "tickers": [
+        "INVE"
+      ],
+      "cik": "1036044",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1036044/000121390026111181/0001213900-26-111181-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427927": {
+      "accession": "0001193125-26-427927",
+      "file_date": "2026-10-21",
+      "company": "KAISER ALUMINUM CORP",
+      "tickers": [
+        "KALU"
+      ],
+      "cik": "811596",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/811596/000119312526427927/0001193125-26-427927-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001506307-26-000130": {
+      "accession": "0001506307-26-000130",
+      "file_date": "2026-10-21",
+      "company": "KINDER MORGAN, INC.",
+      "tickers": [
+        "KMI",
+        "EP-PC"
+      ],
+      "cik": "1506307",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/0001506307-26-000130-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001492691-26-000065": {
+      "accession": "0001492691-26-000065",
+      "file_date": "2026-10-21",
+      "company": "Knight-Swift Transportation Holdings Inc.",
+      "tickers": [
+        "KNX"
+      ],
+      "cik": "1492691",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1492691/000149269126000065/0001492691-26-000065-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427891": {
+      "accession": "0001193125-26-427891",
+      "file_date": "2026-10-21",
+      "company": "Lake Shore Bancorp, Inc. /MD/",
+      "tickers": [
+        "LSBK"
+      ],
+      "cik": "2059653",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2059653/000119312526427891/0001193125-26-427891-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000707549-26-000052": {
+      "accession": "0000707549-26-000052",
+      "file_date": "2026-10-21",
+      "company": "LAM RESEARCH CORP",
+      "tickers": [
+        "LRCX"
+      ],
+      "cik": "707549",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/0000707549-26-000052-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001300514-26-000099": {
+      "accession": "0001300514-26-000099",
+      "file_date": "2026-10-21",
+      "company": "LAS VEGAS SANDS CORP",
+      "tickers": [
+        "LVS"
+      ],
+      "cik": "1300514",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000099/0001300514-26-000099-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001694028-26-000055": {
+      "accession": "0001694028-26-000055",
+      "file_date": "2026-10-21",
+      "company": "Liberty Energy Inc.",
+      "tickers": [
+        "LBRT"
+      ],
+      "cik": "1694028",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/0001694028-26-000055-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001023128-26-000057": {
+      "accession": "0001023128-26-000057",
+      "file_date": "2026-10-21",
+      "company": "LITHIA MOTORS INC",
+      "tickers": [
+        "LAD"
+      ],
+      "cik": "1023128",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1023128/000102312826000057/0001023128-26-000057-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001462120-26-000068": {
+      "accession": "0001462120-26-000068",
+      "file_date": "2026-10-21",
+      "company": "Live Oak Bancshares, Inc.",
+      "tickers": [
+        "LOB",
+        "LOB-PA"
+      ],
+      "cik": "1462120",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1462120/000146212026000068/0001462120-26-000068-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000799292-26-000030": {
+      "accession": "0000799292-26-000030",
+      "file_date": "2026-10-21",
+      "company": "M/I HOMES, INC.",
+      "tickers": [
+        "MHO"
+      ],
+      "cik": "799292",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000030/0000799292-26-000030-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001176334-26-000033": {
+      "accession": "0001176334-26-000033",
+      "file_date": "2026-10-21",
+      "company": "MARTIN MIDSTREAM PARTNERS L.P.",
+      "tickers": [
+        "MMLP"
+      ],
+      "cik": "1176334",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1176334/000117633426000033/0001176334-26-000033-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001668397-26-000034": {
+      "accession": "0001668397-26-000034",
+      "file_date": "2026-10-21",
+      "company": "Medpace Holdings, Inc.",
+      "tickers": [
+        "MEDP"
+      ],
+      "cik": "1668397",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1668397/000166839726000034/0001668397-26-000034-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066700": {
+      "accession": "0001628280-26-066700",
+      "file_date": "2026-10-21",
+      "company": "Meta Platforms, Inc.",
+      "tickers": [
+        "META"
+      ],
+      "cik": "1326801",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000879635-26-000058": {
+      "accession": "0000879635-26-000058",
+      "file_date": "2026-10-21",
+      "company": "MID PENN BANCORP INC",
+      "tickers": [
+        "MPB"
+      ],
+      "cik": "879635",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/0000879635-26-000058-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001179929-26-000042": {
+      "accession": "0001179929-26-000042",
+      "file_date": "2026-10-21",
+      "company": "MOLINA HEALTHCARE, INC.",
+      "tickers": [
+        "MOH"
+      ],
+      "cik": "1179929",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1179929/000117992926000042/0001179929-26-000042-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066594": {
+      "accession": "0001628280-26-066594",
+      "file_date": "2026-10-21",
+      "company": "MOODYS CORP /DE/",
+      "tickers": [
+        "MCO"
+      ],
+      "cik": "1059556",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/0001628280-26-066594-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066715": {
+      "accession": "0001628280-26-066715",
+      "file_date": "2026-10-21",
+      "company": "NETSTREIT Corp.",
+      "tickers": [
+        "NTST"
+      ],
+      "cik": "1798100",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1798100/000162828026066715/0001628280-26-066715-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000753308-26-000077": {
+      "accession": "0000753308-26-000077",
+      "file_date": "2026-10-21",
+      "company": "NEXTERA ENERGY INC",
+      "tickers": [
+        "NEE",
+        "NEE-PN",
+        "NEE-PS",
+        "NEE-PT",
+        "NEE-PU",
+        "NEE-PV",
+        "NEE-PW"
+      ],
+      "cik": "753308",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000073124-26-000063": {
+      "accession": "0000073124-26-000063",
+      "file_date": "2026-10-21",
+      "company": "NORTHERN TRUST CORP",
+      "tickers": [
+        "NTRS",
+        "NTRSO"
+      ],
+      "cik": "73124",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000063/0000073124-26-000063-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001376474-26-000663": {
+      "accession": "0001376474-26-000663",
+      "file_date": "2026-10-21",
+      "company": "NVE CORP /NEW/",
+      "tickers": [
+        "NVEC"
+      ],
+      "cik": "724910",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/0001376474-26-000663-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000073756-26-000152": {
+      "accession": "0000073756-26-000152",
+      "file_date": "2026-10-21",
+      "company": "OCEANEERING INTERNATIONAL INC",
+      "tickers": [
+        "OII"
+      ],
+      "cik": "73756",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/73756/000007375626000152/0000073756-26-000152-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001030469-26-000043": {
+      "accession": "0001030469-26-000043",
+      "file_date": "2026-10-21",
+      "company": "OFG BANCORP",
+      "tickers": [
+        "OFG"
+      ],
+      "cik": "1030469",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1030469/000103046926000043/0001030469-26-000043-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066598": {
+      "accession": "0001628280-26-066598",
+      "file_date": "2026-10-21",
+      "company": "OLD NATIONAL BANCORP /IN/",
+      "tickers": [
+        "ONB",
+        "ONBPO",
+        "ONBPP"
+      ],
+      "cik": "707179",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/707179/000162828026066598/0001628280-26-066598-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000357173-26-000057": {
+      "accession": "0000357173-26-000057",
+      "file_date": "2026-10-21",
+      "company": "OLD SECOND BANCORP INC",
+      "tickers": [
+        "OSBC"
+      ],
+      "cik": "357173",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/357173/000035717326000057/0000357173-26-000057-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066606": {
+      "accession": "0001628280-26-066606",
+      "file_date": "2026-10-21",
+      "company": "ORRSTOWN FINANCIAL SERVICES INC",
+      "tickers": [
+        "ORRF"
+      ],
+      "cik": "826154",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/826154/000162828026066606/0001628280-26-066606-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033062": {
+      "accession": "0001437749-26-033062",
+      "file_date": "2026-10-21",
+      "company": "PARKE BANCORP, INC.",
+      "tickers": [
+        "PKBK"
+      ],
+      "cik": "1315399",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1315399/000143774926033062/0001437749-26-033062-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000907471-26-000042": {
+      "accession": "0000907471-26-000042",
+      "file_date": "2026-10-21",
+      "company": "PATHWARD FINANCIAL, INC.",
+      "tickers": [
+        "CASH"
+      ],
+      "cik": "907471",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/907471/000090747126000042/0000907471-26-000042-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066596": {
+      "accession": "0001628280-26-066596",
+      "file_date": "2026-10-21",
+      "company": "Philip Morris International Inc.",
+      "tickers": [
+        "PM"
+      ],
+      "cik": "1413329",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026066596/0001628280-26-066596-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0002082866-26-000087": {
+      "accession": "0002082866-26-000087",
+      "file_date": "2026-10-21",
+      "company": "Pinnacle Financial Partners, Inc.",
+      "tickers": [
+        "PNFP",
+        "PNFP-PA",
+        "PNFP-PB",
+        "PNFP-PC"
+      ],
+      "cik": "2082866",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2082866/000208286626000087/0002082866-26-000087-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-033066": {
+      "accession": "0001437749-26-033066",
+      "file_date": "2026-10-21",
+      "company": "PLUMAS BANCORP",
+      "tickers": [
+        "PLBC"
+      ],
+      "cik": "1168455",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1168455/000143774926033066/0001437749-26-033066-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427862": {
+      "accession": "0001193125-26-427862",
+      "file_date": "2026-10-21",
+      "company": "QuantumScape Corp",
+      "tickers": [
+        "QS"
+      ],
+      "cik": "1811414",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1811414/000119312526427862/0001193125-26-427862-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006744": {
+      "accession": "0001171843-26-006744",
+      "file_date": "2026-10-21",
+      "company": "RELIANCE, INC.",
+      "tickers": [
+        "RS"
+      ],
+      "cik": "861884",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/0001171843-26-006744-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001614806-26-000023": {
+      "accession": "0001614806-26-000023",
+      "file_date": "2026-10-21",
+      "company": "Rithm Property Trust Inc.",
+      "tickers": [
+        "RPT",
+        "RPT-PC"
+      ],
+      "cik": "1614806",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1614806/000161480626000023/0001614806-26-000023-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000084839-26-000042": {
+      "accession": "0000084839-26-000042",
+      "file_date": "2026-10-21",
+      "company": "ROLLINS INC",
+      "tickers": [
+        "ROL"
+      ],
+      "cik": "84839",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000042/0000084839-26-000042-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000350894-26-000051": {
+      "accession": "0000350894-26-000051",
+      "file_date": "2026-10-21",
+      "company": "SEI INVESTMENTS CO",
+      "tickers": [
+        "SEIC"
+      ],
+      "cik": "350894",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/0000350894-26-000051-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000091767-26-000047": {
+      "accession": "0000091767-26-000047",
+      "file_date": "2026-10-21",
+      "company": "SONOCO PRODUCTS CO",
+      "tickers": [
+        "SON"
+      ],
+      "cik": "91767",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91767/000009176726000047/0000091767-26-000047-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117588": {
+      "accession": "0001104659-26-117588",
+      "file_date": "2026-10-21",
+      "company": "SOUTHERN COPPER CORP/",
+      "tickers": [
+        "SCCO"
+      ],
+      "cik": "1001838",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/0001104659-26-117588-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117871": {
+      "accession": "0001104659-26-117871",
+      "file_date": "2026-10-21",
+      "company": "SOUTHERN MISSOURI BANCORP, INC.",
+      "tickers": [
+        "SMBC"
+      ],
+      "cik": "916907",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/916907/000110465926117871/0001104659-26-117871-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427824": {
+      "accession": "0001193125-26-427824",
+      "file_date": "2026-10-21",
+      "company": "SouthState Bank Corp",
+      "tickers": [
+        "SSB"
+      ],
+      "cik": "764038",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/764038/000119312526427824/0001193125-26-427824-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000092380-26-000104": {
+      "accession": "0000092380-26-000104",
+      "file_date": "2026-10-21",
+      "company": "SOUTHWEST AIRLINES CO",
+      "tickers": [
+        "LUV"
+      ],
+      "cik": "92380",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/0000092380-26-000104-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117852": {
+      "accession": "0001104659-26-117852",
+      "file_date": "2026-10-21",
+      "company": "STEWART INFORMATION SERVICES CORP",
+      "tickers": [
+        "STC"
+      ],
+      "cik": "94344",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/94344/000110465926117852/0001104659-26-117852-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427189": {
+      "accession": "0001193125-26-427189",
+      "file_date": "2026-10-21",
+      "company": "STIFEL FINANCIAL CORP",
+      "tickers": [
+        "SF",
+        "SFB",
+        "SF-PB",
+        "SF-PC",
+        "SF-PD"
+      ],
+      "cik": "720672",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/720672/000119312526427189/0001193125-26-427189-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001094285-26-000055": {
+      "accession": "0001094285-26-000055",
+      "file_date": "2026-10-21",
+      "company": "TELEDYNE TECHNOLOGIES INC",
+      "tickers": [
+        "TDY"
+      ],
+      "cik": "1094285",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1094285/000109428526000055/0001094285-26-000055-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066738": {
+      "accession": "0001628280-26-066738",
+      "file_date": "2026-10-21",
+      "company": "Tesla, Inc.",
+      "tickers": [
+        "TSLA"
+      ],
+      "cik": "1318605",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001077428-26-000078": {
+      "accession": "0001077428-26-000078",
+      "file_date": "2026-10-21",
+      "company": "TEXAS CAPITAL BANCSHARES INC/TX",
+      "tickers": [
+        "TCBI",
+        "TCBIO",
+        "TCBI-PB"
+      ],
+      "cik": "1077428",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1077428/000107742826000078/0001077428-26-000078-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000097476-26-000165": {
+      "accession": "0000097476-26-000165",
+      "file_date": "2026-10-21",
+      "company": "TEXAS INSTRUMENTS INC",
+      "tickers": [
+        "TXN"
+      ],
+      "cik": "97476",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/0000097476-26-000165-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000097745-26-000173": {
+      "accession": "0000097745-26-000173",
+      "file_date": "2026-10-21",
+      "company": "THERMO FISHER SCIENTIFIC INC.",
+      "tickers": [
+        "TMO"
+      ],
+      "cik": "97745",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000173/0000097745-26-000173-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-427892": {
+      "accession": "0001193125-26-427892",
+      "file_date": "2026-10-21",
+      "company": "Third Coast Bancshares, Inc.",
+      "tickers": [
+        "TCBX"
+      ],
+      "cik": "1781730",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526427892/0001193125-26-427892-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001539638-26-000036": {
+      "accession": "0001539638-26-000036",
+      "file_date": "2026-10-21",
+      "company": "Triumph Financial, Inc.",
+      "tickers": [
+        "TFIN",
+        "TFIN-P"
+      ],
+      "cik": "1539638",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1539638/000153963826000036/0001539638-26-000036-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001140361-26-040403": {
+      "accession": "0001140361-26-040403",
+      "file_date": "2026-10-21",
+      "company": "TRUSTCO BANK CORP N Y",
+      "tickers": [
+        "TRST"
+      ],
+      "cik": "357301",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126040403/0001140361-26-040403-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000074208-26-000081": {
+      "accession": "0000074208-26-000081",
+      "file_date": "2026-10-21",
+      "company": "UDR, Inc.",
+      "tickers": [
+        "UDR"
+      ],
+      "cik": "74208",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000081/0000074208-26-000081-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066610": {
+      "accession": "0001628280-26-066610",
+      "file_date": "2026-10-21",
+      "company": "UNIFIRST CORP",
+      "tickers": [
+        "UNF"
+      ],
+      "cik": "717954",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/717954/000162828026066610/0001628280-26-066610-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000706863-26-000087": {
+      "accession": "0000706863-26-000087",
+      "file_date": "2026-10-21",
+      "company": "UNION BANKSHARES INC",
+      "tickers": [
+        "UNB"
+      ],
+      "cik": "706863",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/706863/000070686326000087/0000706863-26-000087-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001067701-26-000036": {
+      "accession": "0001067701-26-000036",
+      "file_date": "2026-10-21",
+      "company": "UNITED RENTALS, INC.",
+      "tickers": [
+        "URI"
+      ],
+      "cik": "1067701",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1067701/000106770126000036/0001067701-26-000036-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117838": {
+      "accession": "0001104659-26-117838",
+      "file_date": "2026-10-21",
+      "company": "Waste Connections, Inc.",
+      "tickers": [
+        "WCN"
+      ],
+      "cik": "1318220",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/0001104659-26-117838-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000105132-26-000086": {
+      "accession": "0000105132-26-000086",
+      "file_date": "2026-10-21",
+      "company": "WD 40 CO",
+      "tickers": [
+        "WDFC"
+      ],
+      "cik": "105132",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/105132/000010513226000086/0000105132-26-000086-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000943452-26-000017": {
+      "accession": "0000943452-26-000017",
+      "file_date": "2026-10-21",
+      "company": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+      "tickers": [
+        "WAB"
+      ],
+      "cik": "943452",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000017/0000943452-26-000017-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066605": {
+      "accession": "0001628280-26-066605",
+      "file_date": "2026-10-21",
+      "company": "WINNEBAGO INDUSTRIES INC",
+      "tickers": [
+        "WGO"
+      ],
+      "cik": "107687",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/0001628280-26-066605-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001722684-26-000081": {
+      "accession": "0001722684-26-000081",
+      "file_date": "2026-10-21",
+      "company": "WYNDHAM HOTELS & RESORTS, INC.",
+      "tickers": [
+        "WH"
+      ],
+      "cik": "1722684",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1722684/000172268426000081/0001722684-26-000081-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000066740-26-000308": {
+      "accession": "0000066740-26-000308",
+      "file_date": "2026-10-20",
+      "company": "3M CO",
+      "tickers": [
+        "MMM"
+      ],
+      "cik": "66740",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000308/0000066740-26-000308-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000917251-26-000075": {
+      "accession": "0000917251-26-000075",
+      "file_date": "2026-10-20",
+      "company": "AGREE REALTY CORP",
+      "tickers": [
+        "ADC",
+        "ADC-PA"
+      ],
+      "cik": "917251",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/917251/000091725126000075/0000917251-26-000075-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000766421-26-000046": {
+      "accession": "0000766421-26-000046",
+      "file_date": "2026-10-20",
+      "company": "ALASKA AIR GROUP, INC.",
+      "tickers": [
+        "ALK"
+      ],
+      "cik": "766421",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/766421/000076642126000046/0000766421-26-000046-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-425698": {
+      "accession": "0001193125-26-425698",
+      "file_date": "2026-10-20",
+      "company": "Ally Financial Inc.",
+      "tickers": [
+        "ALLY"
+      ],
+      "cik": "40729",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40729/000119312526425698/0001193125-26-425698-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001043219-26-000077": {
+      "accession": "0001043219-26-000077",
+      "file_date": "2026-10-20",
+      "company": "ANNALY CAPITAL MANAGEMENT INC",
+      "tickers": [
+        "NLY",
+        "NLY-PF",
+        "NLY-PG",
+        "NLY-PJ"
+      ],
+      "cik": "1043219",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1043219/000104321926000077/0001043219-26-000077-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000883948-26-000077": {
+      "accession": "0000883948-26-000077",
+      "file_date": "2026-10-20",
+      "company": "Atlantic Union Bankshares Corp",
+      "tickers": [
+        "AUB",
+        "AUB-PA"
+      ],
+      "cik": "883948",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000077/0000883948-26-000077-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117400": {
+      "accession": "0001104659-26-117400",
+      "file_date": "2026-10-20",
+      "company": "Bank First Corp",
+      "tickers": [
+        "BFC"
+      ],
+      "cik": "1746109",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1746109/000110465926117400/0001104659-26-117400-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000726601-26-000027": {
+      "accession": "0000726601-26-000027",
+      "file_date": "2026-10-20",
+      "company": "CAPITAL CITY BANK GROUP INC",
+      "tickers": [
+        "CCBG"
+      ],
+      "cik": "726601",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/726601/000072660126000027/0000726601-26-000027-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000927628-26-000142": {
+      "accession": "0000927628-26-000142",
+      "file_date": "2026-10-20",
+      "company": "CAPITAL ONE FINANCIAL CORP",
+      "tickers": [
+        "COF",
+        "COF-PI",
+        "COF-PJ",
+        "COF-PK",
+        "COF-PL",
+        "COF-PN"
+      ],
+      "cik": "927628",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000142/0000927628-26-000142-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426866": {
+      "accession": "0001193125-26-426866",
+      "file_date": "2026-10-20",
+      "company": "Chubb Ltd",
+      "tickers": [
+        "CB"
+      ],
+      "cik": "896159",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/896159/000119312526426866/0001193125-26-426866-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117127": {
+      "accession": "0001104659-26-117127",
+      "file_date": "2026-10-20",
+      "company": "Clearway Energy, Inc.",
+      "tickers": [
+        "CWEN"
+      ],
+      "cik": "1567683",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1567683/000110465926117127/0001104659-26-117127-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000022356-26-000209": {
+      "accession": "0000022356-26-000209",
+      "file_date": "2026-10-20",
+      "company": "COMMERCE BANCSHARES INC /MO/",
+      "tickers": [
+        "CBSH"
+      ],
+      "cik": "22356",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000209/0000022356-26-000209-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426000": {
+      "accession": "0001193125-26-426000",
+      "file_date": "2026-10-20",
+      "company": "CROSS TIMBERS ROYALTY TRUST",
+      "tickers": [
+        "CRT"
+      ],
+      "cik": "881787",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526426000/0001193125-26-426000-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426681": {
+      "accession": "0001193125-26-426681",
+      "file_date": "2026-10-20",
+      "company": "CSB Bancorp, Inc.",
+      "tickers": [
+        "CSBB"
+      ],
+      "cik": "880417",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/880417/000119312526426681/0001193125-26-426681-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000846617-26-000047": {
+      "accession": "0000846617-26-000047",
+      "file_date": "2026-10-20",
+      "company": "Dime Commercial Bancshares, Inc. /NY/",
+      "tickers": [
+        "DCBG",
+        "DCOM",
+        "DCOM-P"
+      ],
+      "cik": "846617",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/846617/000084661726000047/0000846617-26-000047-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001069157-26-000048": {
+      "accession": "0001069157-26-000048",
+      "file_date": "2026-10-20",
+      "company": "EAST WEST BANCORP INC",
+      "tickers": [
+        "EWBC"
+      ],
+      "cik": "1069157",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1069157/000106915726000048/0001069157-26-000048-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000033185-26-000037": {
+      "accession": "0000033185-26-000037",
+      "file_date": "2026-10-20",
+      "company": "EQUIFAX INC",
+      "tickers": [
+        "EFX"
+      ],
+      "cik": "33185",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000037/0000033185-26-000037-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001140361-26-040188": {
+      "accession": "0001140361-26-040188",
+      "file_date": "2026-10-20",
+      "company": "FARMERS & MERCHANTS BANCORP",
+      "tickers": [
+        "FMCB"
+      ],
+      "cik": "1085913",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1085913/000114036126040188/0001140361-26-040188-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000037808-26-000027": {
+      "accession": "0000037808-26-000027",
+      "file_date": "2026-10-20",
+      "company": "FNB CORP/PA/",
+      "tickers": [
+        "FNB"
+      ],
+      "cik": "37808",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/37808/000003780826000027/0000037808-26-000027-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000040545-26-000063": {
+      "accession": "0000040545-26-000063",
+      "file_date": "2026-10-20",
+      "company": "GENERAL ELECTRIC CO",
+      "tickers": [
+        "GE"
+      ],
+      "cik": "40545",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000063/0000040545-26-000063-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001467858-26-000056": {
+      "accession": "0001467858-26-000056",
+      "file_date": "2026-10-20",
+      "company": "General Motors Co",
+      "tickers": [
+        "GM"
+      ],
+      "cik": "1467858",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/0001467858-26-000056-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000804269-26-000028": {
+      "accession": "0000804269-26-000028",
+      "file_date": "2026-10-20",
+      "company": "General Motors Financial Company, Inc.",
+      "tickers": [],
+      "cik": "804269",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804269/000080426926000028/0000804269-26-000028-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000040987-26-000037": {
+      "accession": "0000040987-26-000037",
+      "file_date": "2026-10-20",
+      "company": "GENUINE PARTS CO",
+      "tickers": [
+        "GPC"
+      ],
+      "cik": "40987",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000037/0000040987-26-000037-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000045012-26-000070": {
+      "accession": "0000045012-26-000070",
+      "file_date": "2026-10-20",
+      "company": "HALLIBURTON CO",
+      "tickers": [
+        "HAL"
+      ],
+      "cik": "45012",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/45012/000004501226000070/0000045012-26-000070-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426654": {
+      "accession": "0001193125-26-426654",
+      "file_date": "2026-10-20",
+      "company": "HANCOCK WHITNEY CORP",
+      "tickers": [
+        "HWC",
+        "HWCPZ"
+      ],
+      "cik": "750577",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526426654/0001193125-26-426654-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000046080-26-000058": {
+      "accession": "0000046080-26-000058",
+      "file_date": "2026-10-20",
+      "company": "HASBRO, INC.",
+      "tickers": [
+        "HAS"
+      ],
+      "cik": "46080",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/46080/000004608026000058/0000046080-26-000058-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426823": {
+      "accession": "0001193125-26-426823",
+      "file_date": "2026-10-20",
+      "company": "HUGOTON ROYALTY TRUST",
+      "tickers": [
+        "HGTXU"
+      ],
+      "cik": "862022",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/862022/000119312526426823/0001193125-26-426823-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001035267-26-000067": {
+      "accession": "0001035267-26-000067",
+      "file_date": "2026-10-20",
+      "company": "INTUITIVE SURGICAL INC",
+      "tickers": [
+        "ISRG"
+      ],
+      "cik": "1035267",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000067/0001035267-26-000067-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001418819-26-000053": {
+      "accession": "0001418819-26-000053",
+      "file_date": "2026-10-20",
+      "company": "Iridium Communications Inc.",
+      "tickers": [
+        "IRDM"
+      ],
+      "cik": "1418819",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/0001418819-26-000053-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000091576-26-000020": {
+      "accession": "0000091576-26-000020",
+      "file_date": "2026-10-20",
+      "company": "KEYCORP /NEW/",
+      "tickers": [
+        "KEY",
+        "KEY-PI",
+        "KEY-PJ",
+        "KEY-PK",
+        "KEY-PL"
+      ],
+      "cik": "91576",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91576/000009157626000020/0000091576-26-000020-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117218": {
+      "accession": "0001104659-26-117218",
+      "file_date": "2026-10-20",
+      "company": "Knightscope, Inc.",
+      "tickers": [
+        "KSCP"
+      ],
+      "cik": "1600983",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926117218/0001104659-26-117218-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001032220-26-000038": {
+      "accession": "0001032220-26-000038",
+      "file_date": "2026-10-20",
+      "company": "MAXIMUS, INC.",
+      "tickers": [
+        "MMS"
+      ],
+      "cik": "1032220",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000038/0001032220-26-000038-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001437749-26-032974": {
+      "accession": "0001437749-26-032974",
+      "file_date": "2026-10-20",
+      "company": "MERCANTILE BANK CORP",
+      "tickers": [
+        "MBWM"
+      ],
+      "cik": "1042729",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1042729/000143774926032974/0001437749-26-032974-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117397": {
+      "accession": "0001104659-26-117397",
+      "file_date": "2026-10-20",
+      "company": "MESA ROYALTY TRUST/TX",
+      "tickers": [
+        "MTR"
+      ],
+      "cik": "313364",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926117397/0001104659-26-117397-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117424": {
+      "accession": "0001104659-26-117424",
+      "file_date": "2026-10-20",
+      "company": "Metropolitan Bank Holding Corp.",
+      "tickers": [
+        "MCB"
+      ],
+      "cik": "1476034",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1476034/000110465926117424/0001104659-26-117424-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001408198-26-000054": {
+      "accession": "0001408198-26-000054",
+      "file_date": "2026-10-20",
+      "company": "MSCI Inc.",
+      "tickers": [
+        "MSCI"
+      ],
+      "cik": "1408198",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819826000054/0001408198-26-000054-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000089439-26-000038": {
+      "accession": "0000089439-26-000038",
+      "file_date": "2026-10-20",
+      "company": "MUELLER INDUSTRIES INC",
+      "tickers": [
+        "MLI"
+      ],
+      "cik": "89439",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000038/0000089439-26-000038-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066494": {
+      "accession": "0001628280-26-066494",
+      "file_date": "2026-10-20",
+      "company": "Neptune Insurance Holdings Inc.",
+      "tickers": [
+        "NP"
+      ],
+      "cik": "2067129",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/0001628280-26-066494-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001065280-26-000290": {
+      "accession": "0001065280-26-000290",
+      "file_date": "2026-10-20",
+      "company": "NETFLIX INC",
+      "tickers": [
+        "NFLX"
+      ],
+      "cik": "1065280",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000290/0001065280-26-000290-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001174850-26-000172": {
+      "accession": "0001174850-26-000172",
+      "file_date": "2026-10-20",
+      "company": "NICOLET BANKSHARES INC",
+      "tickers": [
+        "NIC"
+      ],
+      "cik": "1174850",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1174850/000117485026000172/0001174850-26-000172-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001336706-26-000072": {
+      "accession": "0001336706-26-000072",
+      "file_date": "2026-10-20",
+      "company": "NORTHPOINTE BANCSHARES INC",
+      "tickers": [
+        "NPB"
+      ],
+      "cik": "1336706",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "2.05",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1336706/000133670626000072/0001336706-26-000072-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001133421-26-000037": {
+      "accession": "0001133421-26-000037",
+      "file_date": "2026-10-20",
+      "company": "NORTHROP GRUMMAN CORP /DE/",
+      "tickers": [
+        "NOC"
+      ],
+      "cik": "1133421",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000037/0001133421-26-000037-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001013857-26-000057": {
+      "accession": "0001013857-26-000057",
+      "file_date": "2026-10-20",
+      "company": "PEGASYSTEMS INC",
+      "tickers": [
+        "PEGA"
+      ],
+      "cik": "1013857",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000057/0001013857-26-000057-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426034": {
+      "accession": "0001193125-26-426034",
+      "file_date": "2026-10-20",
+      "company": "PERMIAN BASIN ROYALTY TRUST",
+      "tickers": [
+        "PBT"
+      ],
+      "cik": "319654",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526426034/0001193125-26-426034-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426186": {
+      "accession": "0001193125-26-426186",
+      "file_date": "2026-10-20",
+      "company": "PermRock Royalty Trust",
+      "tickers": [
+        "PRT"
+      ],
+      "cik": "1724009",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526426186/0001193125-26-426186-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117409": {
+      "accession": "0001104659-26-117409",
+      "file_date": "2026-10-20",
+      "company": "QCR HOLDINGS INC",
+      "tickers": [
+        "QCRH"
+      ],
+      "cik": "906465",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906465/000110465926117409/0001104659-26-117409-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000085535-26-000044": {
+      "accession": "0000085535-26-000044",
+      "file_date": "2026-10-20",
+      "company": "ROYAL GOLD INC",
+      "tickers": [
+        "RGLD"
+      ],
+      "cik": "85535",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/85535/000008553526000044/0000085535-26-000044-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000101829-26-000030": {
+      "accession": "0000101829-26-000030",
+      "file_date": "2026-10-20",
+      "company": "RTX Corp",
+      "tickers": [
+        "RTX"
+      ],
+      "cik": "101829",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000030/0000101829-26-000030-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426824": {
+      "accession": "0001193125-26-426824",
+      "file_date": "2026-10-20",
+      "company": "SAN JUAN BASIN ROYALTY TRUST",
+      "tickers": [
+        "SJT"
+      ],
+      "cik": "319655",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526426824/0001193125-26-426824-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001206774-26-000563": {
+      "accession": "0001206774-26-000563",
+      "file_date": "2026-10-20",
+      "company": "SOUTHERN FIRST BANCSHARES INC",
+      "tickers": [
+        "SFST"
+      ],
+      "cik": "1090009",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1090009/000120677426000563/0001206774-26-000563-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066482": {
+      "accession": "0001628280-26-066482",
+      "file_date": "2026-10-20",
+      "company": "SPACE EXPLORATION TECHNOLOGIES CORP",
+      "tickers": [
+        "SPCX"
+      ],
+      "cik": "1181412",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/0001628280-26-066482-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117217": {
+      "accession": "0001104659-26-117217",
+      "file_date": "2026-10-20",
+      "company": "STEEL DYNAMICS INC",
+      "tickers": [
+        "STLD"
+      ],
+      "cik": "1022671",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926117217/0001104659-26-117217-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006722": {
+      "accession": "0001171843-26-006722",
+      "file_date": "2026-10-20",
+      "company": "Stride, Inc.",
+      "tickers": [
+        "LRN"
+      ],
+      "cik": "1157408",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1157408/000117184326006722/0001171843-26-006722-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001375365-26-000025": {
+      "accession": "0001375365-26-000025",
+      "file_date": "2026-10-20",
+      "company": "Super Micro Computer, Inc.",
+      "tickers": [
+        "SMCI",
+        "SMCIP"
+      ],
+      "cik": "1375365",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000025/0001375365-26-000025-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-426828": {
+      "accession": "0001193125-26-426828",
+      "file_date": "2026-10-20",
+      "company": "Surrozen, Inc./DE",
+      "tickers": [
+        "SRZN"
+      ],
+      "cik": "1824893",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "3.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1824893/000119312526426828/0001193125-26-426828-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001601712-26-000040": {
+      "accession": "0001601712-26-000040",
+      "file_date": "2026-10-20",
+      "company": "Synchrony Financial",
+      "tickers": [
+        "SYF",
+        "SYF-PA",
+        "SYF-PB"
+      ],
+      "cik": "1601712",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000040/0001601712-26-000040-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000100517-26-000184": {
+      "accession": "0000100517-26-000184",
+      "file_date": "2026-10-20",
+      "company": "United Airlines Holdings, Inc.",
+      "tickers": [
+        "UAL"
+      ],
+      "cik": "100517",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000184/0000100517-26-000184-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117113": {
+      "accession": "0001104659-26-117113",
+      "file_date": "2026-10-20",
+      "company": "UNITED COMMUNITY BANKS INC",
+      "tickers": [
+        "UCB"
+      ],
+      "cik": "857855",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/0001104659-26-117113-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117126": {
+      "accession": "0001104659-26-117126",
+      "file_date": "2026-10-20",
+      "company": "VALMONT INDUSTRIES INC",
+      "tickers": [
+        "VMI"
+      ],
+      "cik": "102729",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/102729/000110465926117126/0001104659-26-117126-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-425697": {
+      "accession": "0001193125-26-425697",
+      "file_date": "2026-10-20",
+      "company": "VICOR CORP",
+      "tickers": [
+        "VICR"
+      ],
+      "cik": "751978",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/751978/000119312526425697/0001193125-26-425697-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-117413": {
+      "accession": "0001104659-26-117413",
+      "file_date": "2026-10-20",
+      "company": "VOC Energy Trust",
+      "tickers": [
+        "VOC"
+      ],
+      "cik": "1505413",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1505413/000110465926117413/0001104659-26-117413-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001603923-26-000118": {
+      "accession": "0001603923-26-000118",
+      "file_date": "2026-10-20",
+      "company": "Weatherford International plc",
+      "tickers": [
+        "WFRD"
+      ],
+      "cik": "1603923",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1603923/000160392326000118/0001603923-26-000118-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001213900-26-111088": {
+      "accession": "0001213900-26-111088",
+      "file_date": "2026-10-20",
+      "company": "XTI Aerospace, Inc.",
+      "tickers": [
+        "XTIA"
+      ],
+      "cik": "1529113",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026111088/0001213900-26-111088-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001423689-26-000144": {
+      "accession": "0001423689-26-000144",
+      "file_date": "2026-10-19",
+      "company": "AGNC Investment Corp.",
+      "tickers": [
+        "AGNC",
+        "AGNCL",
+        "AGNCM",
+        "AGNCN",
+        "AGNCO",
+        "AGNCP",
+        "AGNCZ"
+      ],
+      "cik": "1423689",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1423689/000142368926000144/0001423689-26-000144-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000011544-26-000046": {
+      "accession": "0000011544-26-000046",
+      "file_date": "2026-10-19",
+      "company": "BERKLEY W R CORP",
+      "tickers": [
+        "WRB",
+        "WRB-PE",
+        "WRB-PF",
+        "WRB-PG",
+        "WRB-PH"
+      ],
+      "cik": "11544",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/11544/000001154426000046/0000011544-26-000046-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000875357-26-000054": {
+      "accession": "0000875357-26-000054",
+      "file_date": "2026-10-19",
+      "company": "BOK FINANCIAL CORP",
+      "tickers": [
+        "BOKF"
+      ],
+      "cik": "875357",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/875357/000087535726000054/0000875357-26-000054-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-424639": {
+      "accession": "0001193125-26-424639",
+      "file_date": "2026-10-19",
+      "company": "CBIZ, Inc.",
+      "tickers": [
+        "CBZ"
+      ],
+      "cik": "944148",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526424639/0001193125-26-424639-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001486159-26-000037": {
+      "accession": "0001486159-26-000037",
+      "file_date": "2026-10-19",
+      "company": "Chord Energy Corp",
+      "tickers": [
+        "CHRD"
+      ],
+      "cik": "1486159",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1486159/000148615926000037/0001486159-26-000037-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000764065-26-000112": {
+      "accession": "0000764065-26-000112",
+      "file_date": "2026-10-19",
+      "company": "CLEVELAND-CLIFFS INC.",
+      "tickers": [
+        "CLF"
+      ],
+      "cik": "764065",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000112/0000764065-26-000112-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-425283": {
+      "accession": "0001193125-26-425283",
+      "file_date": "2026-10-19",
+      "company": "CoastalSouth Bancshares, Inc.",
+      "tickers": [
+        "COSO"
+      ],
+      "cik": "1297107",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1297107/000119312526425283/0001193125-26-425283-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066281": {
+      "accession": "0001628280-26-066281",
+      "file_date": "2026-10-19",
+      "company": "CROWN HOLDINGS, INC.",
+      "tickers": [
+        "CCK"
+      ],
+      "cik": "1219601",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1219601/000162828026066281/0001628280-26-066281-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000826675-26-000114": {
+      "accession": "0000826675-26-000114",
+      "file_date": "2026-10-19",
+      "company": "DYNEX CAPITAL INC",
+      "tickers": [
+        "DX",
+        "DX-PC",
+        "DX-PD"
+      ],
+      "cik": "826675",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000114/0000826675-26-000114-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066229": {
+      "accession": "0001628280-26-066229",
+      "file_date": "2026-10-19",
+      "company": "Eos Energy Enterprises, Inc.",
+      "tickers": [
+        "EOSE",
+        "EOSEW"
+      ],
+      "cik": "1805077",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026066229/0001628280-26-066229-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-424755": {
+      "accession": "0001193125-26-424755",
+      "file_date": "2026-10-19",
+      "company": "EyePoint, Inc.",
+      "tickers": [
+        "EYPT"
+      ],
+      "cik": "1314102",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "2.05",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1314102/000119312526424755/0001193125-26-424755-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000035527-26-000229": {
+      "accession": "0000035527-26-000229",
+      "file_date": "2026-10-19",
+      "company": "FIFTH THIRD BANCORP",
+      "tickers": [
+        "FITB",
+        "FITB-PA",
+        "FITB-PI",
+        "FITB-PK",
+        "FITB-PM"
+      ],
+      "cik": "35527",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000229/0000035527-26-000229-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001193125-26-425341": {
+      "accession": "0001193125-26-425341",
+      "file_date": "2026-10-19",
+      "company": "FreightCar America, Inc.",
+      "tickers": [
+        "RAIL"
+      ],
+      "cik": "1320854",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526425341/0001193125-26-425341-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066322": {
+      "accession": "0001628280-26-066322",
+      "file_date": "2026-10-19",
+      "company": "HOME BANCORP, INC.",
+      "tickers": [
+        "HBCP"
+      ],
+      "cik": "1436425",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1436425/000162828026066322/0001628280-26-066322-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001174947-26-000918": {
+      "accession": "0001174947-26-000918",
+      "file_date": "2026-10-19",
+      "company": "MUNCY COLUMBIA FINANCIAL Corp",
+      "tickers": [
+        "CCFN"
+      ],
+      "cik": "731122",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000918/0001174947-26-000918-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001654954-26-009034": {
+      "accession": "0001654954-26-009034",
+      "file_date": "2026-10-19",
+      "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+      "tickers": [
+        "PEBK"
+      ],
+      "cik": "1093672",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426009034/0001654954-26-009034-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-116914": {
+      "accession": "0001104659-26-116914",
+      "file_date": "2026-10-19",
+      "company": "Permianville Royalty Trust",
+      "tickers": [
+        "PVL"
+      ],
+      "cik": "1520048",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926116914/0001104659-26-116914-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066329": {
+      "accession": "0001628280-26-066329",
+      "file_date": "2026-10-19",
+      "company": "RBB Bancorp",
+      "tickers": [
+        "RBB"
+      ],
+      "cik": "1499422",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1499422/000162828026066329/0001628280-26-066329-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-116895": {
+      "accession": "0001104659-26-116895",
+      "file_date": "2026-10-19",
+      "company": "RLI CORP",
+      "tickers": [
+        "RLI"
+      ],
+      "cik": "84246",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/84246/000110465926116895/0001104659-26-116895-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001213900-26-110733": {
+      "accession": "0001213900-26-110733",
+      "file_date": "2026-10-19",
+      "company": "Rocky Mountain Chocolate Factory, Inc.",
+      "tickers": [
+        "RMCF"
+      ],
+      "cik": "1616262",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "2.02",
+        "2.03",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1616262/000121390026110733/0001213900-26-110733-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001493152-26-047579": {
+      "accession": "0001493152-26-047579",
+      "file_date": "2026-10-19",
+      "company": "Scienture Holdings, Inc.",
+      "tickers": [
+        "SCNX"
+      ],
+      "cik": "1382574",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "3.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226047579/0001493152-26-047579-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001171843-26-006691": {
+      "accession": "0001171843-26-006691",
+      "file_date": "2026-10-19",
+      "company": "ServisFirst Bancshares, Inc.",
+      "tickers": [
+        "SFBS"
+      ],
+      "cik": "1430723",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326006691/0001171843-26-006691-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001104659-26-116936": {
+      "accession": "0001104659-26-116936",
+      "file_date": "2026-10-19",
+      "company": "SMARTFINANCIAL INC.",
+      "tickers": [
+        "SMBK"
+      ],
+      "cik": "1038773",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1038773/000110465926116936/0001104659-26-116936-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001356576-26-000043": {
+      "accession": "0001356576-26-000043",
+      "file_date": "2026-10-19",
+      "company": "SUPERNUS PHARMACEUTICALS, INC.",
+      "tickers": [
+        "SUPN"
+      ],
+      "cik": "1356576",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000043/0001356576-26-000043-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000737468-26-000120": {
+      "accession": "0000737468-26-000120",
+      "file_date": "2026-10-19",
+      "company": "WASHINGTON TRUST BANCORP INC",
+      "tickers": [
+        "WASH"
+      ],
+      "cik": "737468",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/737468/000073746826000120/0000737468-26-000120-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000793074-26-000162": {
+      "accession": "0000793074-26-000162",
+      "file_date": "2026-10-19",
+      "company": "WERNER ENTERPRISES INC",
+      "tickers": [
+        "WERN"
+      ],
+      "cik": "793074",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/793074/000079307426000162/0000793074-26-000162-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001628280-26-066286": {
+      "accession": "0001628280-26-066286",
+      "file_date": "2026-10-19",
+      "company": "WESTERN ALLIANCE BANCORPORATION",
+      "tickers": [
+        "WAL",
+        "WAL-PA"
+      ],
+      "cik": "1212545",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026066286/0001628280-26-066286-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0001015328-26-000026": {
+      "accession": "0001015328-26-000026",
+      "file_date": "2026-10-19",
+      "company": "WINTRUST FINANCIAL CORP",
+      "tickers": [
+        "WTFC",
+        "WTFCN"
+      ],
+      "cik": "1015328",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1015328/000101532826000026/0001015328-26-000026-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    },
+    "0000109380-26-000125": {
+      "accession": "0000109380-26-000125",
+      "file_date": "2026-10-19",
+      "company": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",
+      "tickers": [
+        "ZION",
+        "ZIONP"
+      ],
+      "cik": "109380",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/109380/000010938026000125/0000109380-26-000125-index.htm",
+      "first_seen": "2026-10-25T21:35:51+08:00"
+    }
+  },
+  "updated_at": "2026-10-25T21:35:51+08:00"
 }

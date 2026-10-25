@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew 24% and Google Cloud growth accelerated to 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin widened by 2 points to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income was a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and the release reports growth across the business, with no headwind named."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:35:51+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS grew 36.7%, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income includes a large non-operating gain, mainly from investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Operating income for the third quarter is expected between $22.5 billion and $26.5 billion.",
+        "quote": "Operating income is expected to be between $22.5 billion and $26.5 billion, compared with $17.4 billion in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and there is much more coming; the outlook points to growth."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:35:51+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242 | 26 | %"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535 | (37) | %"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709 | 264 | %"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05 | 265 | %"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Third quarter costs include a charge for the state attorneys general agreement.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Excluding the legal charge, 2026 operating income is still expected to exceed 2025.",
+        "quote": "Excluding the third quarter legal charge, we continue to expect 2026 operating income to be above 2025 operating income."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the core business is strong and investments are paying off; the legal charge is disclosed openly."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:35:51+08:00"
+  },
+  {
+    "cik": "1050441",
+    "company": "EAGLE BANCORP INC",
+    "accession": "0001050441-26-000110",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 24.246,
+        "unit": "USD millions",
+        "quote": "Net Income (Loss) $ 24,246 $ 6,918"
+      },
+      "diluted_eps": {
+        "value": 0.79,
+        "unit": "USD per share",
+        "quote": "Diluted $ 0.79 $ 0.23"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income rose to $24.2 million, or $0.79 per share, from $6.9 million in the second quarter.",
+        "quote": "Eagle reported net income of $24.2 million or $0.79 per share for the third quarter 2026, compared to $6.9 million or $0.23 per share for the second quarter of 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says asset quality work is not complete and the focus is on resolving problem assets.",
+        "quote": "We remain focused on resolving problem assets, strengthening relationship-based funding, and translating the capabilities of this franchise into consistent, profitable growth"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes higher non-performing assets and says the asset quality work is not complete, alongside higher profit."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1050441-0001050441-26-000110.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000110/finalegbnerq3-2026xearni.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000110/0001050441-26-000110-index.htm",
+    "saved_at": "2026-10-25T21:35:51+08:00"
+  },
+  {
+    "cik": "1474167",
+    "company": "Cosmos Health Inc.",
+    "accession": "0001477932-26-006396",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026 (no results given, outlook only)",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Cosmos Health expects fourth quarter 2026 U.S. revenue of about $15 million and gross profit of about $10.5 million.",
+      "quote": "it expects U.S. revenue of approximately $15 million for the fourth quarter of 2026, with gross profit of approximately $10.5 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO expects about $15 million of U.S. revenue and $10.5 million of gross profit for the quarter.",
+        "quote": "We expect approximately $15 million in U.S. revenue and $10.5 million in gross profit for the quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says active subscriptions grew 42% in five days.",
+        "quote": "In the five days since our last update, active subscriptions grew 42% to 8,940"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strong momentum and growing confidence in the outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1474167-0001477932-26-006396.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006396/cosm_ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006396/0001477932-26-006396-index.htm",
+    "saved_at": "2026-10-25T21:35:51+08:00"
+  }
+]

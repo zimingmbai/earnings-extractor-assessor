@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "run_at": "2026-10-25T21:35:51+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-25-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 19,
+      "total": 19,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 365,
+      "companies": 3,
+      "new": 5,
+      "saved": 5,
+      "no_new": 0,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-18",
+      "end": "2026-10-25",
+      "hits": 404,
+      "results_filings": 365,
+      "new": 365,
+      "watchlist_new": [
+        "Meta Platforms, Inc. (2026-10-21, 0001628280-26-066700)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000066",
+        "release_date": "2026-07-22",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "saved",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1050441",
+        "company": "EAGLE BANCORP INC",
+        "status": "saved",
+        "accession": "0001050441-26-000110",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1474167",
+        "company": "Cosmos Health Inc.",
+        "status": "saved",
+        "accession": "0001477932-26-006396",
+        "release_date": "2026-10-22",
+        "period_label": "quarter ended 30 September 2026 (no results given, outlook only)"
+      }
+    ],
+    "offline": false
+  }
+]
