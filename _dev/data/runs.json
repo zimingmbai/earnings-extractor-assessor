@@ -1,0 +1,139 @@
+[
+  {
+    "run_at": "2026-10-25T06:07:00+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-25-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 10,
+      "total": 10,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 37,
+      "companies": 3,
+      "new": 3,
+      "saved": 3,
+      "no_new": 0,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "hits": 43,
+      "results_filings": 37,
+      "new": 37,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000066",
+        "release_date": "2026-07-22",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "saved",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": true
+  },
+  {
+    "run_at": "2026-10-25T06:37:00+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-25-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 0,
+      "confirmed": 11,
+      "mismatch": 1,
+      "cannot_check": 0
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000066",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000024",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "accession": "0001628280-26-066700",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 1,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 3,
+          "S2": 5,
+          "S3": 3
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 11 figures confirmed, 1 mismatch, 0 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-25T06:07:00+08:00",
+      "watch_brief": "briefs/2026-10-25-watch.md",
+      "brief_says": 37,
+      "saved_for_run": 37,
+      "match": true
+    },
+    "offline": true
+  }
+]

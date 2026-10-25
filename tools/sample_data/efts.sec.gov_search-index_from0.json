@@ -1,0 +1,2040 @@
+{
+ "_note": "Trimmed copy of an SEC EDGAR answer saved on 25 October 2026, 09:25 Singapore time, for --offline tests. The tool keeps the hits whose filing dates fall in the morning's window.",
+ "hits": {
+  "total": {
+   "value": 43,
+   "relation": "eq"
+  },
+  "max_score": 8.763684,
+  "hits": [
+   {
+    "_index": "edgar_file",
+    "_id": "0001704715-26-000038:amr-20261023.htm",
+    "_score": 8.763684,
+    "_source": {
+     "ciks": [
+      "0001704715"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-38735"
+     ],
+     "display_names": [
+      "Alpha Metallurgical Resources, Inc.  (AMR)  (CIK 0001704715)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "TN"
+     ],
+     "sics": [
+      "1221"
+     ],
+     "form": "8-K",
+     "adsh": "0001704715-26-000038",
+     "film_num": [
+      "261479938"
+     ],
+     "biz_locations": [
+      "Bristol, TN"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118460:mcbs-20261023x8k.htm",
+    "_score": 8.355844,
+    "_source": {
+     "ciks": [
+      "0001747068"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-39068"
+     ],
+     "display_names": [
+      "MetroCity Bankshares, Inc.  (MCBS)  (CIK 0001747068)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "GA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118460",
+     "film_num": [
+      "261482124"
+     ],
+     "biz_locations": [
+      "Doraville, GA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "GA"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118501:fcap-20261023x8k.htm",
+    "_score": 8.352048,
+    "_source": {
+     "ciks": [
+      "0001070296"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-25023"
+     ],
+     "display_names": [
+      "FIRST CAPITAL INC  (FCAP)  (CIK 0001070296)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "IN"
+     ],
+     "sics": [
+      "6035"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118501",
+     "film_num": [
+      "261482766"
+     ],
+     "biz_locations": [
+      "Corydon, IN"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "IN"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000910073-26-000080:nycb-20261023.htm",
+    "_score": 8.313744,
+    "_source": {
+     "ciks": [
+      "0000910073"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-31565"
+     ],
+     "display_names": [
+      "FLAGSTAR BANK, NATIONAL ASSOCIATION  (FLG, FLG-PA, FLG-PU)  (CIK 0000910073)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6036"
+     ],
+     "form": "8-K",
+     "adsh": "0000910073-26-000080",
+     "film_num": [
+      "261479860"
+     ],
+     "biz_locations": [
+      "Hicksville, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429435:d151271d8k.htm",
+    "_score": 8.295529,
+    "_source": {
+     "ciks": [
+      "0000087347"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-04601"
+     ],
+     "display_names": [
+      "SLB LIMITED/NV  (SLB)  (CIK 0000087347)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "TX"
+     ],
+     "sics": [
+      "1389"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429435",
+     "film_num": [
+      "261479902"
+     ],
+     "biz_locations": [
+      "Houston, TX"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "P8"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033387:ovly20261021_8k.htm",
+    "_score": 8.274462,
+    "_source": {
+     "ciks": [
+      "0001431567"
+     ],
+     "period_ending": "2026-10-21",
+     "file_num": [
+      "001-34142"
+     ],
+     "display_names": [
+      "Oak Valley Bancorp  (OVLY)  (CIK 0001431567)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "CA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033387",
+     "film_num": [
+      "261481736"
+     ],
+     "biz_locations": [
+      "Oakdale, CA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "CA"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001140361-26-040587:ef20082449_8-k.htm",
+    "_score": 8.042413,
+    "_source": {
+     "ciks": [
+      "0000356309"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-08359"
+     ],
+     "display_names": [
+      "NEW JERSEY RESOURCES CORP  (NJR)  (CIK 0000356309)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NJ"
+     ],
+     "sics": [
+      "4924"
+     ],
+     "form": "8-K",
+     "adsh": "0001140361-26-040587",
+     "film_num": [
+      "261479934"
+     ],
+     "biz_locations": [
+      "Wall, NJ"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "NJ"
+     ],
+     "items": [
+      "1.01",
+      "2.03",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000798941-26-000041:fcnca-20261023.htm",
+    "_score": 7.757182,
+    "_source": {
+     "ciks": [
+      "0000798941"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-16715"
+     ],
+     "display_names": [
+      "FIRST CITIZENS BANCSHARES INC /DE/  (FCNCA, FCNCB, FCNCN, FCNCO, FCNCP)  (CIK 0000798941)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NC"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0000798941-26-000041",
+     "film_num": [
+      "261479883"
+     ],
+     "biz_locations": [
+      "Raleigh, NC"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000004962-26-000405:axp-20261023.htm",
+    "_score": 7.7483416,
+    "_source": {
+     "ciks": [
+      "0000004962"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-07657"
+     ],
+     "display_names": [
+      "AMERICAN EXPRESS CO  (AXP)  (CIK 0000004962)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6199"
+     ],
+     "form": "8-K",
+     "adsh": "0000004962-26-000405",
+     "film_num": [
+      "261479899"
+     ],
+     "biz_locations": [
+      "New York, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "NY"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429564:bvfl-20261023.htm",
+    "_score": 7.2504807,
+    "_source": {
+     "ciks": [
+      "0001302387"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-41764"
+     ],
+     "display_names": [
+      "BV Financial, Inc.  (BVFL)  (CIK 0001302387)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "MD"
+     ],
+     "sics": [
+      "6035"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429564",
+     "film_num": [
+      "261480181"
+     ],
+     "biz_locations": [
+      "Baltimore, MD"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "MD"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033337:fxnc20260814_8k.htm",
+    "_score": 7.249908,
+    "_source": {
+     "ciks": [
+      "0000719402"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-38874"
+     ],
+     "display_names": [
+      "FIRST NATIONAL CORP /VA/  (FXNC)  (CIK 0000719402)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "VA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033337",
+     "film_num": [
+      "261479964"
+     ],
+     "biz_locations": [
+      "Strasburg, VA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "VA"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429546:grc-20261023.htm",
+    "_score": 7.248064,
+    "_source": {
+     "ciks": [
+      "0000042682"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-06747"
+     ],
+     "display_names": [
+      "GORMAN RUPP CO  (GRC)  (CIK 0000042682)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "OH"
+     ],
+     "sics": [
+      "3561"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429546",
+     "film_num": [
+      "261480104"
+     ],
+     "biz_locations": [
+      "Mansfield, OH"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "OH"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118297:rbcaa-20261023x8k.htm",
+    "_score": 7.2464895,
+    "_source": {
+     "ciks": [
+      "0000921557"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-24649"
+     ],
+     "display_names": [
+      "REPUBLIC BANCORP INC /KY/  (RBCAA)  (CIK 0000921557)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "KY"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118297",
+     "film_num": [
+      "261479927"
+     ],
+     "biz_locations": [
+      "Louisville, KY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "KY"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033341:miff20260818_8k.htm",
+    "_score": 7.241825,
+    "_source": {
+     "ciks": [
+      "0000779227"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-56837"
+     ],
+     "display_names": [
+      "STEELE BANCORP INC  (STLE)  (CIK 0000779227)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "PA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033341",
+     "film_num": [
+      "261479991"
+     ],
+     "biz_locations": [
+      "Mifflinburg, PA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033331:wrld20261022_8k.htm",
+    "_score": 7.233665,
+    "_source": {
+     "ciks": [
+      "0000108385"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-19599"
+     ],
+     "display_names": [
+      "WORLD ACCEPTANCE CORP  (WRLD)  (CIK 0000108385)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "SC"
+     ],
+     "sics": [
+      "6141"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033331",
+     "film_num": [
+      "261479916"
+     ],
+     "biz_locations": [
+      "Greenville, SC"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "SC"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000355811-26-000060:gntx-20261023.htm",
+    "_score": 7.223127,
+    "_source": {
+     "ciks": [
+      "0000355811"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-10235"
+     ],
+     "display_names": [
+      "GENTEX CORP  (GNTX)  (CIK 0000355811)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "MI"
+     ],
+     "sics": [
+      "3714"
+     ],
+     "form": "8-K",
+     "adsh": "0000355811-26-000060",
+     "film_num": [
+      "261479928"
+     ],
+     "biz_locations": [
+      "Zeeland, MI"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "MI"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001683168-26-008042:cps_8k.htm",
+    "_score": 7.215396,
+    "_source": {
+     "ciks": [
+      "0000889609"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-14116"
+     ],
+     "display_names": [
+      "CONSUMER PORTFOLIO SERVICES, INC.  (CPSS)  (CIK 0000889609)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NV"
+     ],
+     "sics": [
+      "6199"
+     ],
+     "form": "8-K",
+     "adsh": "0001683168-26-008042",
+     "film_num": [
+      "261481817"
+     ],
+     "biz_locations": [
+      "Las Vegas, NV"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "CURRENT REPORT",
+     "inc_states": [
+      "CA"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-430532:avbc-20261022.htm",
+    "_score": 7.212246,
+    "_source": {
+     "ciks": [
+      "0002058758"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-42775"
+     ],
+     "display_names": [
+      "Avidia Bancorp, Inc.  (AVBC)  (CIK 0002058758)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "MA"
+     ],
+     "sics": [
+      "6036"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-430532",
+     "film_num": [
+      "261482700"
+     ],
+     "biz_locations": [
+      "Hudson, MA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001174947-26-000931:form8k-36445_enbf.htm",
+    "_score": 7.2095637,
+    "_source": {
+     "ciks": [
+      "0001437479"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "000-53297"
+     ],
+     "display_names": [
+      "ENB Financial Corp  (ENBP)  (CIK 0001437479)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "PA"
+     ],
+     "sics": [
+      "6021"
+     ],
+     "form": "8-K",
+     "adsh": "0001174947-26-000931",
+     "film_num": [
+      "261481937"
+     ],
+     "biz_locations": [
+      "Ephrata, PA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "PA"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000931148-26-000085:gti-20261023.htm",
+    "_score": 7.1965475,
+    "_source": {
+     "ciks": [
+      "0000931148"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-13888"
+     ],
+     "display_names": [
+      "GRAFTECH INTERNATIONAL LTD  (EAF)  (CIK 0000931148)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "OH"
+     ],
+     "sics": [
+      "3620"
+     ],
+     "form": "8-K",
+     "adsh": "0000931148-26-000085",
+     "film_num": [
+      "261479887"
+     ],
+     "biz_locations": [
+      "Brooklyn Heights, OH"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118368:tm2628181d1_8k.htm",
+    "_score": 7.196096,
+    "_source": {
+     "ciks": [
+      "0001847398"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-40589"
+     ],
+     "display_names": [
+      "NorthEast Community Bancorp, Inc./MD/  (NECB)  (CIK 0001847398)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6036"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118368",
+     "film_num": [
+      "261480636"
+     ],
+     "biz_locations": [
+      "White Plains, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "MD"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000009326-26-000032:bcpc-20261023.htm",
+    "_score": 7.1886606,
+    "_source": {
+     "ciks": [
+      "0000009326"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-13648"
+     ],
+     "display_names": [
+      "BALCHEM CORP  (BCPC)  (CIK 0000009326)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NJ"
+     ],
+     "sics": [
+      "2800"
+     ],
+     "form": "8-K",
+     "adsh": "0000009326-26-000032",
+     "film_num": [
+      "261479910"
+     ],
+     "biz_locations": [
+      "Montvale, NJ"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "MD"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033328:jakk20261021_8k.htm",
+    "_score": 7.1844068,
+    "_source": {
+     "ciks": [
+      "0001009829"
+     ],
+     "period_ending": "2026-10-20",
+     "file_num": [
+      "001-35448"
+     ],
+     "display_names": [
+      "JAKKS PACIFIC INC  (JAKK)  (CIK 0001009829)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "CA"
+     ],
+     "sics": [
+      "3944"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033328",
+     "film_num": [
+      "261479900"
+     ],
+     "biz_locations": [
+      "Santa Monica, CA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001316944-26-000171:fhlbsf-20261022.htm",
+    "_score": 7.1844068,
+    "_source": {
+     "ciks": [
+      "0001316944"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "000-51398"
+     ],
+     "display_names": [
+      "Federal Home Loan Bank of San Francisco  (CIK 0001316944)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "CA"
+     ],
+     "sics": [
+      "6111"
+     ],
+     "form": "8-K",
+     "adsh": "0001316944-26-000171",
+     "film_num": [
+      "261481878"
+     ],
+     "biz_locations": [
+      "San Francisco, CA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "X1"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118299:fhb-20261023x8k.htm",
+    "_score": 7.170521,
+    "_source": {
+     "ciks": [
+      "0000036377"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-14585"
+     ],
+     "display_names": [
+      "FIRST HAWAIIAN, INC.  (FHB)  (CIK 0000036377)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "HI"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118299",
+     "film_num": [
+      "261479937"
+     ],
+     "biz_locations": [
+      "Honolulu, HI"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001628280-26-066971:bah-20261023.htm",
+    "_score": 7.166173,
+    "_source": {
+     "ciks": [
+      "0001443646"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-34972"
+     ],
+     "display_names": [
+      "Booz Allen Hamilton Holding Corp  (BAH)  (CIK 0001443646)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "VA"
+     ],
+     "sics": [
+      "8742"
+     ],
+     "form": "8-K",
+     "adsh": "0001628280-26-066971",
+     "film_num": [
+      "261479888"
+     ],
+     "biz_locations": [
+      "Mclean, VA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001005817-26-000139:tmp-20261022.htm",
+    "_score": 7.166173,
+    "_source": {
+     "ciks": [
+      "0001005817"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-12709"
+     ],
+     "display_names": [
+      "TOMPKINS FINANCIAL CORP  (TMP)  (CIK 0001005817)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001005817-26-000139",
+     "film_num": [
+      "261480170"
+     ],
+     "biz_locations": [
+      "Ithaca, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "NY"
+     ],
+     "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001628280-26-066996:fhlbdm-20261023.htm",
+    "_score": 7.1535726,
+    "_source": {
+     "ciks": [
+      "0001325814"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-51999"
+     ],
+     "display_names": [
+      "Federal Home Loan Bank of Des Moines  (CIK 0001325814)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "IA"
+     ],
+     "sics": [
+      "6111"
+     ],
+     "form": "8-K",
+     "adsh": "0001628280-26-066996",
+     "film_num": [
+      "261480678"
+     ],
+     "biz_locations": [
+      "Des Moines, IA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K Q3 2026 EARNINGS RELEASE AND DIVIDEND ANNOUNCEMENT",
+     "inc_states": [
+      "X1"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001213900-26-111997:ea0309498-8k_sbfinancial.htm",
+    "_score": 7.1351423,
+    "_source": {
+     "ciks": [
+      "0000767405"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-36785"
+     ],
+     "display_names": [
+      "SB FINANCIAL GROUP, INC.  (SBFG)  (CIK 0000767405)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "OH"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001213900-26-111997",
+     "film_num": [
+      "261481181"
+     ],
+     "biz_locations": [
+      "Defiance, OH"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "CURRENT REPORT",
+     "inc_states": [
+      "OH"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429420:mktx-20261023.htm",
+    "_score": 7.098262,
+    "_source": {
+     "ciks": [
+      "0001278021"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-34091"
+     ],
+     "display_names": [
+      "MARKETAXESS HOLDINGS INC  (MKTX)  (CIK 0001278021)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6211"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429420",
+     "film_num": [
+      "261479879"
+     ],
+     "biz_locations": [
+      "New York, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429404:alv-20261023.htm",
+    "_score": 7.088037,
+    "_source": {
+     "ciks": [
+      "0001034670"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-12933"
+     ],
+     "display_names": [
+      "AUTOLIV INC  (ALV)  (CIK 0001034670)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "UT"
+     ],
+     "sics": [
+      "3714"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429404",
+     "film_num": [
+      "261479874"
+     ],
+     "biz_locations": [
+      "Ogden, UT"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-118258:tm2628091d1_8k.htm",
+    "_score": 7.0645432,
+    "_source": {
+     "ciks": [
+      "0001325670"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "001-33037"
+     ],
+     "display_names": [
+      "Primis Financial Corp.  (FRST)  (CIK 0001325670)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "VA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-118258",
+     "film_num": [
+      "261479854"
+     ],
+     "biz_locations": [
+      "Mclean, VA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "VA"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001556593-26-000033:ritm-20261023.htm",
+    "_score": 7.0635533,
+    "_source": {
+     "ciks": [
+      "0001556593"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-35777"
+     ],
+     "display_names": [
+      "Rithm Capital Corp.  (RITM, RITM-PA, RITM-PB, RITM-PC, RITM-PD, RITM-PE, RITM-PF)  (CIK 0001556593)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [
+      "6798"
+     ],
+     "form": "8-K",
+     "adsh": "0001556593-26-000033",
+     "film_num": [
+      "261479911"
+     ],
+     "biz_locations": [
+      "New York, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001783398-26-000128:xbrl-20261023.htm",
+    "_score": 6.9792147,
+    "_source": {
+     "ciks": [
+      "0001783398"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-39189"
+     ],
+     "display_names": [
+      "UWM Holdings Corp  (UWMC)  (CIK 0001783398)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "MI"
+     ],
+     "sics": [
+      "6162"
+     ],
+     "form": "8-K",
+     "adsh": "0001783398-26-000128",
+     "film_num": [
+      "261479978"
+     ],
+     "biz_locations": [
+      "Pontiac, MI"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001331451-26-000196:fhlbc-20261023.htm",
+    "_score": 6.9220524,
+    "_source": {
+     "ciks": [
+      "0001331451"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-51401"
+     ],
+     "display_names": [
+      "Federal Home Loan Bank of Chicago  (CIK 0001331451)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "IL"
+     ],
+     "sics": [
+      "6111"
+     ],
+     "form": "8-K",
+     "adsh": "0001331451-26-000196",
+     "film_num": [
+      "261481685"
+     ],
+     "biz_locations": [
+      "Chicago, IL"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "X1"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001331463-26-000203:fhlbbost-20261023.htm",
+    "_score": 6.9012694,
+    "_source": {
+     "ciks": [
+      "0001331463"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-51402"
+     ],
+     "display_names": [
+      "Federal Home Loan Bank of Boston  (CIK 0001331463)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "MA"
+     ],
+     "sics": [
+      "6111"
+     ],
+     "form": "8-K",
+     "adsh": "0001331463-26-000203",
+     "film_num": [
+      "261480871"
+     ],
+     "biz_locations": [
+      "Boston, MA"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "CURRENT REPORT ITEMS 2.02 AND 9.01",
+     "inc_states": [
+      "X1"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001758766-26-000088:final-pressreleasex8k.htm",
+    "_score": 6.847914,
+    "_source": {
+     "ciks": [
+      "0001758766"
+     ],
+     "period_ending": "2026-10-19",
+     "file_num": [
+      "001-39455"
+     ],
+     "display_names": [
+      "STEM, INC.  (STEM)  (CIK 0001758766)"
+     ],
+     "xsl": null,
+     "sequence": "2",
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "TX"
+     ],
+     "sics": [
+      "7373"
+     ],
+     "form": "8-K",
+     "adsh": "0001758766-26-000088",
+     "film_num": [
+      "261482243"
+     ],
+     "biz_locations": [
+      "Houston, TX"
+     ],
+     "file_type": "EX-99",
+     "ma_i_individual": null,
+     "file_description": "EX-99",
+     "inc_states": [],
+     "items": [
+      "3.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-430447:ck0001890107-20261022.htm",
+    "_score": 6.7784524,
+    "_source": {
+     "ciks": [
+      "0001890107"
+     ],
+     "period_ending": "2026-10-22",
+     "file_num": [
+      "814-01642"
+     ],
+     "display_names": [
+      "First Eagle Private Credit Fund  (CIK 0001890107)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "NY"
+     ],
+     "sics": [],
+     "form": "8-K",
+     "adsh": "0001193125-26-430447",
+     "film_num": [
+      "261482387"
+     ],
+     "biz_locations": [
+      "New York, NY"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "3.02",
+      "7.01",
+      "8.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001065696-26-000047:lkq-20261021.htm",
+    "_score": 6.284175,
+    "_source": {
+     "ciks": [
+      "0001065696"
+     ],
+     "period_ending": "2026-10-21",
+     "file_num": [
+      "001-42002"
+     ],
+     "display_names": [
+      "LKQ CORP  (LKQ)  (CIK 0001065696)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "TN"
+     ],
+     "sics": [
+      "5010"
+     ],
+     "form": "8-K",
+     "adsh": "0001065696-26-000047",
+     "film_num": [
+      "261479940"
+     ],
+     "biz_locations": [
+      "Antioch, TN"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "5.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001331451-26-000196:a20263q8kearningsrelease.pdf",
+    "_score": 6.261777,
+    "_source": {
+     "ciks": [
+      "0001331451"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-51401"
+     ],
+     "display_names": [
+      "Federal Home Loan Bank of Chicago  (CIK 0001331451)"
+     ],
+     "xsl": null,
+     "sequence": "6",
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "IL"
+     ],
+     "sics": [
+      "6111"
+     ],
+     "form": "8-K",
+     "adsh": "0001331451-26-000196",
+     "film_num": [
+      "261481685"
+     ],
+     "biz_locations": [
+      "Chicago, IL"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K PDF",
+     "inc_states": [
+      "X1"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001437749-26-033341:ex_1006426.htm",
+    "_score": 5.874365,
+    "_source": {
+     "ciks": [
+      "0000779227"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "000-56837"
+     ],
+     "display_names": [
+      "STEELE BANCORP INC  (STLE)  (CIK 0000779227)"
+     ],
+     "xsl": null,
+     "sequence": "2",
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "PA"
+     ],
+     "sics": [
+      "6022"
+     ],
+     "form": "8-K",
+     "adsh": "0001437749-26-033341",
+     "film_num": [
+      "261479991"
+     ],
+     "biz_locations": [
+      "Mifflinburg, PA"
+     ],
+     "file_type": "EX-99.1",
+     "ma_i_individual": null,
+     "file_description": "EXHIBIT 99.1",
+     "inc_states": [],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0000931148-26-000085:a2026-3qearningspressrelea.htm",
+    "_score": 4.9866786,
+    "_source": {
+     "ciks": [
+      "0000931148"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-13888"
+     ],
+     "display_names": [
+      "GRAFTECH INTERNATIONAL LTD  (EAF)  (CIK 0000931148)"
+     ],
+     "xsl": null,
+     "sequence": "2",
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "OH"
+     ],
+     "sics": [
+      "3620"
+     ],
+     "form": "8-K",
+     "adsh": "0000931148-26-000085",
+     "film_num": [
+      "261479887"
+     ],
+     "biz_locations": [
+      "Brooklyn Heights, OH"
+     ],
+     "file_type": "EX-99.1",
+     "ma_i_individual": null,
+     "file_description": "EX-99.1",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "2.02",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001193125-26-429435:d151271dex99.htm",
+    "_score": 3.513524,
+    "_source": {
+     "ciks": [
+      "0000087347"
+     ],
+     "period_ending": "2026-10-23",
+     "file_num": [
+      "001-04601"
+     ],
+     "display_names": [
+      "SLB LIMITED/NV  (SLB)  (CIK 0000087347)"
+     ],
+     "xsl": null,
+     "sequence": "2",
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-23",
+     "biz_states": [
+      "TX"
+     ],
+     "sics": [
+      "1389"
+     ],
+     "form": "8-K",
+     "adsh": "0001193125-26-429435",
+     "film_num": [
+      "261479902"
+     ],
+     "biz_locations": [
+      "Houston, TX"
+     ],
+     "file_type": "EX-99",
+     "ma_i_individual": null,
+     "file_description": "EX-99",
+     "inc_states": [
+      "P8"
+     ],
+     "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+     ]
+    }
+   }
+  ]
+ }
+}

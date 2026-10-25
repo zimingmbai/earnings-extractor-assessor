@@ -1,0 +1,43 @@
+{
+  "github_username": "YOUR_GITHUB_USERNAME",
+  "dashboard_url": "https://YOUR_GITHUB_USERNAME.github.io/earnings-extractor-assessor/",
+  "contact_email": "YOUR_EMAIL_ADDRESS",
+  "task_name": "US market earnings watcher and assessor",
+  "timezone": "Asia/Singapore",
+  "schedule": {
+    "watcher": "Daily at 6:07 AM Singapore time",
+    "assessor": "Daily at 6:37 AM Singapore time"
+  },
+  "companies": [
+    { "cik": 1652044, "name": "Alphabet" },
+    { "cik": 1018724, "name": "Amazon" },
+    { "cik": 1326801, "name": "Meta Platforms" }
+  ],
+  "sources": {
+    "radar": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt={start}&enddt={end}",
+    "submissions": "https://data.sec.gov/submissions/CIK{cik10}.json",
+    "filing_folder": "https://www.sec.gov/Archives/edgar/data/{cik}/{accession_nodash}/",
+    "filing_index": "https://www.sec.gov/Archives/edgar/data/{cik}/{accession_nodash}/index.json",
+    "filing_index_page": "https://www.sec.gov/Archives/edgar/data/{cik}/{accession_nodash}/{accession}-index.htm",
+    "companyfacts": "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json"
+  },
+  "radar_picks": 2,
+  "radar_first_run_days": 7,
+  "radar_max_pages": 20,
+  "radar_max_days": 14,
+  "radar_brief_max": 20,
+  "radar_keep_days": 120,
+  "xbrl_tags": {
+    "revenue": ["Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax"],
+    "operating_income": ["OperatingIncomeLoss"],
+    "net_income": ["NetIncomeLoss"],
+    "diluted_eps": ["EarningsPerShareDiluted"]
+  },
+  "match_tolerance_percent": 0.5,
+  "quarter_length_days": [80, 100],
+  "recheck_days": 10,
+  "cache_max_hours": 20,
+  "pause_seconds_between_requests": 0.25,
+  "timeout_seconds": 20,
+  "retry_pause_seconds": 15
+}

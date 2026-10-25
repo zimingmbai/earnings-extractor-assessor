@@ -1,0 +1,1506 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Every US company that filed results since the last run, and the latest results of three watched companies, read from SEC EDGAR each morning by one agent and checked by a second. Not investment advice.">
+<title>US Market Earnings Watch</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2300505C'/%3E%3Crect x='7' y='17' width='4' height='8' rx='1' fill='%23F7F3EE'/%3E%3Crect x='14' y='12' width='4' height='13' rx='1' fill='%23F7F3EE'/%3E%3Cpath d='M20.5 11.5l2.5 2.5 4.5-6' fill='none' stroke='%23F7F3EE' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Playfair+Display:wght@600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<style>
+:root {
+  --smu-red: #C41230;
+  --smu-teal: #00505C;
+  --page: #F7F3EE;
+  --sheet: #ffffff;
+  --ink: #1a1a2e;
+  --muted: #5b6470;
+  --hl: #ffe76a;
+  --hl-ink: #1a1a2e;
+  --card: #fcfaf6;
+  --line: #e6dfd4;
+  --line-strong: #bfb4a4;
+  --teal-wash: #e5eff0;
+  --red-wash: #fbeaec;
+  --grid: #f1ece4;
+  --band: #efe8dc;
+  --mark: #00505C;
+  --focus: #00505C;
+  --tip-bg: #1a1a2e;
+  --tip-ink: #ffffff;
+  --code-bg: #f3efe8;
+  --ok: #137a13;
+  --ok-wash: #e4f3e4;
+  --bad: #c0262d;
+  --bad-wash: #fbe9ea;
+  --na: #66707c;
+  --na-wash: #eef0f3;
+  --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', 'Source Sans Pro', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --smu-red: #ff7586;
+    --smu-teal: #72c6cf;
+    --page: #121117;
+    --sheet: #1b1a21;
+    --ink: #ece7df;
+    --muted: #a9b0ba;
+    --card: #211f27;
+    --line: #33303a;
+    --line-strong: #57525f;
+    --teal-wash: #173136;
+    --red-wash: #3a1d24;
+    --grid: #26242c;
+    --band: #2b2932;
+    --mark: #72c6cf;
+    --focus: #9adbe2;
+    --tip-bg: #ece7df;
+    --tip-ink: #1a1a2e;
+    --code-bg: #26242c;
+    --ok: #6fd46f;
+    --ok-wash: #17301b;
+    --bad: #ff8a8a;
+    --bad-wash: #3a1d22;
+    --na: #a9b0ba;
+    --na-wash: #26242c;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font: 400 17px/1.55 var(--sans);
+  overflow-wrap: break-word;
+}
+a { color: var(--smu-teal); }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.vh {
+  position: absolute !important; width: 1px; height: 1px; margin: -1px; padding: 0;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+.sample-banner {
+  margin: 0; padding: 10px 16px;
+  background: var(--hl); color: var(--hl-ink);
+  text-align: center; font-weight: 700;
+  border-bottom: 1px solid #d9c13a;
+}
+.sample-banner a { color: var(--hl-ink); font-weight: 600; margin-left: 10px; }
+
+.wrap { max-width: 1212px; margin: 0 auto; padding: 28px 16px 48px; }
+.sheet { background: var(--sheet); border: 1px solid var(--line); padding: 36px 40px 28px; }
+
+.masthead { padding-bottom: 20px; border-bottom: 2px solid var(--smu-red); margin-bottom: 18px; }
+.smallcaps { font-variant-caps: all-small-caps; letter-spacing: .06em; color: var(--smu-teal); font-weight: 600; }
+.kicker { margin: 0 0 6px; font-size: 1.05rem; }
+h1 { font: 700 clamp(2.1rem, 5.4vw, 3.5rem)/1.04 var(--serif); letter-spacing: -.01em; margin: 0 0 10px; }
+.focus { margin: 0 0 18px; font-size: 1.15rem; color: var(--muted); max-width: 64ch; }
+.meta-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 22px; margin: 0; padding: 0; list-style: none; font-size: 1.05rem; }
+.watch { display: inline-flex; align-items: center; gap: 9px; }
+.pulse { position: relative; display: inline-block; width: 10px; height: 10px; border-radius: 50%; color: var(--smu-teal); background: currentColor; }
+.pulse::after { content: ""; position: absolute; inset: -5px; border-radius: 50%; border: 2px solid currentColor; opacity: 0; animation: ring 2.4s ease-out infinite; }
+@keyframes ring { 0% { transform: scale(.4); opacity: .85; } 100% { transform: scale(1.5); opacity: 0; } }
+.watch.overdue .pulse { color: var(--smu-red); background: transparent; border: 2px solid currentColor; }
+.watch.overdue .pulse::after { animation: none; }
+.watch.overdue { color: var(--smu-red); }
+.overdue-note { margin: 10px 0 0; color: var(--smu-red); font-weight: 600; }
+.tools { margin-left: auto; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+.checked { font: 400 12.5px var(--mono); color: var(--muted); }
+.btn {
+  font: 600 15px/1 var(--sans); color: var(--smu-teal); background: transparent;
+  border: 1px solid var(--smu-teal); border-radius: 4px; padding: 10px 16px; min-height: 38px; cursor: pointer;
+}
+.btn:hover { background: var(--teal-wash); }
+.btn[aria-disabled="true"] { opacity: .65; cursor: progress; }
+
+.disclaimer {
+  margin: 0 0 28px; padding: 10px 14px;
+  border: 1px solid var(--line); border-left: 4px solid var(--smu-red);
+  background: var(--card); font-size: 1.02rem;
+}
+
+.notice { margin: 0 0 32px; padding: 18px 22px; background: var(--teal-wash); border: 1px solid var(--line); border-left: 4px solid var(--smu-teal); }
+.notice h2 { font: 700 1.4rem/1.2 var(--serif); margin: 0 0 6px; }
+.notice p { margin: 6px 0; max-width: 72ch; }
+.notice.error { background: var(--card); border-left-color: var(--smu-red); }
+.notice code, .error-text { font: 400 13.5px var(--mono); overflow-wrap: anywhere; }
+.error-text { display: block; margin-top: 4px; padding: 8px 10px; background: var(--sheet); border: 1px solid var(--line); }
+.loading { margin: 0 0 32px; color: var(--muted); font-style: italic; }
+
+.verdict { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 0 0 22px; padding: 14px 18px; border: 1px solid var(--line); border-left: 4px solid var(--ok); background: var(--ok-wash); font-weight: 600; font-size: 1.1rem; }
+.verdict.attention { border-left-color: var(--bad); background: var(--bad-wash); }
+.verdict.waiting { border-left-color: var(--na); background: var(--na-wash); }
+
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); margin: 0 0 40px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stat { margin: 0; padding: 16px 18px 14px; border-left: 1px solid var(--line); }
+.stat:first-child { border-left: 0; padding-left: 0; }
+.stat-num { display: block; font: 700 2.7rem/1.05 var(--serif); font-variant-numeric: lining-nums tabular-nums; }
+.stat-num small { font: 600 1.1rem var(--sans); color: var(--muted); margin-left: 4px; }
+.stat-label { display: block; font-size: 1.02rem; margin-top: 4px; }
+
+.section { margin: 0 0 44px; }
+.section-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 18px; margin-bottom: 10px; }
+h2 { font: 700 1.8rem/1.15 var(--serif); margin: 0; }
+.dek { margin: 6px 0 0; color: var(--muted); max-width: 72ch; }
+.section-links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0; font-size: 15px; }
+
+.vchip {
+  display: inline-flex; align-items: center; gap: 6px; flex: none;
+  font: 600 13.5px/1 var(--sans); white-space: nowrap;
+  padding: 3px 10px 3px 3px; border-radius: 999px; border: 1px solid currentColor;
+  color: var(--ok); background: var(--ok-wash);
+}
+.vchip .g {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 17px; height: 17px; border-radius: 50%;
+  background: currentColor; font: 700 11px/1 var(--sans);
+}
+.vchip .g span { color: var(--sheet); }
+.vchip.v-bad { color: var(--bad); background: var(--bad-wash); }
+.vchip.v-na { color: var(--na); background: var(--na-wash); }
+.vchip.v-pending { color: var(--muted); background: transparent; border-style: dashed; }
+.vchip.v-pending .g { background: transparent; border: 1px dashed currentColor; }
+.vchip.v-pending .g span { color: var(--muted); }
+.chip-legend { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 14px 0 0; padding: 0; list-style: none; font-size: 14.5px; color: var(--muted); }
+.chip-legend li { display: inline-flex; align-items: center; gap: 8px; }
+
+.co-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 18px; margin-top: 18px; }
+.co { min-width: 0; display: flex; flex-direction: column; background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--smu-teal); padding: 16px 18px 14px; }
+.co.has-bad { border-top-color: var(--bad); }
+.co h3 { font: 700 1.4rem/1.2 var(--serif); margin: 0; }
+.co-period { margin: 2px 0 10px; color: var(--muted); font-size: 15px; }
+.co-none { margin: 8px 0 0; color: var(--muted); font-style: italic; }
+.figs { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.fig { padding: 10px 0 9px; border-bottom: 1px solid var(--line); }
+.fig-top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 10px; }
+.fig-name { font-weight: 600; }
+.fig-val { margin: 2px 0 0; font: 700 1.35rem/1.25 var(--serif); font-variant-numeric: lining-nums tabular-nums; }
+.fig-val .unit { font: 400 13.5px var(--sans); color: var(--muted); margin-left: 4px; }
+.fig-val.none { font: italic 400 15px var(--sans); color: var(--muted); }
+.fig-quote { margin: 5px 0 0; padding: 2px 0 2px 10px; border-left: 3px solid var(--line-strong); font: 400 13px/1.45 var(--mono); color: var(--muted); overflow-wrap: anywhere; }
+.fig-why { margin: 5px 0 0; font-size: 14.5px; }
+.fig-why .who { font-weight: 600; color: var(--smu-teal); }
+.guidance { margin: 10px 0 0; font-size: 15px; }
+.picked { margin: 2px 0 0; font-size: 13.5px; color: var(--smu-teal); font-weight: 600; }
+.sub-head { margin: 14px 0 0; font: 700 1rem/1.3 var(--sans); color: var(--smu-teal); letter-spacing: .02em; }
+.fund-wrap { overflow-x: auto; margin: 6px 0 0; }
+.fund { border-collapse: collapse; font-size: 13.5px; width: 100%; font-variant-numeric: tabular-nums; }
+.fund th, .fund td { border-top: 1px solid var(--line); padding: 4px 6px; text-align: right; white-space: nowrap; }
+.fund th:first-child, .fund td:first-child { text-align: left; white-space: normal; }
+.claims { list-style: none; margin: 6px 0 0; padding: 0; }
+.claim { padding: 7px 0; border-top: 1px dashed var(--line); font-size: 14.5px; }
+.claim .cv { display: inline-block; font-size: 12.5px; font-weight: 700; padding: 1px 7px; border-radius: 10px; margin-right: 6px; border: 1px solid var(--line-strong); }
+.claim .cv.ok { color: var(--ok, #107850); border-color: currentColor; }
+.claim .cv.bad { color: var(--bad, #b3261e); border-color: currentColor; }
+.tone { margin: 8px 0 0; font-size: 14.5px; }
+.ratings { margin: 12px 0 0; padding: 0; }
+.rating { display: grid; grid-template-columns: 112px 1fr; gap: 2px 10px; padding: 7px 0; border-top: 1px dashed var(--line); }
+.rating dt { font-weight: 600; font-size: 14.5px; }
+.rating dd { margin: 0; font-size: 14.5px; }
+.pips { display: inline-flex; gap: 3px; vertical-align: -1px; margin-right: 6px; }
+.pip { width: 10px; height: 10px; border-radius: 2px; border: 1px solid var(--smu-teal); }
+.pip.on { background: var(--smu-teal); }
+.score { font: 500 13px var(--mono); margin-right: 6px; }
+.co-links { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 12px 0 0; font-size: 15px; }
+.ratings-head { margin: 14px 0 0; font: 700 1rem/1.3 var(--sans); color: var(--smu-teal); letter-spacing: .02em; }
+.ratings-note { margin: 2px 0 0; font-size: 13.5px; color: var(--muted); }
+
+.radar-line { margin: 12px 0 0; font-weight: 600; }
+.radar-tools { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 24px; margin: 12px 0 0; }
+.radar-filter { display: flex; flex-direction: column; gap: 4px; font-size: 14.5px; font-weight: 600; flex: 1 1 260px; max-width: 420px; }
+.radar-filter input { font: 400 16px var(--sans); color: var(--ink); background: var(--sheet); border: 1px solid var(--line-strong); border-radius: 4px; padding: 9px 11px; min-height: 40px; width: 100%; }
+.radar-all { display: inline-flex; align-items: center; gap: 8px; font-size: 14.5px; }
+.radar-all input { width: 18px; height: 18px; accent-color: var(--smu-teal); }
+.radar-count { margin: 10px 0 0; color: var(--muted); font-size: 14.5px; }
+.radar-wrap { max-height: 560px; overflow-y: auto; }
+.radar-table { border-collapse: collapse; width: 100%; font-size: 15px; }
+.radar-table th { position: sticky; top: 0; background: var(--sheet); text-align: left; white-space: nowrap; font-weight: 600; font-variant-caps: all-small-caps; letter-spacing: .05em; color: var(--smu-teal); border-bottom: 1px solid var(--line-strong); padding: 6px 14px 6px 0; }
+.radar-table td { border-bottom: 1px solid var(--line); padding: 8px 14px 8px 0; vertical-align: top; }
+.radar-table tr.is-watch td { background: var(--teal-wash); }
+.radar-table tr.is-watch td:first-child { box-shadow: inset 4px 0 0 var(--smu-teal); padding-left: 10px; }
+.radar-tick { font: 400 13px var(--mono); overflow-wrap: anywhere; }
+.radar-link { white-space: nowrap; }
+.watch-tag { display: inline-block; margin-left: 8px; font: 600 11.5px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; padding: 3px 6px; border-radius: 3px; background: var(--smu-teal); color: var(--sheet); vertical-align: 2px; }
+.co-foot { margin: auto 0 0; padding-top: 10px; font: 400 12px var(--mono); color: var(--muted); }
+
+.tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 0; }
+.tab {
+  font: 600 14.5px/1.1 var(--sans); color: var(--ink); background: var(--sheet);
+  border: 1px solid var(--line-strong); border-radius: 999px; padding: 8px 14px; min-height: 36px; cursor: pointer;
+}
+.tab:hover { border-color: var(--smu-teal); }
+.tab[aria-pressed="true"] { background: var(--smu-teal); border-color: var(--smu-teal); color: var(--sheet); }
+
+.brief {
+  margin-top: 14px; padding: 22px 26px 18px;
+  background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--smu-teal);
+  max-width: 980px; min-width: 0;
+}
+.brief .md-title { font: 700 1.55rem/1.2 var(--serif); margin: 0 0 12px; }
+.brief h3 { font: 700 1.2rem/1.25 var(--serif); margin: 22px 0 6px; padding-top: 12px; border-top: 1px solid var(--line); }
+.brief h4, .brief h5, .brief h6 { font: 600 1.05rem/1.3 var(--sans); margin: 16px 0 4px; }
+.brief p { margin: 8px 0; }
+.brief ul, .brief ol { margin: 6px 0 10px; padding-left: 1.3em; }
+.brief li { margin: 5px 0; }
+.brief code { font: 400 .86em var(--mono); background: var(--code-bg); padding: 1px 4px; border-radius: 3px; overflow-wrap: anywhere; }
+.brief pre { font: 400 13px/1.5 var(--mono); background: var(--code-bg); padding: 10px 12px; overflow-x: auto; white-space: pre; }
+.brief pre code { background: none; padding: 0; }
+.brief blockquote { margin: 8px 0; padding: 2px 0 2px 14px; border-left: 3px solid var(--line-strong); color: var(--muted); }
+.brief hr { border: 0; border-top: 1px solid var(--line); margin: 16px 0; }
+.brief a { overflow-wrap: anywhere; }
+.md-table { overflow-x: auto; margin: 10px 0 12px; }
+.md-table table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+.md-table th { text-align: left; vertical-align: bottom; font-weight: 600; font-variant-caps: all-small-caps; letter-spacing: .05em; color: var(--smu-teal); border-bottom: 1px solid var(--line-strong); padding: 5px 12px 5px 0; }
+.md-table td { border-bottom: 1px solid var(--line); padding: 7px 12px 7px 0; vertical-align: top; overflow-wrap: break-word; }
+.brief-note { margin: 10px 0 0; color: var(--muted); font-size: 15px; }
+
+.src-list { list-style: none; margin: 16px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 14px; }
+.src { min-width: 0; padding: 14px 16px 12px; background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--ok); }
+.src.bad { border-top-color: var(--bad); }
+.src.none { border-top-color: var(--line-strong); }
+.src h3 { font: 700 1.2rem/1.2 var(--serif); margin: 0 0 4px; }
+.src p { margin: 4px 0; font-size: 15.5px; }
+.fail-list { margin: 6px 0 0; padding-left: 1.2em; font-size: 14.5px; }
+.fail-list code { font: 400 12.5px var(--mono); overflow-wrap: anywhere; }
+
+.chart-wrap { position: relative; margin: 18px 0 8px; }
+#chart { min-height: 40px; }
+#chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart-empty { margin: 0; padding: 26px 0; color: var(--muted); font-style: italic; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.lane-label { font: 600 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; fill: var(--smu-teal); }
+.axis-label { font: 400 11px var(--mono); fill: var(--muted); }
+.val-label { font: 500 11.5px var(--mono); fill: var(--ink); }
+.gridline { stroke: var(--grid); stroke-width: 1; }
+.baseline { stroke: var(--line-strong); stroke-width: 1; }
+.ring { fill: var(--sheet); }
+.d-x { fill: var(--mark); }
+.d-ok { fill: var(--ok); }
+.d-bad { fill: var(--bad); }
+.d-na { fill: var(--na); }
+.d-hollow { fill: var(--sheet); stroke: var(--mark); stroke-width: 2; }
+.d-hollow.na { stroke: var(--na); }
+.d-fail { fill: none; stroke: var(--bad); stroke-width: 2; stroke-dasharray: 3 2; }
+.band { fill: var(--band); visibility: hidden; }
+.hit { fill: transparent; pointer-events: all; cursor: pointer; }
+.hit:focus { outline: none; }
+.hit:focus-visible { stroke: var(--focus); stroke-width: 2; }
+.tip {
+  position: absolute; z-index: 5; top: 0; left: 0;
+  width: max-content; max-width: min(300px, 100%);
+  padding: 10px 12px 11px; background: var(--tip-bg); color: var(--tip-ink);
+  border-radius: 6px; font-size: 14px; line-height: 1.4; pointer-events: none;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .18);
+}
+.tip strong { display: block; font: 500 12.5px var(--mono); margin-bottom: 5px; }
+.tip-row { display: flex; justify-content: space-between; gap: 18px; font: 400 12.5px/1.55 var(--mono); }
+.tip-note { display: block; margin-top: 6px; font-style: italic; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 20px; margin: 6px 0 0; padding: 0; list-style: none; font-size: 14px; color: var(--muted); }
+.legend li { display: inline-flex; align-items: center; gap: 7px; }
+.legend svg { flex: none; }
+
+details.log { margin-top: 22px; border-top: 1px solid var(--line); padding-top: 12px; }
+details.log summary { cursor: pointer; font-weight: 600; color: var(--smu-teal); width: max-content; max-width: 100%; }
+.table-wrap { overflow-x: auto; margin-top: 12px; }
+.log-table { border-collapse: collapse; width: 100%; min-width: 720px; font-size: 15px; }
+.log-table th {
+  text-align: left; vertical-align: bottom; white-space: nowrap;
+  font-weight: 600; font-variant-caps: all-small-caps; letter-spacing: .05em; color: var(--smu-teal);
+  border-bottom: 1px solid var(--line-strong); padding: 6px 14px 6px 0;
+}
+.log-table td { border-bottom: 1px solid var(--line); padding: 9px 14px 9px 0; vertical-align: top; }
+td.when { font: 400 13px var(--mono); white-space: nowrap; }
+td.num, th.num { text-align: right; }
+td.num { font: 400 13px var(--mono); }
+.agent-tag { display: inline-block; font: 600 12px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; padding: 4px 7px; border-radius: 3px; border: 1px solid var(--smu-teal); color: var(--smu-teal); }
+.agent-tag.assessor { border-color: var(--ink); color: var(--ink); }
+
+.brief-index { list-style: none; margin: 14px 0 0; padding: 0; border-top: 1px solid var(--line); }
+.brief-index li { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.brief-index .bdate { font-weight: 600; min-width: 150px; }
+.brief-index .bmeta { color: var(--muted); font-size: 15px; }
+.empty-note { margin: 10px 0 0; color: var(--muted); font-style: italic; }
+
+.foot { margin-top: 12px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14.5px; }
+.foot p { margin: 4px 0; }
+
+.toast {
+  position: fixed; left: 50%; bottom: 22px; z-index: 20;
+  transform: translate(-50%, 24px); opacity: 0; transition: opacity .25s ease, transform .25s ease;
+  max-width: calc(100% - 32px); width: max-content; padding: 12px 18px;
+  background: var(--tip-bg); color: var(--tip-ink); border-radius: 6px; font-weight: 600;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, .22); pointer-events: none;
+}
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+@media (max-width: 760px) {
+  .tools { margin-left: 0; }
+  .stats { grid-template-columns: 1fr 1fr; }
+  .stat:nth-child(3) { border-left: 0; padding-left: 0; }
+  .stat:nth-child(n+3) { border-top: 1px solid var(--line); }
+}
+@media (max-width: 640px) {
+  .wrap { padding: 0; }
+  .sheet { border: 0; padding: 24px 16px 26px; }
+  .stat { padding: 12px 12px 10px; }
+  .stat-num { font-size: 2.2rem; }
+  .brief { padding: 16px 14px 12px; }
+  .co { padding: 14px 14px 12px; }
+  .rating { grid-template-columns: 1fr; }
+  .radar-wrap { max-height: 70vh; }
+  .radar-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .radar-table, .radar-table tbody, .radar-table tr, .radar-table td { display: block; width: 100%; }
+  .radar-table tr { padding: 8px 0 9px; border-bottom: 1px solid var(--line-strong); }
+  .radar-table tr.is-watch { background: var(--teal-wash); box-shadow: inset 4px 0 0 var(--smu-teal); padding-left: 10px; }
+  .radar-table td, .radar-table tr.is-watch td { border: 0; padding: 1px 0; background: transparent; box-shadow: none; }
+  .radar-table td.when { white-space: normal; }
+  .radar-table td:not(.radar-co)::before { content: attr(data-label) ": "; font-weight: 600; color: var(--smu-teal); font-family: var(--sans); font-size: 13px; }
+  .md-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .md-table table, .md-table tbody, .md-table tr, .md-table td { display: block; width: 100%; }
+  .md-table tr { padding: 8px 0 9px; border-bottom: 1px solid var(--line-strong); }
+  .md-table td { border: 0; padding: 2px 0; }
+  .md-table td:empty { display: none; }
+  .md-table td::before { content: attr(data-label); display: block; font: 600 13px/1.3 var(--sans); font-variant-caps: all-small-caps; letter-spacing: .05em; color: var(--smu-teal); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pulse::after { animation: none; }
+  .toast { transition: none; }
+}
+@media (forced-colors: active) {
+  .vchip, .vchip .g { forced-color-adjust: none; }
+}
+</style>
+</head>
+<body>
+<p class="sample-banner" id="sampleBanner" hidden>This page is showing sample data from test runs, not your own runs. <a href="./">Show the real data</a></p>
+<div class="wrap">
+<div class="sheet">
+  <header class="masthead">
+    <p class="kicker smallcaps" id="kicker">Waiting for the first run</p>
+    <h1 id="title">US Market Earnings Watch</h1>
+    <p class="focus" id="focus">Every US company that filed results since the last run, and the latest results of the companies you watch, read from SEC filings at 6:07 AM and checked by a second agent at 6:37 AM</p>
+    <div class="meta-row">
+      <ul class="meta smallcaps">
+        <li class="watch" id="watch"><span class="pulse" aria-hidden="true"></span><span id="watchText">Watching</span></li>
+        <li id="lastRun">Last run: not yet</li>
+        <li>Schedule: daily, 6:07 AM and 6:37 AM</li>
+      </ul>
+      <div class="tools">
+        <span class="checked" id="checked"></span>
+        <button type="button" class="btn" id="checkBtn">Check again</button>
+      </div>
+    </div>
+    <p class="overdue-note" id="overdue" hidden></p>
+  </header>
+
+  <p class="disclaimer" role="note"><strong>This page reports company results and checks them. It is not investment advice.</strong></p>
+
+  <main>
+    <div id="status"><p class="loading">Loading the latest data&hellip;</p></div>
+    <noscript><p class="notice">This page needs JavaScript to show the results and the briefs.</p></noscript>
+
+    <div id="dataArea" hidden>
+      <p class="verdict" id="verdict" hidden></p>
+      <section class="stats" aria-label="Summary of the latest results">
+        <p class="stat"><span class="stat-num" id="statRadar">0</span> <span class="stat-label smallcaps">Reported since the last run</span></p>
+        <p class="stat"><span class="stat-num" id="statOk">0</span> <span class="stat-label smallcaps">Figures confirmed</span></p>
+        <p class="stat"><span class="stat-num" id="statBad">0</span> <span class="stat-label smallcaps">Mismatches</span></p>
+        <p class="stat"><span class="stat-num" id="statRuns">0</span> <span class="stat-label smallcaps">Runs so far</span></p>
+      </section>
+
+      <section class="section" aria-labelledby="hCompanies">
+        <h2 id="hCompanies">Results by company</h2>
+        <p class="dek">The latest results the watcher saved for each company in your watchlist, with the assessor's verdict on every figure. Each quote is the watcher's evidence, copied from the press release.</p>
+        <ul class="chip-legend" aria-label="What the verdicts mean">
+          <li><span class="vchip"><span class="g" aria-hidden="true"><span>&#10003;</span></span>Confirmed</span> the quote and the company's filing agree</li>
+          <li><span class="vchip v-bad"><span class="g" aria-hidden="true"><span>&#10007;</span></span>Mismatch</span> check it by hand</li>
+          <li><span class="vchip v-na"><span class="g" aria-hidden="true"><span>?</span></span>Cannot check</span> no filed figure yet</li>
+        </ul>
+        <div class="co-grid" id="coGrid"></div>
+      </section>
+
+      <section class="section" id="radarSection" aria-labelledby="hRadar">
+        <h2 id="hRadar">Who reported since the last run</h2>
+        <p class="dek">Every 8-K with item 2.02 (results of operations) that reached SEC EDGAR since the watcher's previous run, from the SEC's full-text search. Companies in your watchlist are marked. Filing dates are US dates.</p>
+        <p class="radar-line" id="radarLine"></p>
+        <div class="radar-tools">
+          <label class="radar-filter" for="radarFilter">Filter by company, ticker or CIK
+            <input type="search" id="radarFilter" autocomplete="off" spellcheck="false" placeholder="for example AXP or bank">
+          </label>
+          <label class="radar-all"><input type="checkbox" id="radarAll"> Show every saved filing, not only those since the last run</label>
+        </div>
+        <p class="radar-count" id="radarCount" aria-live="polite"></p>
+        <div class="table-wrap radar-wrap" role="region" aria-label="Companies that reported" tabindex="0">
+          <table class="radar-table">
+            <thead>
+              <tr><th scope="col">Company</th><th scope="col">Tickers</th><th scope="col">Filed</th><th scope="col">Filing</th></tr>
+            </thead>
+            <tbody id="radarBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section" id="briefSection" aria-labelledby="hBrief">
+        <div class="section-head">
+          <h2 id="hBrief">Latest briefs</h2>
+          <p class="section-links" id="briefLinks"></p>
+        </div>
+        <div class="tabs" role="group" aria-label="Which agent's brief">
+          <button type="button" class="tab" id="tabWatch" aria-pressed="true">Watcher's brief</button>
+          <button type="button" class="tab" id="tabAssess" aria-pressed="false">Assessor's brief</button>
+        </div>
+        <article class="brief" id="brief" aria-live="polite"></article>
+      </section>
+
+      <section class="section" aria-labelledby="hSources">
+        <h2 id="hSources">Sources at the last runs</h2>
+        <p class="dek">What SEC EDGAR answered when each agent last ran.</p>
+        <ul class="src-list" id="srcList"></ul>
+      </section>
+
+      <section class="section" aria-labelledby="hAsleep">
+        <h2 id="hAsleep">While you were asleep</h2>
+        <p class="dek">Each dot is one run: the watcher on the top line, the assessor below it. Point at a dot to see its details, or click it to read that run's brief.</p>
+        <div class="chart-wrap">
+          <div id="chart"></div>
+          <div class="tip" id="tip" hidden></div>
+        </div>
+        <ul class="legend" id="legend">
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-x" cx="7" cy="7" r="5"/></svg>New results saved (watchlist and radar picks)</li>
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-hollow" cx="7" cy="7" r="4.5"/></svg>No new results</li>
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-ok" cx="7" cy="7" r="5"/></svg>All confirmed</li>
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-bad" cx="7" cy="7" r="5"/></svg>Mismatch found</li>
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-na" cx="7" cy="7" r="5"/></svg>Could not check</li>
+          <li><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><circle class="d-hollow na" cx="7" cy="7" r="4.5"/></svg>Nothing to check</li>
+          <li><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle class="d-fail" cx="8" cy="8" r="6.5"/></svg>A source failed</li>
+        </ul>
+        <details class="log" id="log">
+          <summary id="logSummary">Run log</summary>
+          <div class="table-wrap" role="region" aria-label="Run log table" tabindex="0">
+            <table class="log-table">
+              <thead>
+                <tr><th scope="col">Run (Singapore time)</th><th scope="col">Agent</th><th scope="col">Result</th><th scope="col" class="num">Sources</th><th scope="col">Brief</th></tr>
+              </thead>
+              <tbody id="logBody"></tbody>
+            </table>
+          </div>
+        </details>
+      </section>
+
+      <section class="section" aria-labelledby="hAll">
+        <h2 id="hAll">Every brief</h2>
+        <ul class="brief-index" id="briefIndex"></ul>
+        <p class="empty-note" id="briefIndexEmpty" hidden>The briefs appear here after the first run.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <p>Two Claude routines read SEC EDGAR each morning: the watcher lists who reported and writes down the figures, and the assessor checks them. You are the second check, after the assessor, so please open the press release before you use a figure.</p>
+    <p>This page reports company results and checks them. It is not investment advice.</p>
+    <p class="smallcaps">MGMT 6110 &middot; PS6</p>
+  </footer>
+</div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+
+<script>
+(function () {
+  'use strict';
+
+  var HOUR = 36e5;
+  var TZ = 'Asia/Singapore';
+  var SGT_OFFSET = 8 * HOUR;
+  var REFRESH_MS = 5 * 60 * 1000;
+  var FIGS = [['revenue', 'Revenue'], ['operating_income', 'Operating income'], ['net_income', 'Net income'], ['diluted_eps', 'Diluted EPS']];
+  var RATINGS = [['S1', 'Correct'], ['S2', 'Complete'], ['S3', 'Useful']];
+  var VERDICTS = {
+    'confirmed': { cls: '', glyph: '✓', label: 'Confirmed' },
+    'mismatch': { cls: 'v-bad', glyph: '✗', label: 'Mismatch' },
+    'cannot check': { cls: 'v-na', glyph: '?', label: 'Cannot check' },
+    'pending': { cls: 'v-pending', glyph: '…', label: 'Not checked yet' }
+  };
+  var DEFAULT_COMPANIES = [{ cik: '1652044', name: 'Alphabet' }, { cik: '1018724', name: 'Amazon' }, { cik: '1326801', name: 'Meta Platforms' }];
+
+  var params = new URLSearchParams(location.search);
+  var isSample = /^_dev\/?$/.test(params.get('data') || '');
+  var base = isSample ? '_dev/' : '';
+
+  var state = {
+    runs: [], extractions: [], latestAssess: {}, companies: DEFAULT_COMPANIES, radar: { windows: [], filings: [] },
+    loaded: false, error: null, busy: false, signature: '', lastChecked: 0,
+    tab: 'watch', shown: null, briefToken: 0
+  };
+  var chartGeo = null;
+
+  // ---------- small helpers ----------
+
+  function $(id) { return document.getElementById(id); }
+  function el(tag, attrs, kids) {
+    var n = document.createElement(tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) {
+      var v = attrs[k];
+      if (v == null || v === false) return;
+      if (k === 'text') n.textContent = String(v);
+      else if (k === 'class') n.className = v;
+      else n.setAttribute(k, v === true ? '' : String(v));
+    });
+    (kids || []).forEach(function (c) {
+      if (c == null) return;
+      n.appendChild(typeof c === 'string' ? document.createTextNode(c) : c);
+    });
+    return n;
+  }
+  function sv(tag, attrs, text) {
+    var n = document.createElementNS('http://www.w3.org/2000/svg', tag);
+    Object.keys(attrs || {}).forEach(function (k) { n.setAttribute(k, String(attrs[k])); });
+    if (text != null) n.textContent = String(text);
+    return n;
+  }
+  function clear(n) { while (n.firstChild) n.removeChild(n.firstChild); }
+  function isObj(v) { return !!v && typeof v === 'object' && !Array.isArray(v); }
+  function obj(v) { return isObj(v) ? v : {}; }
+  function arr(v) { return Array.isArray(v) ? v : []; }
+  function str(v) { return typeof v === 'string' ? v.trim() : (typeof v === 'number' && isFinite(v) ? String(v) : ''); }
+  function num(v) { return typeof v === 'number' && isFinite(v) ? v : null; }
+  function time(v) { if (typeof v !== 'string' || !v) return null; var t = Date.parse(v); return isNaN(t) ? null : t; }
+  function r1(v) { return Math.round(v * 10) / 10; }
+  function plural(n, one, many) { return n + ' ' + (n === 1 ? one : (many || one + 's')); }
+  function debounce(fn, ms) { var t; return function () { clearTimeout(t); t = setTimeout(fn, ms); }; }
+  function cap(s) { return s ? s.charAt(0).toUpperCase() + s.slice(1) : s; }
+  function safeUrl(u) {
+    if (typeof u !== 'string') return null;
+    u = u.trim();
+    if (!/^https:\/\//i.test(u)) return null;
+    try { var p = new URL(u); return p.protocol === 'https:' ? p.href : null; } catch (e) { return null; }
+  }
+  function safeBriefPath(p) {
+    p = str(p);
+    return /^briefs\/\d{4}-\d{2}-\d{2}-(watch|assess)\.md$/.test(p) ? p : null;
+  }
+  function briefKey(p) { var m = /(\d{4}-\d{2}-\d{2}-(?:watch|assess))\.md$/.exec(p || ''); return m ? m[1] : null; }
+
+  var fmtCache = {};
+  function parts(t, opts) {
+    var key = JSON.stringify(opts);
+    if (!fmtCache[key]) fmtCache[key] = new Intl.DateTimeFormat('en-GB', Object.assign({ timeZone: TZ }, opts));
+    var out = {};
+    fmtCache[key].formatToParts(new Date(t)).forEach(function (p) { out[p.type] = p.value; });
+    return out;
+  }
+  function ampm(p) { return (p.dayPeriod || '').toUpperCase(); }
+  function fmtClock(t) { var p = parts(t, { hour: 'numeric', minute: '2-digit', hourCycle: 'h12' }); return p.hour + ':' + p.minute + ' ' + ampm(p); }
+  function fmtRun(t) {
+    var p = parts(t, { weekday: 'short', day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hourCycle: 'h12' });
+    return p.weekday + ' ' + p.day + ' ' + p.month + ', ' + p.hour + ':' + p.minute + ' ' + ampm(p);
+  }
+  function fmtDate(t, withYear) {
+    var p = parts(t, { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
+    return p.weekday + ' ' + p.day + ' ' + p.month + (withYear ? ' ' + p.year : '');
+  }
+  function fmtDayMonth(t) { var p = parts(t, { day: 'numeric', month: 'short' }); return p.day + ' ' + p.month; }
+  function isoDay(s) { var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s || ''); return m ? Date.UTC(+m[1], +m[2] - 1, +m[3], 4) : null; }
+  function fmtIsoDate(s) { var t = isoDay(s); return t == null ? (s || 'date not given') : fmtDate(t, true); }
+  function fmtValue(v, unit) {
+    if (v == null) return '';
+    var eps = unit === 'USD per share';
+    return v.toLocaleString('en-GB', { minimumFractionDigits: eps ? 2 : 0, maximumFractionDigits: eps ? 2 : 1 });
+  }
+
+  // ---------- data ----------
+
+  function normRun(r) {
+    if (!isObj(r)) return null;
+    var at = time(r.run_at);
+    var agent = r.agent === 'watcher' || r.agent === 'assessor' ? r.agent : null;
+    if (at == null || !agent) return null;
+    var src = obj(r.sources), c = obj(r.counts);
+    return {
+      at: at, agent: agent, brief: safeBriefPath(r.brief), briefChecked: r.brief_checked === true,
+      sourcesOk: num(src.ok), sourcesTotal: num(src.total),
+      failures: arr(src.failures).filter(isObj).map(function (f) { return { name: str(f.name), detail: str(f.detail) }; }),
+      saved: num(c.saved) || 0, noNew: num(c.no_new) || 0, failed: num(c.failed) || 0, radarNew: num(c.radar_new),
+      checked: num(c.checked) || 0, confirmed: num(c.confirmed) || 0, mismatch: num(c.mismatch) || 0,
+      cannot: num(c.cannot_check) || 0, rechecks: num(c.rechecks) || 0,
+      companies: arr(r.companies).filter(isObj).map(function (x) {
+        return { company: str(x.company), status: str(x.status), period: str(x.period_label), detail: str(x.detail) };
+      }),
+      headline: str(r.headline), offline: r.offline === true
+    };
+  }
+
+  function normFigure(f) {
+    if (!isObj(f)) return null;
+    return { value: num(f.value), unit: str(f.unit), quote: str(f.quote) };
+  }
+
+  function normExtraction(e) {
+    if (!isObj(e) || !str(e.accession)) return null;
+    var figs = obj(e.figures), out = {};
+    FIGS.forEach(function (f) { out[f[0]] = normFigure(figs[f[0]]); });
+    var g = isObj(e.guidance) ? { text: str(e.guidance.text), quote: str(e.guidance.quote) } : null;
+    return {
+      cik: str(e.cik).replace(/^0+/, ''), company: str(e.company) || 'Company not named', accession: str(e.accession),
+      releaseDate: str(e.release_date), periodLabel: str(e.period_label) || 'period not stated', figures: out, guidance: g,
+      pressUrl: safeUrl(e.press_release_url), filingUrl: safeUrl(e.filing_url), savedAt: time(e.saved_at),
+      picked: e.picked_from_radar === true,
+      management: (Array.isArray(e.management) ? e.management : []).filter(isObj).map(function (m) {
+        return { id: str(m.id), topic: str(m.topic), claim: str(m.claim), quote: str(m.quote) };
+      }),
+      tone: isObj(e.tone) ? { label: str(e.tone.label), reason: str(e.tone.reason) } : null
+    };
+  }
+
+  function normAssessment(a) {
+    if (!isObj(a) || !str(a.accession)) return null;
+    var v = obj(a.verdicts), r = obj(a.ratings), verdicts = {}, ratings = {};
+    FIGS.forEach(function (f) {
+      var x = obj(v[f[0]]);
+      verdicts[f[0]] = { verdict: VERDICTS[str(x.verdict)] && str(x.verdict) !== 'pending' ? str(x.verdict) : 'pending', reason: str(x.reason) };
+    });
+    RATINGS.forEach(function (k) {
+      var x = obj(r[k[0]]), s = num(x.score);
+      ratings[k[0]] = { score: s != null && s >= 1 && s <= 5 ? Math.round(s) : null, reason: str(x.reason) };
+    });
+    var claims = {};
+    Object.keys(obj(a.claims)).forEach(function (k) { var x = obj(a.claims[k]); claims[k] = { verdict: str(x.verdict), reason: str(x.reason) }; });
+    return { accession: str(a.accession), verdicts: verdicts, ratings: ratings, at: time(a.assessed_at), recheck: a.recheck === true,
+             claims: claims, tone: isObj(a.tone) ? { verdict: str(a.tone.verdict), reason: str(a.tone.reason) } : null,
+             fundamentals: (Array.isArray(a.fundamentals) ? a.fundamentals : []).filter(isObj) };
+  }
+
+  function getText(path, noBase) {
+    var url = (noBase ? '' : base) + path;
+    return fetch(url + '?t=' + Date.now(), { cache: 'no-store' }).then(function (res) {
+      if (!res.ok) throw new Error(url + ' returned HTTP ' + res.status + '.');
+      return res.text();
+    }, function (e) {
+      throw new Error('Could not fetch ' + url + ' (' + (e && e.message ? e.message : e) + ').');
+    });
+  }
+
+  function getList(path) {
+    return getText(path).then(function (text) {
+      var data;
+      try { data = JSON.parse(text); } catch (e) { throw new Error(base + path + ' is not valid JSON (' + e.message + ').'); }
+      if (!Array.isArray(data)) throw new Error(base + path + ' should be a JSON list, but it is not.');
+      return { text: text, data: data };
+    });
+  }
+
+  function getRadar() {
+    var url = base + 'data/radar.json';
+    return fetch(url + '?t=' + Date.now(), { cache: 'no-store' }).then(function (res) {
+      if (res.status === 404) return { text: '', data: { windows: [], filings: {} } };
+      if (!res.ok) throw new Error(url + ' returned HTTP ' + res.status + '.');
+      return res.text().then(function (text) {
+        var data;
+        try { data = JSON.parse(text); } catch (e) { throw new Error(url + ' is not valid JSON (' + e.message + ').'); }
+        if (!isObj(data)) throw new Error(url + ' should be a JSON object, but it is not.');
+        return { text: text, data: data };
+      });
+    }, function (e) {
+      throw new Error('Could not fetch ' + url + ' (' + (e && e.message ? e.message : e) + ').');
+    });
+  }
+
+  function normRadar(d) {
+    var windows = arr(d.windows).filter(isObj).map(function (w) {
+      return { at: time(w.run_at), runAt: str(w.run_at), start: str(w.start), end: str(w.end), offline: w.offline === true };
+    }).filter(function (w) { return w.at != null; }).sort(function (a, b) { return a.at - b.at; });
+    var filings = [];
+    Object.keys(obj(d.filings)).forEach(function (k) {
+      var f = obj(d.filings[k]);
+      if (!str(f.accession) || !/^\d{4}-\d{2}-\d{2}$/.test(str(f.file_date))) return;
+      filings.push({
+        accession: str(f.accession), fileDate: str(f.file_date), company: str(f.company) || 'Company not named',
+        tickers: arr(f.tickers).map(str).filter(Boolean), cik: str(f.cik).replace(/^0+/, ''),
+        url: safeUrl(f.filing_url), firstSeen: str(f.first_seen)
+      });
+    });
+    filings.sort(function (a, b) { return a.fileDate < b.fileDate ? 1 : a.fileDate > b.fileDate ? -1 : a.company.localeCompare(b.company); });
+    return { windows: windows, filings: filings };
+  }
+
+  function getCompanies() {
+    return getText('config.json', true).then(function (text) {
+      var cfg = JSON.parse(text);
+      var list = arr(cfg.companies).filter(isObj).map(function (c) { return { cik: str(c.cik).replace(/^0+/, ''), name: str(c.name) }; })
+        .filter(function (c) { return c.cik && c.name; });
+      return list.length ? list : null;
+    }).catch(function () { return null; });
+  }
+
+  function loadAll() {
+    return Promise.all([getList('data/runs.json'), getList('data/extractions.json'), getList('data/assessments.json'), getCompanies(), getRadar()])
+      .then(function (d) {
+        var runs = d[0].data.map(normRun).filter(Boolean).sort(function (a, b) { return a.at - b.at; });
+        var extractions = d[1].data.map(normExtraction).filter(Boolean);
+        var latest = {};
+        d[2].data.map(normAssessment).filter(Boolean).forEach(function (a) {
+          var prev = latest[a.accession];
+          if (!prev || (a.at || 0) >= (prev.at || 0)) latest[a.accession] = a;
+        });
+        return {
+          runs: runs, extractions: extractions, latestAssess: latest, companies: d[3], radar: normRadar(d[4].data),
+          signature: d[0].text + '\n' + d[1].text + '\n' + d[2].text + '\n' + d[4].text
+        };
+      });
+  }
+
+  // ---------- a small, safe Markdown reader for the briefs ----------
+
+  var INLINE = /(`[^`]+`)|(\*\*[^*]+?\*\*)|(\[[^\]]+\]\([^)\s]+\))|(<https?:\/\/[^>\s]+>)|(https?:\/\/[^\s<>()]+[^\s<>().,;:!?])|(\*[^*\s][^*]*?\*)/;
+
+  function inline(text, parent) {
+    var rest = text, m;
+    while (rest && (m = INLINE.exec(rest))) {
+      if (m.index) parent.appendChild(document.createTextNode(rest.slice(0, m.index)));
+      var tok = m[0];
+      if (m[1]) parent.appendChild(el('code', { text: tok.slice(1, -1) }));
+      else if (m[2]) { var b = el('strong'); inline(tok.slice(2, -2), b); parent.appendChild(b); }
+      else if (m[3]) {
+        var mm = /^\[([^\]]+)\]\(([^)\s]+)\)$/.exec(tok), href = safeUrl(mm[2]);
+        if (href) { var a = el('a', { href: href, target: '_blank', rel: 'noopener noreferrer' }); inline(mm[1], a); a.appendChild(el('span', { class: 'vh', text: ' (opens in a new tab)' })); parent.appendChild(a); }
+        else parent.appendChild(document.createTextNode(mm[1]));
+      } else if (m[4] || m[5]) {
+        var u = m[4] ? tok.slice(1, -1) : tok, h2 = safeUrl(u);
+        parent.appendChild(h2 ? el('a', { href: h2, target: '_blank', rel: 'noopener noreferrer', text: u }) : document.createTextNode(u));
+      } else if (m[6]) { var i = el('em'); inline(tok.slice(1, -1), i); parent.appendChild(i); }
+      rest = rest.slice(m.index + tok.length);
+    }
+    if (rest) parent.appendChild(document.createTextNode(rest));
+    return parent;
+  }
+
+  function splitRow(line) {
+    var s = line.trim();
+    if (s.charAt(0) === '|') s = s.slice(1);
+    if (s.slice(-1) === '|' && s.slice(-2) !== '\\|') s = s.slice(0, -1);
+    var cells = [], cur = '';
+    for (var i = 0; i < s.length; i++) {
+      var ch = s.charAt(i);
+      if (ch === '\\' && s.charAt(i + 1) === '|') { cur += '|'; i++; continue; }
+      if (ch === '|') { cells.push(cur.trim()); cur = ''; continue; }
+      cur += ch;
+    }
+    cells.push(cur.trim());
+    return cells;
+  }
+
+  function cellContent(text, td) {
+    var key = text.toLowerCase();
+    if (VERDICTS[key] && key !== 'pending') td.appendChild(vchip(key));
+    else inline(text, td);
+    return td;
+  }
+
+  function renderTable(rows, host) {
+    var head = splitRow(rows[0]);
+    var table = el('table'), thead = el('thead'), tr = el('tr'), tbody = el('tbody');
+    head.forEach(function (h) { tr.appendChild(inline(h, el('th', { scope: 'col' }))); });
+    thead.appendChild(tr);
+    rows.slice(2).forEach(function (line) {
+      var cells = splitRow(line), row = el('tr');
+      for (var i = 0; i < head.length; i++) row.appendChild(cellContent(cells[i] || '', el('td', { 'data-label': head[i].replace(/[*`]/g, '') })));
+      tbody.appendChild(row);
+    });
+    table.appendChild(thead);
+    table.appendChild(tbody);
+    host.appendChild(el('div', { class: 'md-table', role: 'region', 'aria-label': 'Table', tabindex: '0' }, [table]));
+  }
+
+  function renderMarkdown(md, host) {
+    var lines = md.replace(/\r\n?/g, '\n').split('\n');
+    var para = [], list = null, lastLi = null, firstHeading = true;
+    function flush() { if (para.length) { host.appendChild(inline(para.join(' '), el('p'))); para = []; } }
+    function endList() { list = null; lastLi = null; }
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i], m;
+      if (/^\s*```/.test(line)) {
+        flush(); endList();
+        var code = [];
+        for (i++; i < lines.length && !/^\s*```/.test(lines[i]); i++) code.push(lines[i]);
+        host.appendChild(el('pre', null, [el('code', { text: code.join('\n') })]));
+        continue;
+      }
+      if (/^\s*\|/.test(line) && i + 1 < lines.length && /^\s*\|?\s*:?-{3,}/.test(lines[i + 1])) {
+        flush(); endList();
+        var rows = [line, lines[i + 1]];
+        for (i += 2; i < lines.length && /^\s*\|/.test(lines[i]); i++) rows.push(lines[i]);
+        i--;
+        renderTable(rows, host);
+        continue;
+      }
+      if (/^\s*$/.test(line)) { flush(); endList(); continue; }
+      if ((m = /^(#{1,6})\s+(.*?)\s*#*\s*$/.exec(line))) {
+        flush(); endList();
+        var level = m[1].length;
+        var h = level === 1 && firstHeading ? el('h3', { class: 'md-title' }) : el('h' + Math.min(6, level + 1));
+        firstHeading = false;
+        host.appendChild(inline(m[2], h));
+        continue;
+      }
+      if (/^\s*([-*_])(\s*\1){2,}\s*$/.test(line)) { flush(); endList(); host.appendChild(el('hr')); continue; }
+      if ((m = /^\s*>\s?(.*)$/.exec(line))) { flush(); endList(); host.appendChild(inline(m[1], el('blockquote'))); continue; }
+      var ul = /^\s*[-*+]\s+(.*)$/.exec(line), ol = /^\s*\d+[.)]\s+(.*)$/.exec(line);
+      if (ul || ol) {
+        flush();
+        var tag = ul ? 'UL' : 'OL';
+        if (!list || list.tagName !== tag) { list = el(tag.toLowerCase()); host.appendChild(list); }
+        lastLi = inline((ul || ol)[1], el('li'));
+        list.appendChild(lastLi);
+        continue;
+      }
+      if (lastLi && /^\s+\S/.test(line)) { lastLi.appendChild(document.createTextNode(' ')); inline(line.trim(), lastLi); continue; }
+      endList();
+      para.push(line.trim());
+    }
+    flush();
+  }
+
+  // ---------- rendering ----------
+
+  function vchip(key) {
+    var v = VERDICTS[key] || VERDICTS.pending;
+    return el('span', { class: 'vchip' + (v.cls ? ' ' + v.cls : '') }, [
+      el('span', { class: 'g', 'aria-hidden': 'true' }, [el('span', { text: v.glyph })]), v.label
+    ]);
+  }
+
+  function lastOf(agent) {
+    for (var i = state.runs.length - 1; i >= 0; i--) if (state.runs[i].agent === agent) return state.runs[i];
+    return null;
+  }
+  function latest() { return state.runs[state.runs.length - 1] || null; }
+
+  function companyRows() {
+    var rows = [], seen = {};
+    (state.companies || DEFAULT_COMPANIES).forEach(function (c) { if (!seen[c.cik]) { seen[c.cik] = 1; rows.push({ cik: c.cik, name: c.name }); } });
+    state.extractions.forEach(function (e) { if (!seen[e.cik]) { seen[e.cik] = 1; rows.push({ cik: e.cik, name: e.company }); } });
+    rows.forEach(function (r) {
+      var best = null;
+      state.extractions.forEach(function (e) {
+        if (e.cik !== r.cik) return;
+        if (!best || e.releaseDate > best.releaseDate || (e.releaseDate === best.releaseDate && (e.savedAt || 0) > (best.savedAt || 0))) best = e;
+      });
+      r.ex = best;
+      r.as = best ? state.latestAssess[best.accession] || null : null;
+    });
+    return rows;
+  }
+
+  function tally(rows) {
+    var t = { cos: 0, confirmed: 0, mismatch: 0, cannot: 0, pending: 0 };
+    rows.forEach(function (r) {
+      if (!r.ex) return;
+      t.cos += 1;
+      FIGS.forEach(function (f) {
+        var v = r.as ? r.as.verdicts[f[0]].verdict : 'pending';
+        if (v === 'confirmed') t.confirmed += 1;
+        else if (v === 'mismatch') t.mismatch += 1;
+        else if (v === 'cannot check') t.cannot += 1;
+        else t.pending += 1;
+      });
+    });
+    return t;
+  }
+
+  function renderMasthead() {
+    var last = latest();
+    document.title = 'US Market Earnings Watch' + (isSample ? ' (sample data)' : '');
+    var names = (state.companies || DEFAULT_COMPANIES).map(function (c) { return c.name; });
+    var list = names.length > 1 ? names.slice(0, -1).join(', ') + ' and ' + names[names.length - 1] : names.join('');
+    $('focus').textContent = 'Every US company that filed results since the last run, and the latest results of ' + list + ', read from SEC filings at 6:07 AM and checked by a second agent at 6:37 AM';
+    $('kicker').textContent = last ? 'Edition of ' + fmtDate(last.at, true) : 'Waiting for the first run';
+    $('lastRun').textContent = last ? 'Last run: ' + fmtRun(last.at) + ' (' + (last.agent === 'watcher' ? 'watcher' : 'assessor') + ')' : 'Last run: not yet';
+    var overdue = !isSample && !!last && Date.now() - last.at > 30 * HOUR;
+    $('watch').classList.toggle('overdue', overdue);
+    $('watchText').textContent = overdue ? 'Overdue' : 'Watching';
+    $('overdue').hidden = !overdue;
+    $('overdue').textContent = overdue ? 'Neither routine has run in the last 30 hours. Open them in Claude and read their latest runs.' : '';
+  }
+
+  function renderStatus() {
+    var box = $('status');
+    clear(box);
+    if (state.error) {
+      $('dataArea').hidden = true;
+      var msg = state.error.message || String(state.error);
+      if (/not valid JSON|should be a JSON (list|object)/.test(msg)) {
+        box.appendChild(el('div', { class: 'notice error', role: 'alert' }, [
+          el('h2', { text: 'A data file is damaged' }),
+          el('p', { text: 'The page could not read one of its data files, so it shows nothing rather than something wrong. The routines also stop and change nothing when this happens. On GitHub, open the file\'s History and put back the last version that worked.' }),
+          el('p', null, ['Error:', el('span', { class: 'error-text', text: msg })])
+        ]));
+        return;
+      }
+      var kids = [
+        el('h2', { text: 'This page could not load its data' }),
+        el('p', null, ['Open it from its GitHub Pages address, ', el('code', { text: 'https://<your-username>.github.io/earnings-extractor-assessor/' }),
+          ', or from a local server. To start one, run ', el('code', { text: 'python3 -m http.server 8000' }),
+          ' in this folder and open ', el('code', { text: 'http://localhost:8000/' }), '.'])
+      ];
+      if (location.protocol === 'file:') kids.push(el('p', { text: 'You opened the file straight from your computer (a file:// address). Browsers do not let a page read its data files that way.' }));
+      kids.push(el('p', null, ['Error:', el('span', { class: 'error-text', text: state.error.message || String(state.error) })]));
+      box.appendChild(el('div', { class: 'notice error', role: 'alert' }, kids));
+      return;
+    }
+    if (!state.loaded) { box.appendChild(el('p', { class: 'loading', text: 'Loading the latest data…' })); return; }
+    if (!state.runs.length) {
+      $('dataArea').hidden = true;
+      box.appendChild(el('div', { class: 'notice' }, [
+        el('h2', { text: 'Waiting for the first run' }),
+        el('p', { text: 'No runs yet. Open the watcher routine in Claude and press Run now. When its run has pushed to GitHub, press Run now on the assessor. This page fills in a few minutes after each push.' })
+      ]));
+      return;
+    }
+    $('dataArea').hidden = false;
+  }
+
+  function renderSummary(rows) {
+    var t = tally(rows), v = $('verdict');
+    clear(v);
+    v.hidden = !t.cos;
+    if (t.cos) {
+      if (t.mismatch) {
+        v.className = 'verdict attention';
+        v.appendChild(vchip('mismatch'));
+        v.appendChild(document.createTextNode(t.mismatch === 1
+          ? '1 figure does not match. Read the assessor\'s reason and check it by hand before you use it.'
+          : t.mismatch + ' figures do not match. Read the assessor\'s reasons and check them by hand before you use them.'));
+      } else if (t.cannot || t.pending) {
+        v.className = 'verdict waiting';
+        v.appendChild(vchip(t.pending ? 'pending' : 'cannot check'));
+        v.appendChild(document.createTextNode(plural(t.cannot + t.pending, 'figure has', 'figures have') + ' not been confirmed yet. ' + (t.pending ? 'The assessor has not checked the newest results yet. It runs at 6:37 AM.' : 'The assessor checks again each morning, for up to 10 days, until the 10-Q is filed.')));
+      } else {
+        v.className = 'verdict';
+        v.appendChild(vchip('confirmed'));
+        v.appendChild(document.createTextNode('Every figure in the latest results was confirmed against the company\'s filing.'));
+      }
+    }
+    var rl = radarLatest();
+    $('statRadar').textContent = rl.window ? String(rl.entries.length) : '–';
+    $('statOk').textContent = t.confirmed;
+    $('statBad').textContent = t.mismatch;
+    $('statRuns').textContent = state.runs.length;
+  }
+
+  function companyCard(r) {
+    var ex = r.ex, as = r.as;
+    var card = el('article', { class: 'co' });
+    card.appendChild(el('h3', { text: r.name }));
+    if (!ex) {
+      card.appendChild(el('p', { class: 'co-none', text: 'No results saved yet.' }));
+      return card;
+    }
+    card.appendChild(el('p', { class: 'co-period', text: cap(ex.periodLabel) + ' · results filed ' + fmtIsoDate(ex.releaseDate) }));
+    if (ex.picked) card.appendChild(el('p', { class: 'picked', text: 'Picked at random from the radar' }));
+    var list = el('ul', { class: 'figs' }), bad = false;
+    FIGS.forEach(function (f) {
+      var fig = ex.figures[f[0]];
+      var v = as ? as.verdicts[f[0]] : null;
+      var key = v ? v.verdict : 'pending';
+      if (key === 'mismatch') bad = true;
+      var li = el('li', { class: 'fig' });
+      li.appendChild(el('div', { class: 'fig-top' }, [el('span', { class: 'fig-name', text: f[1] }), vchip(key)]));
+      if (fig && fig.value != null) {
+        li.appendChild(el('p', { class: 'fig-val' }, [fmtValue(fig.value, fig.unit), el('span', { class: 'unit', text: fig.unit })]));
+      } else {
+        li.appendChild(el('p', { class: 'fig-val none', text: 'Not given in the release' }));
+      }
+      if (fig && fig.quote) li.appendChild(el('blockquote', { class: 'fig-quote' }, [el('span', { class: 'vh', text: 'Quote: ' }), '“' + fig.quote + '”']));
+      if (v && v.reason) li.appendChild(el('p', { class: 'fig-why' }, [el('span', { class: 'who', text: 'Assessor: ' }), v.reason]));
+      list.appendChild(li);
+    });
+    if (bad) card.className += ' has-bad';
+    card.appendChild(list);
+    if (ex.guidance && ex.guidance.text) {
+      card.appendChild(el('p', { class: 'guidance' }, [el('strong', { text: 'Guidance: ' }), ex.guidance.text]));
+    } else {
+      card.appendChild(el('p', { class: 'guidance' }, [el('strong', { text: 'Guidance: ' }), 'none given in the release.']));
+    }
+    if (as && as.fundamentals.length) {
+      card.appendChild(el('h4', { class: 'sub-head', text: 'Fundamentals' }));
+      var fmtF = function (row, v) {
+        if (v == null) return 'not filed';
+        if (/margin$/.test(str(row.key))) return v.toFixed(1) + '%';
+        if (row.key === 'diluted_eps') return v.toFixed(2);
+        return Math.abs(v) >= 1000 ? Math.round(v).toLocaleString('en-US') : v.toLocaleString('en-US', { maximumFractionDigits: 3 });
+      };
+      var fmtC = function (row, v) { if (v == null) return 'n/a'; return (v >= 0 ? '+' : '') + v.toFixed(1) + (/margin$/.test(str(row.key)) ? ' pts' : '%'); };
+      var tb = el('tbody');
+      as.fundamentals.forEach(function (row) {
+        tb.appendChild(el('tr', null, [el('td', { text: str(row.name) }), el('td', { text: fmtF(row, num(row.this_quarter)) }),
+          el('td', { text: fmtF(row, num(row.year_ago)) }), el('td', { text: fmtC(row, num(row.change_year)) }),
+          el('td', { text: fmtF(row, num(row.previous_quarter)) }), el('td', { text: fmtC(row, num(row.change_quarter)) })]));
+      });
+      var th = el('tr', null, ['Fundamental', 'This quarter', 'A year ago', 'Change', 'Previous quarter', 'Change'].map(function (t) { return el('th', { text: t }); }));
+      card.appendChild(el('div', { class: 'fund-wrap' }, [el('table', { class: 'fund' }, [el('thead', null, [th]), tb])]));
+    }
+    if (ex.management.length) {
+      card.appendChild(el('h4', { class: 'sub-head', text: 'What management says, against the numbers' }));
+      var ul = el('ul', { class: 'claims' });
+      ex.management.forEach(function (m) {
+        var cv = as && as.claims[m.id] ? as.claims[m.id] : null;
+        var cls = cv ? (cv.verdict === 'matches' ? 'cv ok' : cv.verdict === 'does not match' ? 'cv bad' : 'cv') : 'cv';
+        if (cv && cv.verdict === 'does not match') card.className += ' has-bad';
+        var li = el('li', { class: 'claim' }, [el('span', { class: cls, text: cv ? cv.verdict : 'not checked yet' }),
+          el('strong', { text: m.id + ' (' + m.topic + '): ' }), m.claim]);
+        if (m.quote) li.appendChild(el('blockquote', { class: 'fig-quote' }, [el('span', { class: 'vh', text: 'Quote: ' }), '“' + m.quote + '”']));
+        if (cv && cv.reason) li.appendChild(el('p', { class: 'fig-why' }, [el('span', { class: 'who', text: 'Assessor: ' }), cv.reason]));
+        ul.appendChild(li);
+      });
+      card.appendChild(ul);
+    }
+    if (ex.tone) {
+      card.appendChild(el('p', { class: 'tone' }, [el('strong', { text: 'Tone: ' }), ex.tone.label + '. ' + ex.tone.reason +
+        (as && as.tone ? ' Assessor: ' + as.tone.verdict + '. ' + as.tone.reason : '')]));
+    }
+    if (as) {
+      card.appendChild(el('h4', { class: 'ratings-head', text: 'Assessor agent\'s ratings' }));
+      card.appendChild(el('p', { class: 'ratings-note', text: 'The assessor\'s scores for the watcher\'s work on these results, each out of 5.' }));
+      var dl = el('dl', { class: 'ratings', 'aria-label': 'Assessor agent\'s ratings of the watcher\'s work' });
+      RATINGS.forEach(function (k) {
+        var rt = as.ratings[k[0]], pips = el('span', { class: 'pips', 'aria-hidden': 'true' });
+        for (var i = 1; i <= 5; i++) pips.appendChild(el('span', { class: 'pip' + (rt.score != null && i <= rt.score ? ' on' : '') }));
+        dl.appendChild(el('div', { class: 'rating' }, [
+          el('dt', { text: k[0] + ' ' + k[1] }),
+          el('dd', null, [pips, el('span', { class: 'score', text: rt.score != null ? rt.score + ' of 5' : 'not rated' }), rt.reason])
+        ]));
+      });
+      card.appendChild(dl);
+    }
+    var links = el('p', { class: 'co-links' });
+    if (ex.pressUrl) links.appendChild(el('a', { href: ex.pressUrl, target: '_blank', rel: 'noopener noreferrer' }, [/-index\.html?$/.test(ex.pressUrl) ? 'Filing on sec.gov' : 'Press release on sec.gov', el('span', { class: 'vh', text: ' for ' + r.name + ' (opens in a new tab)' })]));
+    if (ex.filingUrl && ex.filingUrl !== ex.pressUrl) links.appendChild(el('a', { href: ex.filingUrl, target: '_blank', rel: 'noopener noreferrer' }, ['Filing index', el('span', { class: 'vh', text: ' for ' + r.name + ' (opens in a new tab)' })]));
+    if (links.firstChild) card.appendChild(links);
+    card.appendChild(el('p', { class: 'co-foot', text: 'Accession ' + ex.accession + ' · ' + (as ? 'checked ' + fmtRun(as.at) + (as.recheck ? ' (re-check)' : '') : 'not checked yet; the assessor runs at 6:37 AM') }));
+    return card;
+  }
+
+  function renderCompanies(rows) {
+    var grid = $('coGrid');
+    clear(grid);
+    rows.forEach(function (r) { grid.appendChild(companyCard(r)); });
+  }
+
+  function radarLatest() {
+    var w = state.radar.windows[state.radar.windows.length - 1] || null;
+    if (!w) return { window: null, entries: [] };
+    return { window: w, entries: state.radar.filings.filter(function (f) { return f.firstSeen === w.runAt; }) };
+  }
+
+  function watchCiks() {
+    var set = {};
+    (state.companies || DEFAULT_COMPANIES).forEach(function (c) { set[c.cik] = 1; });
+    return set;
+  }
+
+  var RADAR_MAX_ROWS = 300;
+  function renderRadar() {
+    var latestR = radarLatest(), w = latestR.window, body = $('radarBody');
+    var all = $('radarAll').checked, q = ($('radarFilter').value || '').trim().toLowerCase();
+    clear(body);
+    if (!w) {
+      $('radarLine').textContent = 'The watcher has not read the radar yet. It runs at 6:07 AM.';
+      $('radarCount').textContent = '';
+      return;
+    }
+    var span = w.start === w.end ? 'filed on ' + fmtIsoDate(w.end) : 'filed from ' + fmtIsoDate(w.start) + ' to ' + fmtIsoDate(w.end);
+    $('radarLine').textContent = plural(latestR.entries.length, 'results filing', 'results filings') + ' ' + span + ', found by the watcher at ' + fmtRun(w.at) + (w.offline ? ' (offline test with saved copies)' : '') + '.';
+    var pool = all ? state.radar.filings : latestR.entries, mine = watchCiks();
+    var shown = pool.filter(function (f) {
+      if (!q) return true;
+      return (f.company + ' ' + f.tickers.join(' ') + ' ' + f.cik).toLowerCase().indexOf(q) !== -1;
+    });
+    shown.sort(function (a, b) { return (mine[b.cik] ? 1 : 0) - (mine[a.cik] ? 1 : 0); });
+    shown.slice(0, RADAR_MAX_ROWS).forEach(function (f) {
+      var isMine = !!mine[f.cik];
+      var name = el('td', { class: 'radar-co', 'data-label': 'Company' }, [f.company]);
+      if (isMine) name.appendChild(el('span', { class: 'watch-tag', text: 'Watchlist' }));
+      var link = el('td', { class: 'radar-link', 'data-label': 'Filing' });
+      if (f.url) link.appendChild(el('a', { href: f.url, target: '_blank', rel: 'noopener noreferrer' }, ['Filing index', el('span', { class: 'vh', text: ' for ' + f.company + ' (opens in a new tab)' })]));
+      else link.textContent = '–';
+      body.appendChild(el('tr', { class: isMine ? 'is-watch' : null }, [
+        name,
+        el('td', { class: 'radar-tick', 'data-label': 'Tickers', text: f.tickers.length ? f.tickers.join(', ') : '–' }),
+        el('td', { class: 'when', 'data-label': 'Filed', text: fmtIsoDate(f.fileDate) }),
+        link
+      ]));
+    });
+    var note = 'Showing ' + Math.min(shown.length, RADAR_MAX_ROWS) + ' of ' + plural(pool.length, all ? 'saved filing' : 'filing since the last run', all ? 'saved filings' : 'filings since the last run') + (q ? ' that match "' + q + '"' : '') + '.';
+    if (shown.length > RADAR_MAX_ROWS) note += ' Use the filter to find the others.';
+    if (!pool.length) note = all ? 'No filings are saved yet.' : 'Nobody filed results in this window.';
+    $('radarCount').textContent = note;
+  }
+
+  function briefFor(agent) {
+    var want = /^#brief=(\d{4}-\d{2}-\d{2}-(watch|assess))$/.exec(location.hash);
+    if (want && (want[2] === 'watch') === (agent === 'watcher')) {
+      for (var i = state.runs.length - 1; i >= 0; i--) if (briefKey(state.runs[i].brief) === want[1]) return { run: state.runs[i], chosen: true };
+    }
+    var fallback = null;
+    for (var j = state.runs.length - 1; j >= 0; j--) {
+      var r = state.runs[j];
+      if (r.agent !== agent || !r.brief) continue;
+      if (r.briefChecked) return { run: r, chosen: false };
+      if (!fallback) fallback = r;
+    }
+    return { run: fallback, chosen: false };
+  }
+
+  function renderBrief(force) {
+    var m = /^#brief=\d{4}-\d{2}-\d{2}-(watch|assess)$/.exec(location.hash);
+    if (m) state.tab = m[1];
+    var agent = state.tab === 'assess' ? 'assessor' : 'watcher';
+    $('tabWatch').setAttribute('aria-pressed', String(agent === 'watcher'));
+    $('tabAssess').setAttribute('aria-pressed', String(agent === 'assessor'));
+    var pick = briefFor(agent), run = pick.run;
+    var key = agent + '|' + (run ? run.brief : '-') + '|' + state.signature.length;
+    if (!force && state.shown === key) return;
+    state.shown = key;
+    var box = $('brief'), links = $('briefLinks');
+    $('hBrief').textContent = pick.chosen ? 'Brief for ' + fmtDate(isoDay(run.brief.slice(7, 17)) || run.at, true) : 'Latest briefs';
+    clear(links);
+    clear(box);
+    if (!run) {
+      box.appendChild(el('p', { class: 'brief-note', text: agent === 'assessor' ? 'The assessor has not written a brief yet. It runs at 6:37 AM.' : 'The watcher has not written a brief yet. It runs at 6:07 AM.' }));
+      return;
+    }
+    links.appendChild(el('a', { href: base + run.brief, text: 'Open the Markdown file' }));
+    if (pick.chosen) {
+      var back = el('a', { href: '#', text: 'Show the latest briefs' });
+      back.addEventListener('click', function (e) { e.preventDefault(); history.replaceState(null, '', location.pathname + location.search); renderBrief(true); });
+      links.appendChild(back);
+    }
+    box.appendChild(el('p', { class: 'brief-note', text: 'Loading ' + run.brief + '…' }));
+    var token = ++state.briefToken;
+    getText(run.brief).then(function (md) {
+      if (token !== state.briefToken) return;
+      clear(box);
+      renderMarkdown(md, box);
+      if (!box.firstChild) box.appendChild(el('p', { class: 'brief-note', text: 'The brief is empty.' }));
+    }).catch(function (err) {
+      if (token !== state.briefToken) return;
+      clear(box);
+      box.appendChild(el('p', { class: 'brief-note', text: 'The brief ' + run.brief + ' could not be loaded. ' + (err && err.message ? err.message : '') }));
+    });
+  }
+
+  function sourcesText(r) {
+    if (r.sourcesTotal == null) return 'This run did not record its sources.';
+    if (r.sourcesTotal === 0) return 'No SEC address was needed: there was nothing to check.';
+    return r.sourcesOk + ' of ' + plural(r.sourcesTotal, 'SEC address', 'SEC addresses') + ' answered' + (r.offline ? ' (saved copies, offline test)' : '') + '.';
+  }
+
+  function resultText(r) {
+    if (r.agent === 'watcher') {
+      var bits = [r.radarNew != null ? plural(r.radarNew, 'results filing', 'results filings') + ' on the radar' : 'Radar not read'];
+      bits.push(r.saved ? plural(r.saved, 'new result') + ' saved' : 'no new results');
+      if (r.failed) bits.push(plural(r.failed, 'company', 'companies') + ' could not be read');
+      return bits.join('; ') + '.';
+    }
+    if (!r.checked) return 'Nothing to assess.';
+    return plural(r.checked, 'extraction') + ' checked: ' + r.confirmed + ' confirmed, ' + plural(r.mismatch, 'mismatch', 'mismatches') + ', ' + r.cannot + ' cannot check.';
+  }
+
+  function renderSources() {
+    var list = $('srcList');
+    clear(list);
+    [['watcher', 'Watcher', '6:07 AM'], ['assessor', 'Assessor', '6:37 AM']].forEach(function (a) {
+      var r = lastOf(a[0]);
+      if (!r) {
+        list.appendChild(el('li', { class: 'src none' }, [el('h3', { text: a[1] }), el('p', { text: 'No run yet. It runs daily at ' + a[2] + '.' })]));
+        return;
+      }
+      var li = el('li', { class: 'src' + (r.failures.length ? ' bad' : '') }, [
+        el('h3', { text: a[1] }),
+        el('p', { class: 'smallcaps', text: fmtRun(r.at) }),
+        el('p', { text: sourcesText(r) }),
+        el('p', { text: resultText(r) })
+      ]);
+      if (r.failures.length) {
+        var ul = el('ul', { class: 'fail-list' });
+        r.failures.forEach(function (f) { ul.appendChild(el('li', null, [(f.name || 'A source') + ': ', el('code', { text: f.detail || 'no detail' })])); });
+        li.appendChild(ul);
+      }
+      list.appendChild(li);
+    });
+  }
+
+  function makeTicks(d0, d1, maxN) {
+    var steps = [1, 2, 3, 6, 12, 24, 48, 72, 168, 336, 720];
+    var step = steps[steps.length - 1] * HOUR;
+    for (var i = 0; i < steps.length; i++) if ((d1 - d0) / (steps[i] * HOUR) <= maxN) { step = steps[i] * HOUR; break; }
+    if (step < 24 * HOUR) step = 24 * HOUR;
+    var out = [];
+    for (var t = Math.ceil((d0 + SGT_OFFSET) / step) * step - SGT_OFFSET; t <= d1; t += step) out.push(t);
+    return { list: out, step: step };
+  }
+
+  function dotClass(r) {
+    if (r.agent === 'watcher') return r.saved ? 'd-x' : 'd-hollow';
+    if (r.mismatch) return 'd-bad';
+    if (r.confirmed) return 'd-ok';
+    if (r.cannot) return 'd-na';
+    return 'd-hollow na';
+  }
+
+  function runSummary(r) {
+    return fmtRun(r.at) + '. ' + (r.agent === 'watcher' ? 'Watcher' : 'Assessor') + '. ' + resultText(r) + ' ' + sourcesText(r) +
+      (r.brief ? ' Press Enter to read the brief.' : '');
+  }
+
+  function openRunBrief(r) {
+    var k = briefKey(r.brief);
+    if (!k) return;
+    location.hash = 'brief=' + k;
+    $('briefSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function renderChart() {
+    var host = $('chart');
+    clear(host); hideTip(); chartGeo = null;
+    var runs = state.runs, n = runs.length;
+    if (!n) { host.appendChild(el('p', { class: 'chart-empty', text: 'The timeline starts after the first run.' })); return; }
+    var W = Math.max(280, Math.round(host.clientWidth || 640));
+    var L = 6, R = 24, plotW = W - L - R;
+    var lanes = { watcher: { label: 'Watcher · 6:07 AM', ly: 14, y: 44 }, assessor: { label: 'Assessor · 6:37 AM', ly: 86, y: 116 } };
+    var tickY = 160, H = 168;
+    var t0 = runs[0].at, t1 = runs[n - 1].at;
+    var pad = Math.max((t1 - t0) * 0.06, 8 * HOUR);
+    var d0 = t0 - pad, d1 = t1 + pad;
+    function x(t) { return L + (t - d0) / (d1 - d0) * plotW; }
+    var svg = sv('svg', { width: W, height: H, viewBox: '0 0 ' + W + ' ' + H, role: 'group', 'aria-label': 'Timeline of runs. Use Tab to move from run to run.' });
+    var band = sv('rect', { class: 'band', x: 0, y: 0, width: 0, height: 0, rx: 4 });
+    svg.appendChild(band);
+    var tk = makeTicks(d0, d1, Math.max(2, Math.floor(plotW / 70)));
+    tk.list.forEach(function (t) {
+      var xx = x(t);
+      svg.appendChild(sv('line', { class: 'gridline', x1: r1(xx), x2: r1(xx), y1: 22, y2: 138 }));
+      var anchor = xx < 24 ? 'start' : (xx > W - 24 ? 'end' : 'middle');
+      svg.appendChild(sv('text', { class: 'axis-label', x: r1(xx), y: tickY, 'text-anchor': anchor }, fmtDayMonth(t)));
+    });
+    var geo = { W: W, band: band, items: [] };
+    ['watcher', 'assessor'].forEach(function (agent) {
+      var lane = lanes[agent];
+      svg.appendChild(sv('text', { class: 'lane-label', x: L, y: lane.ly }, lane.label));
+      svg.appendChild(sv('line', { class: 'baseline', x1: L, x2: L + plotW, y1: lane.y, y2: lane.y }));
+      var mine = runs.filter(function (r) { return r.agent === agent; });
+      var xs = mine.map(function (r) { return x(r.at); });
+      mine.forEach(function (r, k) {
+        var cx = r1(xs[k]), big = agent === 'watcher' ? r.saved : r.checked;
+        var rad = big ? Math.min(11, 6 + 2 * big) : 6;
+        svg.appendChild(sv('circle', { class: 'ring', cx: cx, cy: lane.y, r: rad + 3 }));
+        var cls = dotClass(r);
+        svg.appendChild(sv('circle', { class: cls, cx: cx, cy: lane.y, r: /hollow/.test(cls) ? rad - 1 : rad }));
+        if (r.failures.length) svg.appendChild(sv('circle', { class: 'd-fail', cx: cx, cy: lane.y, r: rad + 4.5 }));
+        if (big) svg.appendChild(sv('text', { class: 'val-label', x: cx, y: lane.y - rad - 7, 'text-anchor': 'middle' }, big));
+      });
+      mine.forEach(function (r, k) {
+        var left = k === 0 ? Math.max(0, xs[0] - 22) : (xs[k - 1] + xs[k]) / 2;
+        var right = k === mine.length - 1 ? Math.min(W, xs[k] + 22) : (xs[k] + xs[k + 1]) / 2;
+        var item = { run: r, cx: xs[k], cy: lane.y, left: left, right: right, top: lane.y - 26 };
+        geo.items.push(item);
+        var hit = sv('rect', { class: 'hit', x: r1(left), y: lane.y - 26, width: r1(Math.max(1, right - left)), height: 52, tabindex: 0, role: 'button', 'aria-label': runSummary(r) });
+        hit.addEventListener('mouseenter', function () { showTip(item); });
+        hit.addEventListener('focus', function () { showTip(item); });
+        hit.addEventListener('mouseleave', hideTip);
+        hit.addEventListener('blur', hideTip);
+        hit.addEventListener('click', function () { openRunBrief(r); });
+        hit.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openRunBrief(r); } });
+        svg.appendChild(hit);
+      });
+    });
+    host.appendChild(svg);
+    chartGeo = geo;
+  }
+
+  function showTip(item) {
+    var g = chartGeo, r = item.run;
+    if (!g) return;
+    var tip = $('tip');
+    clear(tip);
+    tip.appendChild(el('strong', { text: fmtRun(r.at) + ' · ' + (r.agent === 'watcher' ? 'Watcher' : 'Assessor') }));
+    var rows = r.agent === 'watcher'
+      ? [['Reported (radar)', r.radarNew != null ? r.radarNew : 'not read'], ['New results saved (watchlist and radar picks)', r.saved], ['No new results', r.noNew], ['Could not be read', r.failed]]
+      : [['Extractions checked', r.checked], ['Confirmed', r.confirmed], ['Mismatches', r.mismatch], ['Cannot check', r.cannot]];
+    rows.push(['Sources', r.sourcesTotal != null ? r.sourcesOk + ' of ' + r.sourcesTotal : 'not recorded']);
+    rows.forEach(function (row) { tip.appendChild(el('span', { class: 'tip-row' }, [el('span', { text: row[0] }), el('span', { text: String(row[1]) })])); });
+    if (r.failures.length) tip.appendChild(el('span', { class: 'tip-note', text: r.failures.map(function (f) { return f.name + ': ' + f.detail; }).join('; ') }));
+    else if (r.offline) tip.appendChild(el('span', { class: 'tip-note', text: 'Offline test with saved copies.' }));
+    tip.hidden = false;
+    var w = tip.offsetWidth, left = item.cx + 18;
+    if (left + w > g.W) left = item.cx - 18 - w;
+    left = Math.max(0, Math.min(left, g.W - w));
+    tip.style.left = Math.round(left) + 'px';
+    tip.style.top = Math.round(item.cy + 22) + 'px';
+    var bw = Math.min(item.right - item.left, 30);
+    g.band.setAttribute('x', r1(item.cx - bw / 2));
+    g.band.setAttribute('y', r1(item.top));
+    g.band.setAttribute('width', r1(bw));
+    g.band.setAttribute('height', 52);
+    g.band.style.visibility = 'visible';
+  }
+  function hideTip() { $('tip').hidden = true; if (chartGeo) chartGeo.band.style.visibility = 'hidden'; }
+
+  function renderLog() {
+    var body = $('logBody'), n = state.runs.length;
+    clear(body);
+    $('logSummary').textContent = 'Run log: ' + plural(n, 'run') + ', newest first';
+    state.runs.slice().reverse().forEach(function (r) {
+      var briefCell = el('td'), k = briefKey(r.brief);
+      if (k) briefCell.appendChild(el('a', { href: '#brief=' + k, text: k }));
+      else briefCell.textContent = '–';
+      var result = el('td', null, [resultText(r) + (r.offline ? ' (offline test)' : '')]);
+      if (r.failures.length) {
+        var ul = el('ul', { class: 'fail-list' });
+        r.failures.forEach(function (f) { ul.appendChild(el('li', null, [f.name + ': ', el('code', { text: f.detail })])); });
+        result.appendChild(ul);
+      }
+      body.appendChild(el('tr', null, [
+        el('td', { class: 'when', text: fmtRun(r.at) }),
+        el('td', null, [el('span', { class: 'agent-tag ' + r.agent, text: r.agent === 'watcher' ? 'Watcher' : 'Assessor' })]),
+        result,
+        el('td', { class: 'num', text: r.sourcesTotal != null ? r.sourcesOk + '/' + r.sourcesTotal : '–' }),
+        briefCell
+      ]));
+    });
+  }
+
+  function renderIndex() {
+    var ul = $('briefIndex');
+    clear(ul);
+    var days = {}, order = [];
+    state.runs.forEach(function (r) {
+      var k = briefKey(r.brief);
+      if (!k) return;
+      var day = k.slice(0, 10);
+      if (!days[day]) { days[day] = {}; order.push(day); }
+      days[day][r.agent] = r;
+    });
+    order.sort().reverse();
+    order.forEach(function (day) {
+      var d = days[day], kids = [el('span', { class: 'bdate', text: fmtDate(isoDay(day), true) })];
+      if (d.watcher) kids.push(el('a', { href: '#brief=' + day + '-watch', text: 'Watch' }));
+      if (d.assessor) kids.push(el('a', { href: '#brief=' + day + '-assess', text: 'Assessment' }));
+      var bits = [];
+      if (d.watcher) bits.push(resultText(d.watcher));
+      if (d.assessor) bits.push(resultText(d.assessor));
+      kids.push(el('span', { class: 'bmeta', text: bits.join(' ') }));
+      ul.appendChild(el('li', null, kids));
+    });
+    $('briefIndexEmpty').hidden = order.length > 0;
+  }
+
+  function renderAll() {
+    renderMasthead();
+    renderStatus();
+    if (!state.runs.length) return;
+    var rows = companyRows();
+    renderSummary(rows);
+    renderCompanies(rows);
+    renderRadar();
+    renderBrief(false);
+    renderSources();
+    renderChart();
+    renderLog();
+    renderIndex();
+  }
+
+  var toastTimer;
+  function toast(msg) {
+    var t = $('toast');
+    t.textContent = '';
+    t.classList.add('show');
+    setTimeout(function () { t.textContent = msg; }, 60);
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { t.classList.remove('show'); }, 7000);
+  }
+
+  function load(manual) {
+    if (state.busy) return;
+    state.busy = true;
+    var btn = $('checkBtn');
+    btn.setAttribute('aria-disabled', 'true');
+    btn.textContent = 'Checking…';
+    loadAll().then(function (data) {
+      var before = state.runs.length, changed = data.signature !== state.signature;
+      state.error = null;
+      if (!state.loaded || changed) {
+        var first = !state.loaded;
+        state.runs = data.runs;
+        state.extractions = data.extractions;
+        state.latestAssess = data.latestAssess;
+        state.radar = data.radar;
+        state.companies = data.companies || state.companies;
+        state.signature = data.signature;
+        state.loaded = true;
+        renderAll();
+        if (first && state.runs.length && /^#brief=/.test(location.hash)) $('briefSection').scrollIntoView({ block: 'start' });
+        if (before && data.runs.length > before) toast('A new run has finished. The page now shows its results.');
+        else if (manual && before) toast('The data files changed, so the page has been redrawn.');
+      } else if (manual) {
+        toast('Checked at ' + fmtClock(Date.now()) + '. There is nothing new yet.');
+      }
+      state.lastChecked = Date.now();
+      $('checked').textContent = 'Page checked ' + fmtClock(state.lastChecked);
+    }).catch(function (err) {
+      if (!state.loaded) {
+        state.error = err;
+        renderStatus();
+        $('lastRun').textContent = 'Last run: unknown';
+        $('watch').classList.add('overdue');
+        $('watchText').textContent = 'Not loaded';
+      } else {
+        toast('This page could not check for new data. ' + (err && err.message ? err.message : ''));
+      }
+    }).then(function () {
+      state.busy = false;
+      btn.removeAttribute('aria-disabled');
+      btn.textContent = 'Check again';
+    });
+  }
+
+  function setTab(tab) {
+    state.tab = tab;
+    if (/^#brief=/.test(location.hash)) history.replaceState(null, '', location.pathname + location.search);
+    renderBrief(true);
+  }
+
+  function wire() {
+    $('checkBtn').addEventListener('click', function () { load(true); });
+    $('tabWatch').addEventListener('click', function () { setTab('watch'); });
+    $('radarFilter').addEventListener('input', debounce(renderRadar, 120));
+    $('radarAll').addEventListener('change', renderRadar);
+    $('tabAssess').addEventListener('click', function () { setTab('assess'); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hideTip(); });
+    window.addEventListener('hashchange', function () { if (state.runs.length) renderBrief(false); });
+    var lastW = 0;
+    window.addEventListener('resize', debounce(function () {
+      var w = $('chart').clientWidth;
+      if (state.runs.length && w && w !== lastW) { lastW = w; renderChart(); }
+    }, 150));
+    setInterval(function () { if (!document.hidden) load(false); }, REFRESH_MS);
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden && Date.now() - state.lastChecked > REFRESH_MS) load(false);
+    });
+  }
+
+  if (isSample) $('sampleBanner').hidden = false;
+  wire();
+  load(false);
+})();
+</script>
+</body>
+</html>
