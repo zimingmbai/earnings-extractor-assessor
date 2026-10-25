@@ -243,5 +243,69 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-26T06:38:06+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-26-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 2,
+      "total": 2,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 2,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1050441",
+        "company": "EAGLE BANCORP INC",
+        "accession": "0001050441-26-000110",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1474167",
+        "company": "Cosmos Health Inc.",
+        "accession": "0001477932-26-006396",
+        "period_label": "quarter ended 30 September 2026 (no results given, outlook only)",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 0 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-26T06:09:11+08:00",
+      "watch_brief": "briefs/2026-10-26-watch.md",
+      "brief_says": 0,
+      "saved_for_run": 0,
+      "match": true
+    },
+    "offline": false
   }
 ]
