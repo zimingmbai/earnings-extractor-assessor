@@ -1,0 +1,684 @@
+Company: Northwest Bancshares, Inc. (CIK 1471265)
+Accession: 0001471265-26-000044
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/a2026-09x30nwbi8ker.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/0001471265-26-000044-index.htm
+Saved: 2026-10-27T10:05:52+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99 2 a2026-09x30nwbi8ker.htm EX-99
+EXHIBIT 99.1
+PRESS RELEASE OF NORTHWEST BANCSHARES, INC.
+EARNINGS RELEASE
+FOR IMMEDIATE RELEASE
+Northwest Bancshares, Inc. Announces Third Quarter 2026 GAAP net income of
+$51 million, or $0.34 per diluted share
+Record total revenue and net interest income
+Adjusted diluted EPS (non-GAAP) of $0.35 per share
+31% average C&I loan growth from prior year
+Credit quality remained strong with annualized net charge-offs of 0.15% and nonperforming loans of 0.74%
+Columbus, Ohio — October 26, 2026 Northwest Bancshares, Inc. (the “Company”) (Nasdaq: NWBI) announced net income for the quarter ended September 30, 2026 of $51 million, or $0.34 per diluted share. This represents an increase of $48 million compared to the same quarter last year, when net income was $3 million, or $0.02 per diluted share, and a decrease of $3 million compared to the prior quarter, when net income was $54 million, or $0.36 per diluted share. The annualized returns on average shareholders’ equity and average assets for the quarter ended September 30, 2026 were 10.42% and 1.18% compared to 0.69% and 0.08% for the same quarter last year and 11.20% and 1.27% for the prior quarter.
+Adjusted net income (non-GAAP) for the quarter ended September 30, 2026 was $51 million, or $0.35, per diluted share, which decreased by $3 million from $54 million, or $0.37, per diluted share, in the prior quarter. This decrease was primarily driven by an increase in provision for credit losses expense of $2 million and an increase in noninterest expense of $5 million which were partially offset by an increase in net interest income of $2 million and an increase in noninterest income of $2 million. The adjusted annualized returns on average shareholders’ equity (non-GAAP) and average assets (non-GAAP) for the quarter ended September 30, 2026 were 10.45% and 1.18% compared to 11.26% and 1.28% for the prior quarter.
+The Company also announced that its Board of Directors declared a quarterly cash dividend of $0.20 per share payable on November 17, 2026 to shareholders of record as of November 5, 2026. This is the 128th consecutive quarter in which the Company has paid a cash dividend. Based on the market value of the Company’s common stock as of September 30, 2026, this represents an annualized dividend yield of approximately 5.4%.
+Louis J. Torchio, President and CEO, Northwest Bancshares commented, “The Northwest Team delivered yet another quarter of strong performance, with record total revenue and net interest income, and a balanced and consistent performance across the whole bank. We drove 31% year-over-year average loan growth in our C&I business, with continued growth in our national specialty business verticals and middle market portfolio, and benefited from the strength of our retail deposit franchise and low deposit costs, one of the best-in-class among our peers.
+We continue to execute our strategy for delivering sustainable, responsible growth, investing in its key drivers, including our people, our communities and the physical infrastructure that make it possible. In the third quarter we opened our first two financial centers in Columbus, added talent in the Columbus market and to our senior leadership team, and maintained our expense management discipline, with an efficiency ratio of 58.9% and adjusted efficiency ratio of 57.8%. We were also recognized in Forbes' World's Top Performing Banks 2026.
+We look forward to a strong finish in the fourth quarter of 2026, as we build on the momentum the team is developing in Columbus and across our entire retail footprint and commercial network. Our focus remains on driving excellence across all aspects of the bank, continuing to optimize our operations, and serving our core customers and communities with the personal approach they value.”
+1
+Balance Sheet Highlights
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Average loans receivable | $ | 13,302,278 | 13,094,235 | 12,568,497 | 1.6 | % | 5.8 | %
+Average investments | 2,604,899 | 2,531,603 | 2,111,928 | 2.9 | % | 23.3 | %
+Average deposits | 14,139,954 | 14,133,825 | 13,296,651 | — | % | 6.3 | %
+Average borrowed funds | 617,533 | 379,262 | 347,357 | 62.8 | % | 77.8 | %
+Balance sheet highlights compared to the quarter ended September 30, 2025
+•Average loans receivable increased $734 million primarily driven by the Penns Woods Bancorp, Inc. ("Penns Woods") acquisition
+•Average investments grew $493 million primarily driven by the Penns Woods acquisition and a targeted increase in the overall securities portfolio
+•Average deposits grew $843 million primarily driven by an increase in interest-bearing account balances primarily due to the addition of the Penns Woods deposit accounts
+•Average borrowings increased $270 million due to average loan and investment growth exceeding the rate of average deposit growth
+Balance sheet highlights compared to the quarter ended June 30, 2026
+•Average loans receivable increased $208 million driven by growth in our commercial and industrial and consumer loan portfolios offset by a decline in our commercial real estate portfolio
+•Average investments grew $73 million due to a targeted increase in the overall securities portfolio
+•Average deposits grew $6 million primarily driven by an increase in non-interest bearing and money market deposit account balances partly due to customers shifting funds to these products as their time deposits matured
+•Average borrowings increased $238 million for the same reason noted above
+Income Statement Highlights
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Interest income | $ | 210,171 | 205,140 | 194,678 | 2.5 | % | 8.0 | %
+Interest expense | 61,221 | 58,202 | 58,704 | 5.2 | % | 4.3 | %
+Net interest income | $ | 148,950 | 146,938 | 135,974 | 1.4 | % | 9.5 | %
+Net interest margin FTE | 3.70 | % | 3.75 | % | 3.65 | %
+Compared to the quarter ended September 30, 2025, net interest income increased $13 million and net interest margin increased to 3.70% from 3.65%. This increase in net interest income resulted primarily from the following:
+•A $15 million increase in interest income that was the result of:
+◦An increase in average interest-earning assets partially driven by the Penns Woods acquisition during the third quarter 2025
+◦Yields on average interest-earning assets was 5.22% for both periods with an increase in investment yields offset by a decline in loan yields
+•A $3 million increase in interest expense that was the result of :
+◦An increase in the average balance of interest-bearing liabilities partially driven by the Penns Woods acquisition
+◦Partially offset by a decline in the cost of interest-bearing liabilities to 2.05% from 2.13%
+Compared to the quarter ended June 30, 2026, net interest income increased $2 million and net interest margin decreased to 3.70% for the quarter ended September 30, 2026 from 3.75%. This increase in net interest income resulted primarily from the following:
+•A $5 million increase in interest income that was driven by:
+◦Growth in the average interest-earning balances
+◦Yields on average interest-earning assets declined to 5.22% from 5.23% with an increase in investment yields offset by a decline in loan yields which was driven by a decline in the accretion of acquired loan fair value marks coupled with a change in portfolio mix
+•A $3 million increase in interest expense driven by:
+2
+◦An increase in the average balance and average cost of interest-bearing liabilities
+◦Average cost of interest-bearing deposits increased to 1.85% from 1.83% while average cost of borrowings declined slightly to 3.94% from 3.96%
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Provision for credit losses - loans | $ | 5,220 | 4,280 | 31,394 | 22.0 | % | (83.4) | %
+Provision for credit losses - unfunded commitments | 3,896 | 2,357 | (189) | 65.3 | % | 2161.4 | %
+Total provision for credit losses expense | $ | 9,116 | 6,637 | 31,205 | 37.4 | % | (70.8) | %
+Classified loans | $ | 468,968 | 524,056 | 527,040 | (10.5) | % | (11.0) | %
+Classified loans as a percent of total loans | 3.50 | % | 3.96 | % | 4.07 | %
+Compared to the quarter ended September 30, 2025:
+•Total provision for credit losses decreased $22 million primarily driven by the Day 1 initial provision from the Penns Woods acquisition of $20.6 million
+•Classified loans decreased $58 million driven by changes in our commercial real estate portfolio primarily due to the payoff of classified loans during the quarter
+Compared to the quarter ended June 30, 2026:
+•Total provision for credit losses increased $2 million primarily driven by growth in our commercial lending portfolio, including unfunded commitments
+•Classified loans decreased $55 million driven by the same factors discussed above
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Noninterest income:
+Gain on sale of investments | $ | 313 | 336 | 36 | (6.8) | % | 769.4 | %
+Gain on sale of SBA loans | 1,081 | 1,217 | 341 | (11.2) | % | 217.0 | %
+Service charges and fees | 17,935 | 16,908 | 16,911 | 6.1 | % | 6.1 | %
+Trust and other financial services income | 10,108 | 9,449 | 8,040 | 7.0 | % | 25.7 | %
+Gain on real estate owned, net | 315 | 20 | 132 | 1475.0 | % | 138.6 | %
+Income from bank-owned life insurance | 2,222 | 2,013 | 1,751 | 10.4 | % | 26.9 | %
+Mortgage banking income | 363 | 738 | 1,003 | (50.8) | % | (63.8) | %
+Other operating income | 3,590 | 3,548 | 3,984 | 1.2 | % | (9.9) | %
+Total noninterest income | $ | 35,927 | 34,229 | 32,198 | 5.0 | % | 11.6 | %
+Noninterest income increased $4 million from the quarter ended September 30, 2025 from the following reasons:
+•$1 million increase in service charges and fees driven by deposit related fees based on customer activity related to the Penns Woods acquisition
+•$2 million increase in trust and other financial services income due to growth in our wealth management business
+Noninterest income increased by $2 million from the quarter ended June 30, 2026 from the following reasons:
+•$1 million increase in service charges and fees driven by both loan and deposit related fees based on customer activity
+•$1 million increase in trust and other financial services income due to growth in our wealth management business
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Noninterest expense:
+Personnel expense | $ | 63,931 | 63,476 | 63,014 | 0.7 | % | 1.5 | %
+Non-personnel expense | 45,040 | 40,807 | 70,484 | 10.4 | % | (36.1) | %
+Total noninterest expense | $ | 108,971 | 104,283 | 133,498 | 4.5 | % | (18.4) | %
+Noninterest expense decreased $25 million from the quarter ended September 30, 2025 due to the following reasons:
+•Personnel expense increased $1 million driven by an increase in core compensation and benefits expense due to the addition of Penns Woods employees
+3
+•Non-personnel expense decreased by $25 million due to a $31 million decrease in merger, asset disposition and restructuring expense. This decrease was partially offset by an increase of $2 million in processing expenses and a $1 million increase in operating expense primarily due to the addition of the Penns Woods branches to our footprint.
+Noninterest expense increased $5 million from the quarter ended June 30, 2026 due to the following reasons:
+•Non-personnel expense increased by $4 million due to an increase of $3 million in FDIC insurance premium expense, as the prior quarter included a benefit related to prior period assessment rate changes
+Dollars in thousands | Change 3Q26 vs.
+3Q26 | 2Q26 | 3Q25 | 2Q26 | 3Q25
+Income before income taxes | $ | 66,790 | 70,247 | 3,469 | (4.9) | % | 1825.3 | %
+Income tax expense | 16,071 | 16,701 | 302 | (3.8) | % | 5221.5 | %
+Net income | $ | 50,719 | 53,546 | 3,167 | (5.3) | % | 1501.5 | %
+The provision for income taxes increased by $16 million from the quarter ended September 30, 2025 and decreased $1 million for the quarter ended June 30, 2026 primarily due to the quarterly change in income before income taxes.
+Net income increased from the quarter ended September 30, 2025 and decreased from the quarter ended June 30, 2026 due to the factors discussed above.
+Headquartered in Columbus, Ohio, Northwest Bancshares, Inc. is the bank holding company of Northwest Bank. Founded in 1896 Northwest Bank is a full-service financial institution offering a complete line of business and personal banking products, as well as employee benefits and wealth management services. As of September 30, 2026, Northwest operated 153 full-service financial centers and eleven free standing drive-up facilities in Pennsylvania, New York, Ohio and Indiana. Northwest Bancshares, Inc.’s common stock is listed on The Nasdaq Stock Market LLC (“NWBI”). Additional information regarding Northwest Bancshares, Inc. and Northwest Bank can be accessed online at www.northwest.com.
+Investor Contact: | Michael Perry, Corporate Development & Strategy (814) 726-2140
+Media Contact: | Ian Bailey, External Communications (380) 400-2423
+# # #
+This release may contain forward-looking statements. The words “believe,” “anticipate,” “estimate,” “expect,” “project,” “target,” “goal” and similar expressions are examples of language intended to identify forward-looking statements within the meaning of section 27A of the Securities Act of 1933 and section 21E of the Securities Exchange Act of 1934. These forward-looking statements include but are not limited to statements regarding our goals, intentions and expectations; statements regarding our financial condition and results of operations, including statements related to our earnings outlook; future dividend payments; our business plans, prospects, growth, customers, investments and operating strategies; the quality of our loan and investment portfolios; and estimates of our risks and future costs and benefits. These forward-looking statements are based on current beliefs and expectations of our management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. Such forward-looking statements are subject to certain risks, uncertainties, assumptions, and other important factors including but not limited to the following: inflation and changes in the interest rate environment that reduce our margins, our loan origination, or the fair value of financial instruments; changes in asset quality, including increases in default rates on loans and higher levels of nonperforming loans and loan charge-offs generally; changes in laws, government regulations or supervision, examination and enforcement priorities affecting financial institutions, including as part of the regulatory reform agenda of the Trump administration, as well as changes in regulatory fees and capital requirements; changes in federal, state, or local tax laws and tax rates; general economic conditions, either nationally or in our market areas, that are different than expected, including inflationary or recessionary pressures or those related to changes in monetary, fiscal, regulatory, tariff and international trade policies of the U.S. government, including policies of the U.S. Department of Treasury and Board of Governors of the Federal Reserve System, and any related increases in compliance and other costs; trade disputes, barriers to trade or the emergence of trade restrictions and the resulting impacts on market volatility and global trade; growing fiscal deficits; potential recession or slowing of growth in the U.S., Europe and other regions; volatility in fuel prices and resulting macroeconomic impacts; developments in the Middle East; adverse changes in the securities and credit markets; instability or breakdown in the financial services sector, including failures or rumors of failures of other depository institutions, along with actions taken by governmental agencies to address such turmoil; cyber-security concerns, including an interruption or breach in the security of our website or other information systems and increased risk due to artificial
+4
+intelligence; technological changes that may be more difficult or expensive than expected; changes in liquidity, including the size and composition of our deposit portfolio, and the percentage of uninsured deposits in the portfolio; the ability of third-party providers to perform their obligations to us; competition among depository and other financial institutions, including with respect to deposit gathering, service charges and fees; our ability to enter new markets successfully and capitalize on growth opportunities; our ability to manage our internal growth and our ability to successfully integrate acquired entities, businesses or branch offices; changes in consumer spending, borrowing and savings habits; our ability to continue to increase and manage our commercial and personal loans; possible impairments of securities held by us, including those issued by government entities and government sponsored enterprises; changes in the value of our goodwill or other intangible assets; the impact of the economy on our loan portfolio (including cash flow and collateral values), investment portfolio, customers and capital market activities; our ability to receive regulatory approvals for proposed transactions or new lines of business; the effects of any federal government shutdown or the inability of the federal government to manage debt limits; changes in the financial performance and/or condition of our borrowers; the effect of changes in accounting policies and practices, as may be adopted by the regulatory agencies, as well as the Securities and Exchange Commission (the “SEC”), the Public Company Accounting Oversight Board, the Financial Accounting Standards Board (“FASB”) and other accounting standard setters; changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for credit losses; our ability to access cost-effective funding; the effect of global or national war, geopolitical uncertainty, conflict, or terrorism; our ability to manage market risk, credit risk and operational risk; the disruption to local, regional, national and global economic activity caused by infectious disease outbreaks, and the significant impact that any such outbreaks may have on our growth, operations and earnings; the effects of natural disasters and extreme weather events; changes in our ability to continue to pay dividends, either at current rates or at all; our ability to retain key employees; and our compensation expense associated with equity allocated or awarded to our employees. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, estimated, expected or projected. These and other risk factors are more fully described in our Annual Report on Form 10-K for the year ended December 31, 2025, including under the section entitled "Item 1A - Risk Factors," and in subsequent filings made by us with the SEC. These forward-looking statements speak only as of the date of this press release. We expressly disclaim any obligation to publicly release any updates or revisions to reflect any change in our expectations with regard to any change in events, conditions or circumstances on which any such statement is based, unless required by law.
+Use of Non-GAAP Financial Measures
+This release contains financial information determined by methods other than in accordance with accounting principles generally accepted in the United States of America (“GAAP”). Management uses these “non-GAAP” measures in its analysis of the Company’s performance. Management believes these non-GAAP financial measures allow for better comparability of period-to-period operating performance. Additionally, the Company believes this information is utilized by regulators and market analysts to evaluate a company’s financial condition and therefore, such information is useful to investors. These disclosures should not be viewed as a substitute for operating results determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. See the pages 9 and 10 of this release for reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures where applicable.
+5
+Northwest Bancshares, Inc. and Subsidiaries
+Consolidated Statements of Financial Condition (Unaudited)
+(dollars in thousands, except per share amounts)
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Assets
+Cash and cash equivalents | $ | 223,310 | 248,499 | 286,707 | 233,647 | 278,817
+Marketable securities available-for-sale (amortized cost of $1,974,633, $1,972,165, $1,884,060, $1,710,978 and $1,405,959, respectively) | 1,751,568 | 1,829,179 | 1,746,919 | 1,586,382 | 1,270,880
+Marketable securities held-to-maturity (fair value of $518,383, $550,416, $567,470, $605,929 and $618,633, respectively) | 612,731 | 630,802 | 646,661 | 683,369 | 702,392
+Total cash and cash equivalents and marketable securities | 2,587,609 | 2,708,480 | 2,680,287 | 2,503,398 | 2,252,089
+Loans held-for-sale | 8,374 | 15,391 | 16,846 | 22,437 | 22,297
+Residential mortgage loans | 2,984,204 | 3,001,908 | 3,035,984 | 3,100,780 | 3,157,853
+Home equity loans | 1,496,559 | 1,497,157 | 1,495,800 | 1,507,532 | 1,520,893
+Consumer loans | 2,918,083 | 2,843,058 | 2,660,567 | 2,563,890 | 2,453,805
+Commercial real estate loans | 2,931,601 | 2,988,237 | 3,161,314 | 3,296,902 | 3,495,664
+Commercial and industrial loans | 3,062,849 | 2,898,867 | 2,702,283 | 2,538,212 | 2,312,718
+Total loans receivable | 13,393,296 | 13,229,227 | 13,055,948 | 13,007,316 | 12,940,933
+Allowance for credit losses | (149,626) | (149,321) | (150,045) | (150,212) | (157,396)
+Loans receivable, net | 13,243,670 | 13,079,906 | 12,905,903 | 12,857,104 | 12,783,537
+FHLB stock, at cost | 51,439 | 43,345 | 32,781 | 36,628 | 33,349
+Accrued interest receivable | 59,783 | 57,473 | 57,221 | 56,291 | 55,549
+Real estate owned, net | 2,772 | 63 | 65 | 76 | 174
+Premises and equipment, net | 148,843 | 144,423 | 141,477 | 140,381 | 139,491
+Bank-owned life insurance | 294,011 | 293,354 | 292,103 | 294,386 | 303,115
+Goodwill | 444,997 | 444,997 | 444,330 | 444,330 | 438,402
+Other intangible assets, net | 33,242 | 35,312 | 37,478 | 39,667 | 47,924
+Other assets | 435,119 | 384,395 | 298,558 | 371,919 | 305,082
+Total assets | $ | 17,309,859 | 17,207,139 | 16,907,049 | 16,766,617 | 16,381,009
+Liabilities and shareholders’ equity
+Liabilities
+Noninterest-bearing demand deposits | $ | 3,166,262 | 3,191,560 | 3,121,044 | 3,123,229 | 3,089,963
+Interest-bearing demand deposits | 3,041,379 | 2,916,518 | 2,937,654 | 2,995,759 | 2,898,350
+Money market deposit accounts | 2,831,245 | 2,766,675 | 2,734,781 | 2,540,818 | 2,462,979
+Savings deposits | 2,438,182 | 2,459,255 | 2,444,799 | 2,366,513 | 2,373,413
+Time deposits | 2,797,970 | 2,827,810 | 2,975,026 | 2,916,698 | 2,871,544
+Total deposits | 14,275,038 | 14,161,818 | 14,213,304 | 13,943,017 | 13,696,249
+Borrowed funds | 786,715 | 612,075 | 350,884 | 446,283 | 368,241
+Subordinated debt | — | 114,800 | 114,800 | 114,800 | 114,800
+Junior subordinated debentures | 130,288 | 130,223 | 130,158 | 130,093 | 130,028
+Advances by borrowers for taxes and insurance | 20,300 | 47,400 | 40,127 | 37,309 | 21,840
+Accrued interest payable | 7,616 | 8,385 | 8,585 | 6,846 | 10,555
+Other liabilities | 197,668 | 205,031 | 144,884 | 197,845 | 183,560
+Total liabilities | 15,417,625 | 15,279,732 | 15,002,742 | 14,876,193 | 14,525,273
+Shareholders’ equity
+Preferred stock, $0.01 par value: 50,000,000 shares authorized, no shares issued | — | — | — | — | —
+Common stock, $0.01 par value: 500,000,000 shares authorized, 146,559,425; 146,396,520; 146,302,025; 146,107,964 and 146,097,057 shares issued and outstanding, respectively | 1,466 | 1,464 | 1,463 | 1,461 | 1,461
+Additional paid-in capital | 1,277,121 | 1,274,117 | 1,271,372 | 1,270,444 | 1,268,694
+Retained earnings | 755,548 | 734,423 | 710,351 | 689,210 | 672,843
+Accumulated other comprehensive loss | (141,901) | (82,597) | (78,879) | (70,691) | (87,262)
+Total shareholders’ equity | 1,892,234 | 1,927,407 | 1,904,307 | 1,890,424 | 1,855,736
+Total liabilities and shareholders’ equity | $ | 17,309,859 | 17,207,139 | 16,907,049 | 16,766,617 | 16,381,009
+Equity to assets | 10.93 | % | 11.20 | % | 11.26 | % | 11.27 | % | 11.33 | %
+Tangible common equity to tangible assets* | 8.40 | % | 8.65 | % | 8.66 | % | 8.64 | % | 8.62 | %
+Book value per share | $ | 12.91 | 13.17 | 13.02 | 12.94 | 12.70
+Tangible book value per share* | $ | 9.65 | 9.88 | 9.72 | 9.63 | 9.37
+Closing market price per share | $ | 14.84 | 15.16 | 12.69 | 12.00 | 12.39
+Full time equivalent employees | 2,157 | 2,183 | 2,170 | 2,169 | 2,190
+Number of banking offices | 164 | 162 | 161 | 161 | 161
+* Excludes goodwill and other intangible assets (non-GAAP). See reconciliation of non-GAAP financial measures for additional information relating to these items.
+6
+Northwest Bancshares, Inc. and Subsidiaries
+Consolidated Statements of Income (Unaudited)
+(dollars in thousands, except per share amounts)
+Quarter ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Interest income:
+Loans receivable | $ | 186,750 | 182,469 | 180,549 | 184,047 | 177,723
+Mortgage-backed securities | 19,001 | 18,024 | 16,999 | 14,071 | 12,668
+Taxable investment securities | 1,990 | 1,799 | 1,601 | 1,324 | 1,183
+Tax-free investment securities | 594 | 674 | 762 | 777 | 752
+FHLB stock dividends | 1,061 | 738 | 768 | 701 | 652
+Interest-earning deposits | 775 | 1,436 | 871 | 1,905 | 1,700
+Total interest income | 210,171 | 205,140 | 201,550 | 202,825 | 194,678
+Interest expense:
+Deposits | 51,298 | 50,384 | 51,083 | 52,947 | 51,880
+Borrowed funds | 9,923 | 7,818 | 7,985 | 7,712 | 6,824
+Total interest expense | 61,221 | 58,202 | 59,068 | 60,659 | 58,704
+Net interest income | 148,950 | 146,938 | 142,482 | 142,166 | 135,974
+Provision for credit losses - loans | 5,220 | 4,280 | 4,954 | 5,743 | 31,394
+Provision for credit losses - unfunded commitments | 3,896 | 2,357 | (585) | 1,981 | (189)
+Net interest income after provision for credit losses | 139,834 | 140,301 | 138,113 | 134,442 | 104,769
+Noninterest income:
+Gain on sale of investments | 313 | 336 | 11 | 142 | 36
+Gain on sale of SBA loans | 1,081 | 1,217 | 1,186 | 437 | 341
+Service charges and fees | 17,935 | 16,908 | 17,118 | 17,377 | 16,911
+Trust and other financial services income | 10,108 | 9,449 | 8,618 | 8,416 | 8,040
+Gain on real estate owned, net | 315 | 20 | 70 | 148 | 132
+Income from bank-owned life insurance | 2,222 | 2,013 | 2,042 | 8,269 | 1,751
+Mortgage banking income | 363 | 738 | 329 | 379 | 1,003
+Other operating income | 3,590 | 3,548 | 3,208 | 2,609 | 3,984
+Total noninterest income | 35,927 | 34,229 | 32,582 | 37,777 | 32,198
+Noninterest expense:
+Compensation and employee benefits | 63,931 | 63,476 | 58,330 | 65,143 | 63,014
+Premises and occupancy costs | 8,943 | 8,494 | 9,863 | 8,170 | 7,707
+Office operations | 3,651 | 3,660 | 3,875 | 4,217 | 3,495
+Collections expense | 1,109 | 665 | 878 | 856 | 776
+Processing expenses | 17,452 | 16,948 | 16,806 | 16,454 | 15,072
+Marketing expenses | 2,662 | 2,362 | 1,668 | 1,827 | 1,932
+Federal deposit insurance premiums | 3,169 | (291) | 2,895 | 3,538 | 3,361
+Professional services | 3,094 | 3,490 | 3,523 | 3,366 | 3,010
+Amortization of intangible assets | 2,070 | 2,166 | 2,189 | 2,257 | 1,974
+Merger, asset disposition and restructuring expense | 238 | 426 | 631 | 4,160 | 31,260
+Other expenses | 2,652 | 2,887 | 3,380 | 3,533 | 1,897
+Total noninterest expense | 108,971 | 104,283 | 104,038 | 113,521 | 133,498
+Income before income taxes | 66,790 | 70,247 | 66,657 | 58,698 | 3,469
+Income tax expense | 16,071 | 16,701 | 16,121 | 12,985 | 302
+Net income | $ | 50,719 | 53,546 | 50,536 | 45,713 | 3,167
+Basic earnings per share | $ | 0.35 | 0.37 | 0.35 | 0.31 | 0.02
+Diluted earnings per share | $ | 0.34 | 0.36 | 0.34 | 0.31 | 0.02
+Weighted average common shares outstanding - diluted | 147,460,563 | 147,127,223 | 146,850,635 | 146,703,966 | 141,175,516
+Annualized return on average equity | 10.42 | % | 11.20 | % | 10.86 | % | 9.70 | % | 0.69 | %
+Annualized return on average assets | 1.18 | % | 1.27 | % | 1.22 | % | 1.10 | % | 0.08 | %
+Annualized return on average tangible common equity* | 13.86 | % | 14.94 | % | 14.59 | % | 13.10 | % | 0.90 | %
+Efficiency ratio | 58.94 | % | 57.56 | % | 59.43 | % | 63.09 | % | 79.38 | %
+Efficiency ratio, excluding certain items** | 57.79 | % | 56.24 | % | 57.82 | % | 59.57 | % | 59.63 | %
+* Excludes goodwill and other intangible assets (non-GAAP). See reconciliation of non-GAAP financial measures for additional information relating to these items.
+** Excludes gain on sale of investments, amortization of intangible assets and merger, asset disposition and restructuring expenses (non-GAAP). See reconciliation of non-GAAP financial measures for additional information relating to these items.
+7
+Northwest Bancshares, Inc. and Subsidiaries
+Consolidated Statements of Income (Unaudited)
+(dollars in thousands, except per share amounts)
+Nine months ended September 30,
+2026 | 2025
+Interest income:
+Loans receivable | $ | 549,768 | 497,275
+Mortgage-backed securities | 54,024 | 36,552
+Taxable investment securities | 5,390 | 3,115
+Tax-free investment securities | 2,030 | 1,776
+FHLB stock dividends | 2,567 | 1,336
+Interest-earning deposits | 3,082 | 6,789
+Total interest income | 616,861 | 546,843
+Interest expense:
+Deposits | 152,765 | 146,031
+Borrowed funds | 25,726 | 17,576
+Total interest expense | 178,491 | 163,607
+Net interest income | 438,370 | 383,236
+Provision for credit losses - loans | 14,454 | 51,106
+Provision for credit losses - unfunded commitments | 5,668 | (3,246)
+Net interest income after provision for credit losses | 418,248 | 335,376
+Noninterest income:
+Gain on sale of investments | 660 | 36
+Gain on sale of SBA loans | 3,484 | 2,398
+Service charges and fees | 51,961 | 47,695
+Trust and other financial services income | 28,175 | 23,898
+Gain on real estate owned, net | 405 | 474
+Income from bank-owned life insurance | 6,277 | 4,503
+Mortgage banking income | 1,430 | 2,774
+Other operating income | 10,346 | 9,713
+Total noninterest income | 102,738 | 91,491
+Noninterest expense:
+Compensation and employee benefits | 185,737 | 172,767
+Premises and occupancy costs | 27,300 | 23,229
+Office operations | 11,186 | 9,382
+Collections expense | 2,652 | 1,942
+Processing expenses | 51,206 | 42,035
+Marketing expenses | 6,692 | 6,830
+Federal deposit insurance premiums | 5,773 | 7,985
+Professional services | 10,107 | 9,756
+Amortization of intangible assets | 6,425 | 2,914
+Merger, asset disposition and restructuring expense | 1,295 | 38,627
+Other expenses | 8,919 | 7,308
+Total noninterest expense | 317,292 | 322,775
+Income before income taxes | 203,694 | 104,092
+Income tax expense | 48,893 | 23,792
+Net income | $ | 154,801 | 80,300
+Basic earnings per share | $ | 1.06 | 0.61
+Diluted earnings per share | $ | 1.05 | 0.61
+Weighted average common shares outstanding - diluted | 147,161,720 | 132,700,517
+Annualized return on average equity | 10.82 | % | 6.36 | %
+Annualized return on average assets | 1.22 | % | 0.72 | %
+Annualized return on tangible common equity* | 14.46 | % | 8.29 | %
+Efficiency ratio | 58.64 | % | 67.99 | %
+Efficiency ratio, excluding certain items** | 57.28 | % | 59.25 | %
+* Excludes goodwill and other intangible assets (non-GAAP). See reconciliation of non-GAAP financial measures for additional information relating to these items.
+** Excludes gain on sale of investments, amortization of intangible assets and merger, asset disposition and restructuring expenses (non-GAAP). See reconciliation of non-GAAP financial measures for additional information relating to these items.
+8
+Northwest Bancshares, Inc. and Subsidiaries
+Reconciliation of Non-GAAP Financial Measures (Unaudited) *
+(dollars in thousands, except per share amounts)
+Quarter ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Reconciliation of net income to adjusted net income:
+Net income (GAAP) | $ | 50,719 | 53,546 | 3,167 | 154,801 | 80,300
+Non-GAAP adjustments
+Add: merger, asset disposition and restructuring expense | 238 | 426 | 31,260 | 1,295 | 38,627
+Add: CECL Day 1 non-PCD and unfunded provision expense | — | — | 20,664 | — | 20,664
+Less: tax benefit of non-GAAP adjustments | (67) | (119) | (14,539) | (363) | (16,601)
+Adjusted net income (non-GAAP) | $ | 50,890 | 53,853 | 40,552 | 155,733 | 122,990
+Diluted earnings per share (GAAP) | $ | 0.34 | 0.36 | 0.02 | 1.05 | 0.61
+Diluted adjusted earnings per share (non-GAAP) | $ | 0.35 | 0.37 | 0.29 | 1.06 | 0.93
+Average equity | $ | 1,931,345 | 1,918,135 | 1,809,395 | 1,912,567 | 1,688,030
+Average assets | 17,122,498 | 16,863,639 | 15,942,440 | 16,940,700 | 14,943,347
+Annualized return on average equity (GAAP) | 10.42 | % | 11.20 | % | 0.69 | % | 10.82 | % | 6.36 | %
+Annualized return on average assets (GAAP) | 1.18 | % | 1.27 | % | 0.08 | % | 1.22 | % | 0.72 | %
+Annualized return on average equity, excluding merger, asset disposition and restructuring expense and CECL Day 1 non-PCD and unfunded provision expense, net of tax (non-GAAP) | 10.45 | % | 11.26 | % | 8.89 | % | 10.89 | % | 9.74 | %
+Annualized return on average assets, excluding merger, asset disposition and restructuring expense and CECL Day 1 non-PCD and unfunded provision expense, net of tax (non-GAAP) | 1.18 | % | 1.28 | % | 1.01 | % | 1.23 | % | 1.10 | %
+The following non-GAAP financial measures used by the Company provide information useful to investors in understanding our operating performance and trends, and facilitate comparisons with the performance of our peers. The following table summarizes the non-GAAP financial measures derived from amounts reported in the Company’s Consolidated Statements of Financial Condition.
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Tangible common equity to assets
+Total shareholders’ equity | $ | 1,892,234 | 1,927,407 | 1,904,307 | 1,890,424 | 1,855,736
+Less: goodwill and intangible assets | (478,239) | (480,309) | (481,808) | (483,997) | (486,326)
+Tangible common equity | $ | 1,413,995 | 1,447,098 | 1,422,499 | 1,406,427 | 1,369,410
+Total assets | $ | 17,309,859 | 17,207,139 | 16,907,049 | 16,766,617 | 16,381,009
+Less: goodwill and intangible assets | (478,239) | (480,309) | (481,808) | (483,997) | (486,326)
+Tangible assets | $ | 16,831,620 | 16,726,830 | 16,425,241 | 16,282,620 | 15,894,683
+Tangible common equity to tangible assets | 8.40 | % | 8.65 | % | 8.66 | % | 8.64 | % | 8.62 | %
+Tangible book value per share
+Tangible common equity | $ | 1,413,995 | 1,447,098 | 1,422,499 | 1,406,427 | 1,369,410
+Common shares outstanding | 146,559,425 | 146,396,520 | 146,302,025 | 146,107,964 | 146,097,057
+Tangible book value per share | 9.65 | 9.88 | 9.72 | 9.63 | 9.37
+9
+Northwest Bancshares, Inc. and Subsidiaries
+Reconciliation of Non-GAAP Financial Measures (Unaudited) *
+(dollars in thousands, except per share amounts)
+The following table summarizes the non-GAAP financial measures derived from amounts reported in the Company’s Consolidated Statements of Income.
+Quarter ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | 2026 | 2025
+Annualized return on average tangible common equity
+Net income | $ | 50,719 | 53,546 | 50,536 | 45,713 | 3,167 | 154,801 | 80,300
+Average shareholders’ equity | 1,931,345 | 1,918,135 | 1,887,742 | 1,870,088 | 1,809,395 | 1,912,567 | 1,688,030
+Less: average goodwill and intangible assets | (479,590) | (481,022) | (483,240) | (485,252) | (409,875) | (481,271) | (392,321)
+Average tangible common equity | $ | 1,451,755 | 1,437,113 | 1,404,502 | 1,384,836 | 1,399,520 | 1,431,296 | 1,295,709
+Annualized return on average tangible common equity | 13.86 | % | 14.94 | % | 14.59 | % | 13.10 | % | 0.90 | % | 14.46 | % | 8.29 | %
+Efficiency ratio, excluding gain on sale of investments, amortization and merger, asset disposition and restructuring expenses
+Noninterest expense | $ | 108,971 | 104,283 | 104,038 | 113,521 | 133,498 | 317,292 | 322,775
+Less: amortization expense | (2,070) | (2,166) | (2,189) | (2,257) | (1,974) | (6,425) | (2,914)
+Less: merger, asset disposition and restructuring expenses | (238) | (426) | (631) | (4,160) | (31,260) | (1,295) | (38,627)
+Noninterest expense, excluding amortization and merger, assets disposition and restructuring expenses | $ | 106,663 | 101,691 | 101,218 | 107,104 | 100,264 | 309,572 | 281,234
+Net interest income | $ | 148,950 | 146,938 | 142,482 | 142,166 | 135,974 | 438,370 | 383,236
+Noninterest income | 35,927 | 34,229 | 32,582 | 37,777 | 32,198 | 102,738 | 91,491
+Less: gain on the sale of investments | (313) | (336) | (11) | (142) | (36) | (660) | (36)
+Net interest income plus noninterest income, excluding gain on sale of investments | $ | 184,564 | 180,831 | 175,053 | 179,801 | 168,136 | 540,448 | 474,691
+Efficiency ratio, excluding gain on sale of investments, amortization and merger, asset disposition and restructuring expenses | 57.79 | % | 56.24 | % | 57.82 | % | 59.57 | % | 59.63 | % | 57.28 | % | 59.25 | %
+* The table summarizes the Company’s results from operations on a GAAP basis and on an operating (non-GAAP) basis for the periods indicated. Operating results exclude merger, gain on sale of investments, asset disposition and restructuring expense and amortization expense. The net tax effect was calculated using statutory tax rates of approximately 28.0%. The Company believes this non-GAAP presentation provides a meaningful comparison of operational performance and facilitates a more effective evaluation and comparison of results to assess performance in relation to ongoing operations.
+10
+Northwest Bancshares, Inc. and Subsidiaries
+Deposits (Unaudited)
+(dollars in thousands)
+Generally, deposits in excess of $250,000 per depositor are not insured by the Federal Deposit Insurance Corporation. The following table provides details regarding the Company’s uninsured deposits portfolio:
+As of September 30, 2026
+Balance | Percent of total deposits | Number of relationships
+Uninsured deposits per the Call Report (1) | $ | 4,084,262 | 28.6 | % | 6,330
+Less intercompany deposit accounts | 1,445,562 | 10.1 | % | 12
+Less collateralized deposit accounts | 446,859 | 3.1 | % | 253
+Uninsured deposits excluding intercompany and collateralized accounts | $ | 2,191,841 | 15.4 | % | 6,065
+(1) Uninsured deposits presented may be different from actual amounts due to titling of accounts.
+Our largest uninsured depositor, excluding intercompany and collateralized deposit accounts, had an aggregate uninsured deposit balance of $236 million, or 1.7% of total deposits, as of September 30, 2026. Our top ten largest uninsured depositors, excluding intercompany and collateralized deposit accounts, had an aggregate uninsured deposit balance of $443 million, or 3.1% of total deposits, as of September 30, 2026. The average uninsured deposit account balance, excluding intercompany and collateralized accounts, was $361,392 as of September 30, 2026.
+The following table provides additional details for the Company’s deposit portfolio:
+As of September 30, 2026
+Balance | Percent of total deposits | Number of accounts
+Personal noninterest-bearing demand deposits | $ | 1,729,843 | 12.1 | % | 311,740
+Business noninterest-bearing demand deposits | 1,436,419 | 10.1 | % | 47,697
+Personal interest-bearing demand deposits | 1,361,249 | 9.5 | % | 53,980
+Business interest-bearing demand deposits | 1,680,130 | 11.8 | % | 8,690
+Personal money market deposits | 1,818,126 | 12.7 | % | 28,796
+Business money market deposits | 1,013,119 | 7.1 | % | 3,180
+Savings deposits | 2,438,182 | 17.1 | % | 187,586
+Time deposits | 2,797,970 | 19.6 | % | 74,195
+Total deposits | $ | 14,275,038 | 100.0 | % | 715,864
+Our average deposit account balance as of September 30, 2026 was $19,941. The Company’s insured cash sweep deposit balance was $827 million as of September 30, 2026.
+11
+Northwest Bancshares, Inc. and Subsidiaries
+Regulatory Capital Requirements (Unaudited)
+(dollars in thousands)
+At September 30, 2026
+Actual (1) | Minimum capital requirements (2) | Well capitalized requirements
+Amount | Ratio | Amount | Ratio | Amount | Ratio
+Total capital (to risk weighted assets)
+Northwest Bancshares, Inc. | $ | 1,872,875 | 14.39 | % | $ | 1,366,301 | 10.50 | % | $ | 1,301,239 | 10.00 | %
+Northwest Bank | 1,730,470 | 13.34 | % | 1,361,617 | 10.50 | % | 1,296,778 | 10.00 | %
+Tier 1 capital (to risk weighted assets)
+Northwest Bancshares, Inc. | 1,583,750 | 12.17 | % | 1,106,053 | 8.50 | % | 780,744 | 6.00 | %
+Northwest Bank | 1,568,195 | 12.09 | % | 1,102,262 | 8.50 | % | 1,037,423 | 8.00 | %
+Common equity tier 1 capital (to risk weighted assets)
+Northwest Bancshares, Inc. | 1,583,750 | 12.17 | % | 910,868 | 7.00 | % | N/A | N/A
+Northwest Bank | 1,568,195 | 12.09 | % | 907,745 | 7.00 | % | 842,906 | 6.50 | %
+Tier 1 capital (leverage) (to average assets)
+Northwest Bancshares, Inc. | 1,583,750 | 9.40 | % | 674,178 | 4.00 | % | N/A | N/A
+Northwest Bank | 1,568,195 | 9.31 | % | 673,786 | 4.00 | % | 842,232 | 5.00 | %
+(1) September 30, 2026 figures are estimated.
+(2) Amounts and ratios include the capital conservation buffer of 2.5%, which does not apply to Tier 1 capital to average assets (leverage ratio). For further information related to the capital conservation buffer, see “Item 1. Business - Supervision and Regulation” of our 2025 Annual Report on Form 10-K.
+12
+Northwest Bancshares, Inc. and Subsidiaries
+Marketable Securities (Unaudited)
+(dollars in thousands)
+September 30, 2026
+Marketable securities available-for-sale | Amortized cost | Gross unrealized holding gains | Gross unrealized holding losses | Fair value | Weighted average duration
+Debt issued by the U.S. government and agencies:
+Due after ten years | $ | 39,019 | — | (8,492) | 30,527 | 5.71
+Municipal securities:
+Due in one year or less | 3,578 | — | (28) | 3,550 | 0.65
+Due after one year through five years | 3,299 | — | (101) | 3,198 | 3.05
+Due after five years through ten years | 21,308 | — | (2,707) | 18,601 | 6.48
+Due after ten years | 47,057 | 87 | (10,475) | 36,669 | 9.73
+Corporate debt issues:
+Due after one year through five years | 16,276 | 107 | (367) | 16,016 | 3.31
+Due after five years through ten years | 84,266 | 856 | (1,909) | 83,213 | 6.05
+Due after ten years | 12,000 | 19 | — | 12,019 | 4.33
+Mortgage-backed agency securities:
+Fixed rate pass-through | 516,430 | — | (39,526) | 476,904 | 7.57
+Variable rate pass-through | 344 | 2 | — | 346 | 2.67
+Fixed rate agency CMBS | 625,167 | — | (106,348) | 518,819 | 3.65
+Variable rate agency CMBS | 6,248 | — | (6) | 6,242 | 2.22
+Fixed rate agency CMOs | 571,932 | 10 | (54,214) | 517,728 | 5.03
+Variable rate agency CMOs | 27,709 | 34 | (7) | 27,736 | 6.52
+Total mortgage-backed agency securities | 1,747,830 | 46 | (200,101) | 1,547,775 | 5.36
+Total marketable securities available-for-sale | $ | 1,974,633 | 1,115 | (224,180) | 1,751,568 | 5.47
+Marketable securities held-to-maturity
+Government sponsored:
+Due after one year through five years | $ | 107,991 | — | (9,180) | 98,811 | 2.25
+Mortgage-backed agency securities:
+Fixed rate pass-through | 87,879 | — | (12,431) | 75,448 | 3.70
+Variable rate pass-through | 280 | — | — | 280 | 3.66
+Fixed rate agency CMBS | 70,093 | — | (14,157) | 55,936 | 3.40
+Fixed rate agency CMOs | 345,960 | — | (58,577) | 287,383 | 5.17
+Variable rate agency CMOs | 528 | — | (3) | 525 | 3.42
+Total mortgage-backed agency securities | 504,740 | — | (85,168) | 419,572 | 4.67
+Total marketable securities held-to-maturity | $ | 612,731 | — | (94,348) | 518,383 | 4.24
+13
+Northwest Bancshares, Inc. and Subsidiaries
+Asset Quality (Unaudited)
+(dollars in thousands)
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Nonaccrual loans:
+Residential mortgage loans | $ | 12,508 | 11,766 | 10,500 | 12,247 | 11,497
+Home equity loans | 6,245 | 5,370 | 4,780 | 3,755 | 6,979
+Consumer loans | 5,080 | 4,791 | 5,732 | 5,711 | 5,898
+Commercial real estate loans | 40,348 | 47,440 | 47,337 | 57,485 | 82,580
+Commercial and industrial loans | 34,506 | 21,984 | 22,594 | 28,085 | 21,371
+Total nonaccrual loans | 98,687 | 91,351 | 90,943 | 107,283 | 128,325
+Loans 90 days past due and still accruing | 484 | 573 | 543 | 646 | 701
+Nonperforming loans | 99,171 | 91,924 | 91,486 | 107,929 | 129,026
+Real estate owned, net | 2,772 | 63 | 65 | 76 | 174
+Nonperforming assets | $ | 101,943 | 91,987 | 91,551 | 108,005 | 129,200
+Nonperforming loans to total loans | 0.74 | % | 0.69 | % | 0.70 | % | 0.83 | % | 1.00 | %
+Nonperforming assets to total assets | 0.59 | % | 0.53 | % | 0.54 | % | 0.64 | % | 0.79 | %
+Allowance for credit losses to total loans | 1.12 | % | 1.13 | % | 1.15 | % | 1.15 | % | 1.22 | %
+Allowance for credit losses to nonperforming loans | 150.88 | % | 162.44 | % | 164.01 | % | 139.18 | % | 121.99 | %
+14
+Northwest Bancshares, Inc. and Subsidiaries
+Loans by Credit Quality Indicators (Unaudited)
+(dollars in thousands)
+At September 30, 2026 | Pass | Special mention * | Substandard ** | Doubtful | Loss | Loans receivable
+Personal Banking:
+Residential mortgage loans | $ | 2,971,697 | — | 12,507 | — | — | 2,984,204
+Home equity loans | 1,490,313 | — | 6,246 | — | — | 1,496,559
+Consumer loans | 2,912,520 | — | 5,563 | — | — | 2,918,083
+Total Personal Banking | 7,374,530 | — | 24,316 | — | — | 7,398,846
+Commercial Banking:
+Commercial real estate loans | 2,438,398 | 148,563 | 344,640 | — | — | 2,931,601
+Commercial and industrial loans | 2,915,066 | 47,771 | 98,674 | 1,338 | — | 3,062,849
+Total Commercial Banking | 5,353,464 | 196,334 | 443,314 | 1,338 | — | 5,994,450
+Total loans | $ | 12,727,994 | 196,334 | 467,630 | 1,338 | — | 13,393,296
+At June 30, 2026
+Personal Banking:
+Residential mortgage loans | $ | 2,990,142 | — | 11,766 | — | — | 3,001,908
+Home equity loans | 1,491,787 | — | 5,370 | — | — | 1,497,157
+Consumer loans | 2,837,791 | — | 5,267 | — | — | 2,843,058
+Total Personal Banking | 7,319,720 | — | 22,403 | — | — | 7,342,123
+Commercial Banking:
+Commercial real estate loans | 2,443,890 | 152,441 | 391,906 | — | — | 2,988,237
+Commercial and industrial loans | 2,742,819 | 46,301 | 109,747 | — | — | 2,898,867
+Total Commercial Banking | 5,186,709 | 198,742 | 501,653 | — | — | 5,887,104
+Total loans | $ | 12,506,429 | 198,742 | 524,056 | — | — | 13,229,227
+At March 31, 2026
+Personal Banking:
+Residential mortgage loans | $ | 3,025,485 | — | 10,499 | — | — | 3,035,984
+Home equity loans | 1,491,020 | — | 4,780 | — | — | 1,495,800
+Consumer loans | 2,654,310 | — | 6,257 | — | — | 2,660,567
+Total Personal Banking | 7,170,815 | — | 21,536 | — | — | 7,192,351
+Commercial Banking:
+Commercial real estate loans | 2,651,304 | 147,384 | 362,626 | — | — | 3,161,314
+Commercial and industrial loans | 2,543,444 | 45,383 | 113,456 | — | — | 2,702,283
+Total Commercial Banking | 5,194,748 | 192,767 | 476,082 | — | — | 5,863,597
+Total loans | $ | 12,365,563 | 192,767 | 497,618 | — | — | 13,055,948
+At December 31, 2025
+Personal Banking:
+Residential mortgage loans | $ | 3,088,533 | — | 12,247 | — | — | 3,100,780
+Home equity loans | 1,503,777 | — | 3,755 | — | — | 1,507,532
+Consumer loans | 2,557,577 | — | 6,313 | — | — | 2,563,890
+Total Personal Banking | 7,149,887 | — | 22,315 | — | — | 7,172,202
+Commercial Banking:
+Commercial real estate loans | 2,817,802 | 131,589 | 347,511 | — | — | 3,296,902
+Commercial and industrial loans | 2,392,830 | 61,852 | 83,530 | — | — | 2,538,212
+Total Commercial Banking | 5,210,632 | 193,441 | 431,041 | — | — | 5,835,114
+Total loans | $ | 12,360,519 | 193,441 | 453,356 | — | — | 13,007,316
+At September 30, 2025
+Personal Banking:
+Residential mortgage loans | $ | 3,146,355 | — | 11,498 | — | — | 3,157,853
+Home equity loans | 1,513,914 | — | 6,979 | — | — | 1,520,893
+Consumer loans | 2,447,208 | — | 6,597 | — | — | 2,453,805
+Total Personal Banking | 7,107,477 | — | 25,074 | — | — | 7,132,551
+Commercial Banking:
+Commercial real estate loans | 2,912,166 | 171,005 | 412,493 | — | — | 3,495,664
+Commercial and industrial loans | 2,141,236 | 82,009 | 89,473 | — | — | 2,312,718
+Total Commercial Banking | 5,053,402 | 253,014 | 501,966 | — | — | 5,808,382
+Total loans | $ | 12,160,879 | 253,014 | 527,040 | — | — | 12,940,933
+* Includes $67.2 million, $79.1 million, $85.6 million, $38.2 million, and $41.0 million of acquired loans at September 30, 2026, June 30, 2026, March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+** Includes $177.5 million, $163.0 million, $100.4 million, $93.2 million, and $96.9 million of acquired loans at September 30, 2026, June 30, 2026, March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+15
+Northwest Bancshares, Inc. and Subsidiaries
+Loan Delinquency (Unaudited)
+(dollars in thousands)
+September 30, 2026 | * | June 30, 2026 | * | March 31, 2026 | * | December 31, 2025 | * | September 30, 2025 | *
+Loans delinquent 30 days to 59 days:
+Residential mortgage loans | $ | 1,233 | — | % | $ | 1,140 | — | % | $ | 44,502 | 1.5 | % | $ | 41,180 | 1.3 | % | $ | 1,639 | 0.1 | %
+Home equity loans | 6,535 | 0.4 | % | 6,611 | 0.4 | % | 5,932 | 0.4 | % | 6,488 | 0.4 | % | 4,644 | 0.3 | %
+Consumer loans | 13,411 | 0.5 | % | 11,812 | 0.4 | % | 10,429 | 0.4 | % | 14,063 | 0.5 | % | 12,257 | 0.5 | %
+Commercial real estate loans | 6,457 | 0.2 | % | 4,370 | 0.1 | % | 17,541 | 0.6 | % | 28,645 | 0.9 | % | 14,600 | 0.4 | %
+Commercial and industrial loans | 1,297 | — | % | 2,844 | 0.1 | % | 7,127 | 0.3 | % | 5,657 | 0.2 | % | 9,974 | 0.4 | %
+Total loans delinquent 30 days to 59 days | $ | 28,933 | 0.2 | % | $ | 26,777 | 0.2 | % | $ | 85,531 | 0.7 | % | $ | 96,033 | 0.7 | % | $ | 43,114 | 0.3 | %
+Loans delinquent 60 days to 89 days:
+Residential mortgage loans | $ | 5,830 | 0.2 | % | $ | 7,468 | 0.2 | % | $ | 2,531 | 0.1 | % | $ | 10,934 | 0.4 | % | $ | 7,917 | 0.3 | %
+Home equity loans | 1,603 | 0.1 | % | 2,116 | 0.1 | % | 2,946 | 0.2 | % | 2,316 | 0.2 | % | 2,671 | 0.2 | %
+Consumer loans | 4,478 | 0.2 | % | 3,508 | 0.1 | % | 4,264 | 0.2 | % | 4,599 | 0.2 | % | 3,691 | 0.2 | %
+Commercial real estate loans | 5,416 | 0.2 | % | 3,208 | 0.1 | % | 25,859 | 0.8 | % | 12,941 | 0.4 | % | 1,575 | — | %
+Commercial and industrial loans | 22,661 | 0.7 | % | 5,837 | 0.2 | % | 8,432 | 0.3 | % | 2,899 | 0.1 | % | 1,915 | 0.1 | %
+Total loans delinquent 60 days to 89 days | $ | 39,988 | 0.3 | % | $ | 22,137 | 0.2 | % | $ | 44,032 | 0.3 | % | $ | 33,689 | 0.3 | % | $ | 17,769 | 0.1 | %
+Loans delinquent 90 days or more:
+Residential mortgage loans | $ | 10,901 | 0.4 | % | $ | 10,671 | 0.4 | % | $ | 6,468 | 0.2 | % | $ | 10,001 | 0.3 | % | $ | 9,427 | 0.3 | %
+Home equity loans | 5,014 | 0.3 | % | 4,343 | 0.3 | % | 3,263 | 0.2 | % | 2,492 | 0.2 | % | 2,963 | 0.2 | %
+Consumer loans | 4,224 | 0.1 | % | 4,038 | 0.1 | % | 4,561 | 0.2 | % | 4,893 | 0.2 | % | 4,865 | 0.2 | %
+Commercial real estate loans | 15,944 | 0.5 | % | 29,840 | 1.0 | % | 18,282 | 0.6 | % | 32,745 | 1.0 | % | 56,453 | 1.6 | %
+Commercial and industrial loans | 11,945 | 0.4 | % | 15,659 | 0.5 | % | 11,266 | 0.4 | % | 16,269 | 0.6 | % | 9,490 | 0.4 | %
+Total loans delinquent 90 days or more | $ | 48,028 | 0.4 | % | $ | 64,551 | 0.5 | % | $ | 43,840 | 0.3 | % | $ | 66,400 | 0.5 | % | $ | 83,198 | 0.6 | %
+Total loans delinquent | $ | 116,949 | 0.9 | % | $ | 113,465 | 0.9 | % | $ | 173,403 | 1.3 | % | $ | 196,122 | 1.5 | % | $ | 144,081 | 1.1 | %
+* Represents delinquency, in dollars, divided by the respective total amount of that type of loan outstanding.
+16
+Northwest Bancshares, Inc. and Subsidiaries
+Allowance for Credit Losses (Unaudited)
+(dollars in thousands)
+Quarter ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Beginning balance | $ | 149,321 | 150,045 | 150,212 | 157,396 | 129,159
+Initial allowance on loans purchased with credit deterioration | — | — | — | — | 6,029
+Provision | 5,220 | 4,280 | 4,954 | 5,743 | 31,394
+Charge-offs residential mortgage | (617) | (465) | (1,001) | (228) | (137)
+Charge-offs home equity | (199) | (383) | (291) | (558) | (336)
+Charge-offs consumer | (3,543) | (4,121) | (4,531) | (4,139) | (3,994)
+Charge-offs commercial real estate | (1,694) | (889) | (254) | (9,765) | (4,312)
+Charge-offs commercial and industrial | (1,565) | (945) | (1,155) | (532) | (2,395)
+Recoveries | 2,703 | 1,799 | 2,111 | 2,295 | 1,988
+Ending balance | $ | 149,626 | 149,321 | 150,045 | 150,212 | 157,396
+Net charge-offs to average loans, annualized | 0.15 | % | 0.15 | % | 0.16 | % | 0.40 | % | 0.29 | %
+Nine months ended September 30,
+2026 | 2025
+Beginning balance | $ | 150,212 | 116,819
+Initial allowance on loans purchased with credit deterioration | — | 6,029
+Provision | 14,454 | 51,106
+Charge-offs residential mortgage | (2,083) | (998)
+Charge-offs home equity | (873) | (1,022)
+Charge-offs consumer | (12,195) | (11,130)
+Charge-offs commercial real estate | (2,837) | (4,721)
+Charge-offs commercial and industrial | (3,665) | (6,563)
+Recoveries | 6,613 | 7,876
+Ending balance | $ | 149,626 | 157,396
+Net charge-offs to average loans, annualized | 0.15 | % | 0.19 | %
+17
+Northwest Bancshares, Inc. and Subsidiaries
+Average Balance Sheet (Unaudited)
+(dollars in thousands)
+The following table sets forth certain information relating to the Company’s average balance sheet and reflects the average yield on assets and average cost of liabilities for the periods indicated. Such yields and costs are derived by dividing income or expense by the average balance of assets or liabilities, respectively, for the periods presented. Average balances are calculated using daily averages.
+Quarter ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Average balance | Interest | Avg. yield/ cost | Average balance | Interest | Avg. yield/ cost | Average balance | Interest | Avg. yield/ cost | Average balance | Interest | Avg. yield/ cost | Average balance | Interest | Avg. yield/ cost
+Assets:
+Interest-earning assets:
+Residential mortgage loans | $ | 3,003,745 | 30,494 | 4.06 | % | $ | 3,030,237 | 30,219 | 3.99 | % | $ | 3,078,476 | 30,596 | 3.98 | % | $ | 3,147,858 | 31,814 | 4.04 | % | $ | 3,160,008 | 31,386 | 3.97 | %
+Home equity loans | 1,490,806 | 22,127 | 5.89 | % | 1,494,049 | 21,798 | 5.85 | % | 1,501,203 | 21,512 | 5.81 | % | 1,512,049 | 22,802 | 5.98 | % | 1,421,717 | 21,080 | 5.88 | %
+Consumer loans | 2,798,690 | 38,147 | 5.41 | % | 2,658,435 | 36,064 | 5.44 | % | 2,529,868 | 34,270 | 5.49 | % | 2,412,579 | 34,436 | 5.66 | % | 2,330,173 | 32,729 | 5.57 | %
+Commercial real estate loans | 3,028,012 | 47,304 | 6.11 | % | 3,131,545 | 49,291 | 6.23 | % | 3,342,140 | 51,337 | 6.14 | % | 3,468,667 | 53,345 | 6.02 | % | 3,377,740 | 51,761 | 6.00 | %
+Commercial and industrial loans | 2,981,025 | 49,361 | 6.48 | % | 2,779,969 | 45,753 | 6.51 | % | 2,632,150 | 43,497 | 6.61 | % | 2,441,346 | 42,447 | 6.80 | % | 2,278,859 | 41,519 | 7.13 | %
+Total loans receivable (a) (b) (d) | 13,302,278 | 187,433 | 5.59 | % | 13,094,235 | 183,125 | 5.61 | % | 13,083,837 | 181,212 | 5.62 | % | 12,982,499 | 184,844 | 5.65 | % | 12,568,497 | 178,475 | 5.63 | %
+Mortgage-backed securities (c) | 2,301,769 | 19,001 | 3.30 | % | 2,232,535 | 18,024 | 3.23 | % | 2,148,996 | 16,999 | 3.16 | % | 1,892,074 | 14,071 | 2.97 | % | 1,810,209 | 12,668 | 2.80 | %
+Investment securities (c) (d) | 303,130 | 2,741 | 3.62 | % | 299,068 | 2,652 | 3.55 | % | 317,996 | 2,566 | 3.23 | % | 309,147 | 2,339 | 3.03 | % | 301,719 | 2,153 | 2.85 | %
+FHLB stock, at cost | 44,956 | 1,061 | 9.36 | % | 34,416 | 738 | 8.60 | % | 36,220 | 768 | 8.59 | % | 32,876 | 701 | 8.46 | % | 30,434 | 652 | 8.51 | %
+Other interest-earning deposits | 93,723 | 775 | 3.24 | % | 141,898 | 1,436 | 4.00 | % | 139,970 | 871 | 2.49 | % | 170,370 | 1,905 | 4.37 | % | 164,131 | 1,700 | 4.05 | %
+Total interest-earning assets | 16,045,856 | 211,011 | 5.22 | % | 15,802,152 | 205,975 | 5.23 | % | 15,727,019 | 202,416 | 5.22 | % | 15,386,966 | 203,860 | 5.26 | % | 14,874,990 | 195,648 | 5.22 | %
+Noninterest-earning assets (e) | 1,076,642 | 1,061,487 | 1,105,758 | 1,107,042 | 1,067,450
+Total assets | $ | 17,122,498 | $ | 16,863,639 | $ | 16,832,777 | $ | 16,494,008 | $ | 15,942,440
+Liabilities and shareholders’ equity:
+Interest-bearing liabilities:
+Savings deposits | $ | 2,447,880 | 6,918 | 1.12 | % | $ | 2,447,522 | 6,531 | 1.07 | % | $ | 2,395,887 | 6,072 | 1.03 | % | $ | 2,362,215 | 6,324 | 1.06 | % | $ | 2,343,137 | 6,679 | 1.13 | %
+Interest-bearing demand deposit | 2,960,536 | 8,505 | 1.14 | % | 2,973,878 | 8,422 | 1.14 | % | 2,999,478 | 8,741 | 1.18 | % | 2,940,296 | 9,084 | 1.23 | % | 2,782,369 | 8,258 | 1.18 | %
+Money market deposit accounts | 2,802,942 | 13,828 | 1.96 | % | 2,728,590 | 12,723 | 1.87 | % | 2,609,333 | 12,128 | 1.88 | % | 2,522,362 | 12,499 | 1.97 | % | 2,392,748 | 11,785 | 1.95 | %
+Time deposits | 2,799,072 | 22,047 | 3.12 | % | 2,882,261 | 22,708 | 3.16 | % | 2,967,098 | 24,142 | 3.30 | % | 2,841,234 | 25,040 | 3.50 | % | 2,818,526 | 25,158 | 3.54 | %
+Total interest-bearing deposits (g) | 11,010,430 | 51,298 | 1.85 | % | 11,032,251 | 50,384 | 1.83 | % | 10,971,796 | 51,083 | 1.89 | % | 10,666,107 | 52,947 | 1.97 | % | 10,336,780 | 51,880 | 1.99 | %
+Borrowed funds (f) | 617,533 | 6,128 | 3.94 | % | 379,262 | 3,740 | 3.96 | % | 404,547 | 3,875 | 3.88 | % | 354,894 | 3,425 | 3.83 | % | 347,357 | 3,366 | 3.84 | %
+Subordinated debt | 94,835 | 1,862 | 7.68 | % | 114,800 | 2,200 | 7.58 | % | 114,800 | 2,204 | 7.68 | % | 114,800 | 2,285 | 7.79 | % | 114,745 | 1,335 | 4.65 | %
+Junior subordinated debentures | 130,245 | 1,933 | 5.81 | % | 130,181 | 1,878 | 5.70 | % | 130,121 | 1,906 | 5.86 | % | 130,051 | 2,002 | 6.02 | % | 129,986 | 2,123 | 6.39 | %
+Total interest-bearing liabilities | 11,853,043 | 61,221 | 2.05 | % | 11,656,494 | 58,202 | 2.00 | % | 11,621,264 | 59,068 | 2.06 | % | 11,265,852 | 60,659 | 2.14 | % | 10,928,868 | 58,704 | 2.13 | %
+Noninterest-bearing demand deposits (g) | 3,129,524 | 3,101,574 | 3,074,939 | 3,105,108 | 2,959,871
+Noninterest-bearing liabilities | 208,586 | 187,436 | 248,832 | 252,960 | 244,306
+Total liabilities | 15,191,153 | 14,945,504 | 14,945,035 | 14,623,920 | 14,133,045
+Shareholders’ equity | 1,931,345 | 1,918,135 | 1,887,742 | 1,870,088 | 1,809,395
+Total liabilities and shareholders’ equity | $ | 17,122,498 | $ | 16,863,639 | $ | 16,832,777 | $ | 16,494,008 | $ | 15,942,440
+Net interest income/Interest rate spread FTE | 149,790 | 3.17 | % | 147,773 | 3.23 | % | 143,348 | 3.16 | % | 143,201 | 3.12 | % | 136,944 | 3.09 | %
+Net interest-earning assets/Net interest margin FTE | $ | 4,192,813 | 3.70 | % | $ | 4,145,658 | 3.75 | % | $ | 4,105,755 | 3.70 | % | $ | 4,121,114 | 3.69 | % | $ | 3,946,122 | 3.65 | %
+Tax equivalent adjustment (d) | 840 | 835 | 866 | 1,035 | 970
+Net interest income, GAAP basis | 148,950 | 146,938 | 142,482 | 142,166 | 135,974
+Ratio of interest-earning assets to interest-bearing liabilities | 1.35X | 1.36X | 1.35X | 1.37X | 1.36X
+(a) Average gross loans receivable includes loans held as available-for-sale and loans placed on nonaccrual status.
+(b) Interest income includes accretion/amortization of deferred loan fees/expenses, which was not material.
+(c) Average balances do not include the effect of unrealized gains or losses on securities held as available-for-sale.
+(d) Interest income on tax-free investment securities and tax-free loans are presented on a fully taxable equivalent (“FTE”) basis.
+(e) Average balances include the effect of unrealized gains or losses on securities held as available-for-sale.
+(f) Average balances include FHLB borrowings and collateralized borrowings.
+(g) Average cost of total deposits were 1.44%, 1.43%, 1.48%, 1.53%, and 1.55%, respectively.
+18
+Northwest Bancshares, Inc. and Subsidiaries
+Average Balance Sheet (Unaudited)
+(in thousands)
+The following table sets forth certain information relating to the Company’s average balance sheet and reflects the average yield on interest-earning assets and average cost of interest-bearing liabilities for the periods indicated. Such yields and costs are derived by dividing income or expense by the average balance of assets or liabilities, respectively, for the periods presented. Average balances are calculated using daily averages.
+Nine months ended September 30,
+2026 | 2025
+Average balance | Interest | Avg. yield/cost | Average balance | Interest | Avg. yield/cost
+Assets
+Interest-earning assets:
+Residential mortgage loans | $ | 3,037,212 | 91,308 | 4.01 | % | $ | 3,135,705 | 91,758 | 3.90 | %
+Home equity loans | 1,495,315 | 65,437 | 5.85 | % | 1,236,733 | 53,509 | 5.78 | %
+Consumer loans | 2,663,316 | 108,481 | 5.45 | % | 2,118,568 | 87,650 | 5.53 | %
+Commercial real estate loans | 3,166,082 | 147,933 | 6.16 | % | 3,033,193 | 151,726 | 6.60 | %
+Commercial loans | 2,798,992 | 138,610 | 6.53 | % | 2,145,555 | 114,818 | 7.06 | %
+Loans receivable (a) (b) (d) | 13,160,917 | 551,769 | 5.61 | % | 11,669,754 | 499,461 | 5.72 | %
+Mortgage-backed securities (c) | 2,228,326 | 54,024 | 3.23 | % | 1,791,479 | 36,552 | 2.72 | %
+Investment securities (c) (d) | 306,677 | 7,960 | 3.46 | % | 277,338 | 5,420 | 2.61 | %
+FHLB stock, at cost | 38,563 | 2,567 | 8.90 | % | 23,080 | 1,336 | 7.74 | %
+Other interest-earning deposits | 125,197 | 3,082 | 3.25 | % | 209,320 | 6,789 | 4.28 | %
+Total interest-earning assets | 15,859,680 | 619,402 | 5.22 | % | 13,970,971 | 549,558 | 5.26 | %
+Noninterest-earning assets (e) | 1,081,020 | 972,376
+Total assets | $ | 16,940,700 | $ | 14,943,347
+Liabilities and shareholders’ equity
+Interest-bearing liabilities:
+Savings deposits | $ | 2,430,620 | 19,521 | 1.07 | % | $ | 2,250,418 | 19,653 | 1.17 | %
+Interest-bearing demand deposits | 2,977,822 | 25,667 | 1.15 | % | 2,662,521 | 22,513 | 1.13 | %
+Money market deposit accounts | 2,714,331 | 38,680 | 1.91 | % | 2,200,063 | 30,748 | 1.87 | %
+Time deposits | 2,882,195 | 68,897 | 3.20 | % | 2,683,081 | 73,117 | 3.64 | %
+Total interest-bearing deposits (g) | 11,004,968 | 152,765 | 1.86 | % | 9,796,083 | 146,031 | 1.99 | %
+Borrowed funds (f) | 467,894 | 13,744 | 3.93 | % | 260,392 | 7,618 | 3.91 | %
+Subordinated debt | 108,072 | 6,266 | 7.65 | % | 114,661 | 3,631 | 4.22 | %
+Junior subordinated debentures | 130,183 | 5,716 | 5.79 | % | 129,922 | 6,327 | 6.42 | %
+Total interest-bearing liabilities | 11,711,117 | 178,491 | 2.04 | % | 10,301,058 | 163,607 | 2.12 | %
+Noninterest-bearing demand deposits (g) | 3,102,212 | 2,721,350
+Noninterest-bearing liabilities | 214,804 | 232,909
+Total liabilities | 15,028,133 | 13,255,317
+Shareholders’ equity | 1,912,567 | 1,688,030
+Total liabilities and shareholders’ equity | $ | 16,940,700 | $ | 14,943,347
+Net interest income/Interest rate spread | 440,911 | 3.18 | % | 385,951 | 3.14 | %
+Net interest-earning assets/Net interest margin | $ | 4,148,563 | 3.72 | % | $ | 3,669,913 | 3.69 | %
+Tax equivalent adjustment (d) | 2,541 | 2,715
+Net interest income, GAAP basis | 438,370 | 383,236
+Ratio of interest-earning assets to interest-bearing liabilities | 1.35X | 1.36X
+(a)Average gross loans receivable includes loans held as available-for-sale and loans placed on nonaccrual status.
+(b)Interest income includes accretion/amortization of deferred loan fees/expenses, which were not material.
+(c)Average balances do not include the effect of unrealized gains or losses on securities held as available-for-sale.
+(d)Interest income on tax-free investment securities and tax-free loans are presented on a fully taxable equivalent (“FTE”) basis.
+(e)Average balances include the effect of unrealized gains or losses on securities held as available-for-sale.
+(f)Average balances include FHLB borrowings and collateralized borrowings.
+(g)Average cost of deposits were 1.45% and 1.56%, respectively.
+19

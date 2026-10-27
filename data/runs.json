@@ -453,5 +453,77 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T10:05:52+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-27-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 9,
+      "total": 9,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 64,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-25",
+      "end": "2026-10-26",
+      "hits": 69,
+      "results_filings": 64,
+      "new": 64,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1693577",
+        "company": "MainStreet Bancshares, Inc.",
+        "status": "saved",
+        "accession": "0001437749-26-033461",
+        "release_date": "2026-10-26",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1471265",
+        "company": "Northwest Bancshares, Inc.",
+        "status": "saved",
+        "accession": "0001471265-26-000044",
+        "release_date": "2026-10-26",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000066",
+        "release_date": "2026-07-22",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

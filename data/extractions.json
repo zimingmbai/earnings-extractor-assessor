@@ -271,5 +271,115 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006396/cosm_ex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006396/0001477932-26-006396-index.htm",
     "saved_at": "2026-10-25T21:35:51+08:00"
+  },
+  {
+    "cik": "1693577",
+    "company": "MainStreet Bancshares, Inc.",
+    "accession": "0001437749-26-033461",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 3.603,
+        "unit": "USD millions",
+        "quote": "Net income | 12,371 | 11,560 | 3,603"
+      },
+      "diluted_eps": {
+        "value": 0.43,
+        "unit": "USD per share",
+        "quote": "Earnings per common share (basic and diluted) | $ | 0.43"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The net interest margin rose slightly and net interest income increased for a fourth quarter in a row.",
+        "quote": "The net interest margin was 3.55% for the quarter, up two basis points from the previous quarter. Net interest income increased to $18.8 million for the quarter, marking the fourth consecutive quarterly increase."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The bank added a provision for credit losses that reduced earnings per share.",
+        "quote": "the Bank exercised targeted credit remediation by adding a $1.9 million provision for credit losses, an impact on earnings per common share of ($0.21)"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The Chairman and CEO says the bank is managing commercial real estate adjustments carefully.",
+        "quote": "No sector is entirely immune to broader economic realignments, and we are managing through commercial real estate adjustments with eyes wide open"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management cites rising net interest income but also a higher credit provision and careful work on commercial real estate credit."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1693577-0001437749-26-033461.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926033461/ex_990544.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926033461/0001437749-26-033461-index.htm",
+    "saved_at": "2026-10-27T10:05:52+08:00"
+  },
+  {
+    "cik": "1471265",
+    "company": "Northwest Bancshares, Inc.",
+    "accession": "0001471265-26-000044",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 50.719,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 50,719"
+      },
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.34"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter was strong, with record revenue and net interest income.",
+        "quote": "The Northwest Team delivered yet another quarter of strong performance, with record total revenue and net interest income"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Commercial and industrial lending grew strongly from a year earlier.",
+        "quote": "We drove 31% year-over-year average loan growth in our C&I business"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says it kept expenses under control, with an efficiency ratio of 58.9%.",
+        "quote": "maintained our expense management discipline, with an efficiency ratio of 58.9% and adjusted efficiency ratio of 57.8%"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects a strong fourth quarter.",
+        "quote": "We look forward to a strong finish in the fourth quarter of 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes strong performance, record revenue and expects a strong fourth quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1471265-0001471265-26-000044.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/a2026-09x30nwbi8ker.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/0001471265-26-000044-index.htm",
+    "saved_at": "2026-10-27T10:05:52+08:00"
   }
 ]
