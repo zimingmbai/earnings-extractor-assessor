@@ -696,5 +696,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-28T06:38:01+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-28-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 4,
+      "failures": [
+        {
+          "name": "EAGLE BANCORP INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Cosmos Health Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "MainStreet Bancshares, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Northwest Bancshares, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 4,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 16
+    },
+    "companies": [
+      {
+        "cik": "1050441",
+        "company": "EAGLE BANCORP INC",
+        "accession": "0001050441-26-000110",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1474167",
+        "company": "Cosmos Health Inc.",
+        "accession": "0001477932-26-006396",
+        "period_label": "quarter ended 30 September 2026 (no results given, outlook only)",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1693577",
+        "company": "MainStreet Bancshares, Inc.",
+        "accession": "0001437749-26-033461",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1471265",
+        "company": "Northwest Bancshares, Inc.",
+        "accession": "0001471265-26-000044",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 0 figures confirmed, 0 mismatches, 16 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-28T06:09:09+08:00",
+      "watch_brief": "briefs/2026-10-28-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
