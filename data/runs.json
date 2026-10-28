@@ -811,5 +811,78 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-10-29T06:10:20+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-29-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 4,
+      "failures": [
+        {
+          "name": "Earnings radar, page 1",
+          "detail": "blocked_by_routine_network: efts.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Alphabet filings list",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Amazon filings list",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Meta Platforms filings list",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "radar_new": null,
+      "companies": 3,
+      "new": 0,
+      "saved": 0,
+      "no_new": 0,
+      "failed": 3
+    },
+    "radar": {
+      "ok": false,
+      "start": "2026-10-26",
+      "end": "2026-10-28",
+      "hits": null,
+      "results_filings": 0,
+      "new": null,
+      "watchlist_new": [],
+      "detail": "blocked_by_routine_network: efts.sec.gov (the network proxy answered 403)"
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "failed",
+        "accession": null,
+        "release_date": null,
+        "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "failed",
+        "accession": null,
+        "release_date": null,
+        "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "failed",
+        "accession": null,
+        "release_date": null,
+        "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+      }
+    ],
+    "offline": false
   }
 ]
