@@ -1,112 +1,142 @@
 {
-  "fetched_at": "2026-10-27T08:45:31+08:00",
+  "fetched_at": "2026-10-28T08:28:13+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-10-25",
-    "end": "2026-10-26",
+    "start": "2026-10-26",
+    "end": "2026-10-27",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 21,
+  "answered": 21,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 468 ms"
+      "detail": "HTTP 200, 60 KB in 162 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 60 KB in 72 ms"
+    },
+    {
+      "name": "Earnings radar, page 3",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
+      "ok": true,
+      "detail": "HTTP 200, 30 KB in 60 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 63 ms"
+      "detail": "HTTP 200, 148 KB in 78 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 113 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 20 ms"
+      "detail": "HTTP 200, 155 KB in 41 ms"
     },
     {
-      "name": "MainStreet Bancshares, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926033461/index.json",
+      "name": "PayPal Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 109 ms"
+      "detail": "HTTP 200, 1 KB in 56 ms"
     },
     {
-      "name": "MainStreet Bancshares, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926033461/ex_990544.htm",
+      "name": "PayPal Holdings, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 924 KB in 182 ms"
+      "detail": "HTTP 200, 10 KB in 48 ms"
     },
     {
-      "name": "Northwest Bancshares, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/index.json",
+      "name": "PayPal Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/pypl3q-26earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 85 ms"
+      "detail": "HTTP 200, 551 KB in 79 ms"
     },
     {
-      "name": "Northwest Bancshares, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/0001471265-26-000044-index.htm",
+      "name": "STAG Industrial, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/index.json",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 230 ms"
+      "detail": "HTTP 200, 1 KB in 46 ms"
     },
     {
-      "name": "Northwest Bancshares, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/a2026-09x30nwbi8ker.htm",
+      "name": "STAG Industrial, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/0001479094-26-000032-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,487 KB in 161 ms"
+      "detail": "HTTP 200, 10 KB in 45 ms"
+    },
+    {
+      "name": "STAG Industrial, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/q32026earningsrelease.htm",
+      "ok": true,
+      "detail": "HTTP 200, 461 KB in 59 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 126 ms"
+      "detail": "HTTP 200, 3,090 KB in 65 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 66 ms"
+      "detail": "HTTP 200, 4,373 KB in 77 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 114 ms"
+      "detail": "HTTP 200, 2,736 KB in 120 ms"
     },
     {
-      "name": "MainStreet Bancshares, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001693577.json",
+      "name": "PayPal Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001633917.json",
       "ok": true,
-      "detail": "HTTP 200, 2,134 KB in 316 ms"
+      "detail": "HTTP 200, 3,086 KB in 101 ms"
     },
     {
-      "name": "Northwest Bancshares, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001471265.json",
+      "name": "STAG Industrial, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001479094.json",
       "ok": true,
-      "detail": "HTTP 200, 4,778 KB in 154 ms"
+      "detail": "HTTP 200, 3,128 KB in 249 ms"
     },
     {
       "name": "EAGLE BANCORP INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001050441.json",
       "ok": true,
-      "detail": "HTTP 200, 5,163 KB in 871 ms"
+      "detail": "HTTP 200, 5,163 KB in 428 ms"
     },
     {
       "name": "Cosmos Health Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001474167.json",
       "ok": true,
-      "detail": "HTTP 200, 2,245 KB in 743 ms"
+      "detail": "HTTP 200, 2,245 KB in 204 ms"
+    },
+    {
+      "name": "MainStreet Bancshares, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001693577.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,134 KB in 50 ms"
+    },
+    {
+      "name": "Northwest Bancshares, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001471265.json",
+      "ok": true,
+      "detail": "HTTP 200, 4,778 KB in 442 ms"
     }
   ],
   "files": [
@@ -115,16 +145,21 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001471265.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001474167.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001479094.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001633917.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001693577.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_0001471265-26-000044-index.htm",
-    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_a2026-09x30nwbi8ker.htm",
-    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_index.json",
-    "www.sec.gov_Archives_edgar_data_1693577_000143774926033461_ex_990544.htm",
-    "www.sec.gov_Archives_edgar_data_1693577_000143774926033461_index.json"
+    "efts.sec.gov_search-index_from100.json",
+    "efts.sec.gov_search-index_from200.json",
+    "www.sec.gov_Archives_edgar_data_1479094_000147909426000032_0001479094-26-000032-index.htm",
+    "www.sec.gov_Archives_edgar_data_1479094_000147909426000032_index.json",
+    "www.sec.gov_Archives_edgar_data_1479094_000147909426000032_q32026earningsrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1633917_000163391726000086_0001633917-26-000086-index.htm",
+    "www.sec.gov_Archives_edgar_data_1633917_000163391726000086_index.json",
+    "www.sec.gov_Archives_edgar_data_1633917_000163391726000086_pypl3q-26earningsrelease.htm"
   ]
 }
