@@ -1,174 +1,168 @@
 {
-  "fetched_at": "2026-11-25T12:32:15+08:00",
+  "fetched_at": "2026-11-26T11:30:32+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-10",
-    "end": "2026-11-24",
+    "start": "2026-11-11",
+    "end": "2026-11-25",
     "first_run": false,
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 24,
+  "answered": 24,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 250 ms"
+      "detail": "HTTP 200, 60 KB in 671 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1377 ms"
+      "detail": "HTTP 200, 60 KB in 717 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 862 ms"
+      "detail": "HTTP 200, 60 KB in 666 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 665 ms"
+      "detail": "HTTP 200, 59 KB in 638 ms"
     },
     {
       "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 118 ms"
+      "detail": "HTTP 200, 60 KB in 570 ms"
     },
     {
       "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 163 ms"
+      "detail": "HTTP 200, 60 KB in 581 ms"
     },
     {
       "name": "Earnings radar, page 7",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 125 ms"
+      "detail": "HTTP 200, 61 KB in 556 ms"
     },
     {
       "name": "Earnings radar, page 8",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 184 ms"
-    },
-    {
-      "name": "Earnings radar, page 9",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
-      "ok": true,
-      "detail": "HTTP 200, 45 KB in 141 ms"
+      "detail": "HTTP 200, 10 KB in 667 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 107 ms"
+      "detail": "HTTP 200, 148 KB in 138 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 86 ms"
+      "detail": "HTTP 200, 1 KB in 212 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 124 ms"
+      "detail": "HTTP 200, 361 KB in 89 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 61 ms"
+      "detail": "HTTP 200, 156 KB in 21 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 63 ms"
+      "detail": "HTTP 200, 1 KB in 101 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 102 ms"
+      "detail": "HTTP 200, 657 KB in 119 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 70 ms"
+      "detail": "HTTP 200, 154 KB in 21 ms"
     },
     {
-      "name": "AirJoule Technologies Corp. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/index.json",
+      "name": "Newton Golf Company, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226051760/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 299 ms"
+      "detail": "HTTP 200, 1 KB in 99 ms"
     },
     {
-      "name": "AirJoule Technologies Corp. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/airj-ex99_1.htm",
+      "name": "Newton Golf Company, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226051760/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 489 KB in 91 ms"
+      "detail": "HTTP 200, 131 KB in 135 ms"
     },
     {
-      "name": "Chaince Digital Holdings Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226052781/index.json",
+      "name": "TOMI Environmental Solutions, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/314227/000165495426009790/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 75 ms"
+      "detail": "HTTP 200, 1 KB in 124 ms"
     },
     {
-      "name": "Chaince Digital Holdings Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226052781/ex99-1.htm",
+      "name": "TOMI Environmental Solutions, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/314227/000165495426009790/tomz_ex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 32 KB in 136 ms"
+      "detail": "HTTP 200, 160 KB in 128 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 174 ms"
+      "detail": "HTTP 200, 3,175 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 201 ms"
+      "detail": "HTTP 200, 4,447 KB in 30 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 103 ms"
+      "detail": "HTTP 200, 2,745 KB in 27 ms"
     },
     {
-      "name": "AirJoule Technologies Corp. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001855474.json",
+      "name": "Newton Golf Company, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001934245.json",
       "ok": true,
-      "detail": "HTTP 200, 624 KB in 397 ms"
+      "detail": "HTTP 200, 469 KB in 113 ms"
     },
     {
-      "name": "Chaince Digital Holdings Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001527762.json",
+      "name": "TOMI Environmental Solutions, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000314227.json",
       "ok": true,
-      "detail": "HTTP 200, 889 KB in 119 ms"
+      "detail": "HTTP 200, 2,410 KB in 261 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000314227.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001527762.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001855474.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001934245.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -180,14 +174,13 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
-    "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1527762_000149315226052781_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1527762_000149315226052781_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_1855474_000185547426000003_airj-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1855474_000185547426000003_index.json"
+    "www.sec.gov_Archives_edgar_data_1934245_000149315226051760_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1934245_000149315226051760_index.json",
+    "www.sec.gov_Archives_edgar_data_314227_000165495426009790_index.json",
+    "www.sec.gov_Archives_edgar_data_314227_000165495426009790_tomz_ex991.htm"
   ]
 }
